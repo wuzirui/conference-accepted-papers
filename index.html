@@ -4,11 +4,72 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Conference Accepted Papers</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        a {
+            text-decoration: none;
+            color: #007BFF;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .instructions {
+            margin-bottom: 20px;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+    </style>
 </head>
 <body>
     <h1>Conference Accepted Papers</h1>
-    <ul>
-        <li><a href="conf/CVPR/2025.json">CVPR 2025</a></li>
+    <div class="instructions">
+        <p>Welcome to the Conference Accepted Papers page. Below is a list of conferences and their accepted papers. Click on a conference to view its details.</p>
+    </div>
+    <ul id="conference-list">
+        <!-- Conferences will be dynamically loaded here -->
     </ul>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const conferenceList = document.getElementById('conference-list');
+
+            fetch('conf/index.json')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    Object.entries(data).forEach(([name, url]) => {
+                        const listItem = document.createElement('li');
+                        const link = document.createElement('a');
+                        link.href = url;
+                        link.textContent = name;
+                        listItem.appendChild(link);
+                        conferenceList.appendChild(listItem);
+                    });
+                })
+                .catch(error => {
+                    console.error('Error fetching the conference data:', error);
+                    conferenceList.innerHTML = '<li>Failed to load conferences. Please try again later.</li>';
+                });
+        });
+    </script>
 </body>
 </html>
