@@ -20938,6 +20938,171 @@
             ]
         },
         {
+            "Title": "Task-Specific Fine-Tuning via Variational Information Bottleneck for Weakly-Supervised Pathology Whole Slide Image Classification",
+            "Authors": [
+                "Honglin Li",
+                "Chenglu Zhu",
+                "Yunlong Zhang",
+                "Yuxuan Sun",
+                "Zhongyi Shui",
+                "Wenwei Kuang",
+                "Sunyi Zheng",
+                "Lin Yang"
+            ]
+        },
+        {
+            "Title": "VNE: An Effective Method for Improving Deep Representation by Manipulating Eigenvalue Distribution",
+            "Authors": [
+                "Jaeill Kim",
+                "Suhyun Kang",
+                "Duhun Hwang",
+                "Jungwook Shin",
+                "Wonjong Rhee"
+            ]
+        },
+        {
+            "Title": "OmniVidar: Omnidirectional Depth Estimation From Multi-Fisheye Images",
+            "Authors": [
+                "Sheng Xie",
+                "Daochuan Wang",
+                "Yun-Hui Liu"
+            ]
+        },
+        {
+            "Title": "Semi-Weakly Supervised Object Kinematic Motion Prediction",
+            "Authors": [
+                "Gengxin Liu",
+                "Qian Sun",
+                "Haibin Huang",
+                "Chongyang Ma",
+                "Yulan Guo",
+                "Li Yi",
+                "Hui Huang",
+                "Ruizhen Hu"
+            ]
+        },
+        {
+            "Title": "Deep Curvilinear Editing: Commutative and Nonlinear Image Manipulation for Pretrained Deep Generative Model",
+            "Authors": [
+                "Takehiro Aoshima",
+                "Takashi Matsubara"
+            ]
+        },
+        {
+            "Title": "Range-Nullspace Video Frame Interpolation With Focalized Motion Estimation",
+            "Authors": [
+                "Zhiyang Yu",
+                "Yu Zhang",
+                "Dongqing Zou",
+                "Xijun Chen",
+                "Jimmy S. Ren",
+                "Shunqing Ren"
+            ]
+        },
+        {
+            "Title": "Robust and Scalable Gaussian Process Regression and Its Applications",
+            "Authors": [
+                "Yifan Lu",
+                "Jiayi Ma",
+                "Leyuan Fang",
+                "Xin Tian",
+                "Junjun Jiang"
+            ]
+        },
+        {
+            "Title": "Computational Flash Photography Through Intrinsics",
+            "Authors": [
+                "Sepideh Sarajian Maralan",
+                "Chris Careaga",
+                "Yağiz Aksoy"
+            ]
+        },
+        {
+            "Title": "Inversion-Based Style Transfer With Diffusion Models",
+            "Authors": [
+                "Yuxin Zhang",
+                "Nisha Huang",
+                "Fan Tang",
+                "Haibin Huang",
+                "Chongyang Ma",
+                "Weiming Dong",
+                "Changsheng Xu"
+            ]
+        },
+        {
+            "Title": "Multi-Agent Automated Machine Learning",
+            "Authors": [
+                "Zhaozhi Wang",
+                "Kefan Su",
+                "Jian Zhang",
+                "Huizhu Jia",
+                "Qixiang Ye",
+                "Xiaodong Xie",
+                "Zongqing Lu"
+            ]
+        },
+        {
+            "Title": "ContraNeRF: Generalizable Neural Radiance Fields for Synthetic-to-Real Novel View Synthesis via Contrastive Learning",
+            "Authors": [
+                "Hao Yang",
+                "Lanqing Hong",
+                "Aoxue Li",
+                "Tianyang Hu",
+                "Zhenguo Li",
+                "Gim Hee Lee",
+                "Liwei Wang"
+            ]
+        },
+        {
+            "Title": "Data-Driven Feature Tracking for Event Cameras",
+            "Authors": [
+                "Nico Messikommer",
+                "Carter Fang",
+                "Mathias Gehrig",
+                "Davide Scaramuzza"
+            ]
+        },
+        {
+            "Title": "FlowGrad: Controlling the Output of Generative ODEs With Gradients",
+            "Authors": [
+                "Xingchao Liu",
+                "Lemeng Wu",
+                "Shujian Zhang",
+                "Chengyue Gong",
+                "Wei Ping",
+                "Qiang Liu"
+            ]
+        },
+        {
+            "Title": "PointVector: A Vector Representation in Point Cloud Analysis",
+            "Authors": [
+                "Xin Deng",
+                "WenYu Zhang",
+                "Qing Ding",
+                "XinMing Zhang"
+            ]
+        },
+        {
+            "Title": "QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation",
+            "Authors": [
+                "Sicheng Yang",
+                "Zhiyong Wu",
+                "Minglei Li",
+                "Zhensong Zhang",
+                "Lei Hao",
+                "Weihong Bao",
+                "Haolin Zhuang"
+            ]
+        },
+        {
+            "Title": "Neural Fourier Filter Bank",
+            "Authors": [
+                "Zhijie Wu",
+                "Yuhe Jin",
+                "Kwang Moo Yi"
+            ]
+        },
+        {
             "Title": "Exploring Data Geometry for Continual Learning",
             "Authors": [
                 "Zhi Gao",
@@ -21733,6 +21898,166 @@
                 "Lu Yuan",
                 "Chenguang Zhu",
                 "Jing Liao"
+            ]
+        },
+        {
+            "Title": "MMVC: Learned Multi-Mode Video Compression With Block-Based Prediction Mode Selection and Density-Adaptive Entropy Coding",
+            "Authors": [
+                "Bowen Liu",
+                "Yu Chen",
+                "Rakesh Chowdary Machineni",
+                "Shiyu Liu",
+                "Hun-Seok Kim"
+            ]
+        },
+        {
+            "Title": "Constrained Evolutionary Diffusion Filter for Monocular Endoscope Tracking",
+            "Authors": [
+                "Xiongbiao Luo"
+            ]
+        },
+        {
+            "Title": "Hybrid Active Learning via Deep Clustering for Video Action Detection",
+            "Authors": [
+                "Aayush J. Rana",
+                "Yogesh S. Rawat"
+            ]
+        },
+        {
+            "Title": "Equiangular Basis Vectors",
+            "Authors": [
+                "Yang Shen",
+                "Xuhao Sun",
+                "Xiu-Shen Wei"
+            ]
+        },
+        {
+            "Title": "À-La-Carte Prompt Tuning (APT): Combining Distinct Data via Composable Prompting",
+            "Authors": [
+                "Benjamin Bowman",
+                "Alessandro Achille",
+                "Luca Zancato",
+                "Matthew Trager",
+                "Pramuditha Perera",
+                "Giovanni Paolini",
+                "Stefano Soatto"
+            ]
+        },
+        {
+            "Title": "CAT: LoCalization and IdentificAtion Cascade Detection Transformer for Open-World Object Detection",
+            "Authors": [
+                "Shuailei Ma",
+                "Yuefeng Wang",
+                "Ying Wei",
+                "Jiaqi Fan",
+                "Thomas H. Li",
+                "Hongli Liu",
+                "Fanbing Lv"
+            ]
+        },
+        {
+            "Title": "An Actor-Centric Causality Graph for Asynchronous Temporal Inference in Group Activity",
+            "Authors": [
+                "Zhao Xie",
+                "Tian Gao",
+                "Kewei Wu",
+                "Jiao Chang"
+            ]
+        },
+        {
+            "Title": "GCFAgg: Global and Cross-View Feature Aggregation for Multi-View Clustering",
+            "Authors": [
+                "Weiqing Yan",
+                "Yuanyang Zhang",
+                "Chenlei Lv",
+                "Chang Tang",
+                "Guanghui Yue",
+                "Liang Liao",
+                "Weisi Lin"
+            ]
+        },
+        {
+            "Title": "Unsupervised Visible-Infrared Person Re-Identification via Progressive Graph Matching and Alternate Learning",
+            "Authors": [
+                "Zesen Wu",
+                "Mang Ye"
+            ]
+        },
+        {
+            "Title": "Similarity Maps for Self-Training Weakly-Supervised Phrase Grounding",
+            "Authors": [
+                "Tal Shaharabany",
+                "Lior Wolf"
+            ]
+        },
+        {
+            "Title": "DA Wand: Distortion-Aware Selection Using Neural Mesh Parameterization",
+            "Authors": [
+                "Richard Liu",
+                "Noam Aigerman",
+                "Vladimir G. Kim",
+                "Rana Hanocka"
+            ]
+        },
+        {
+            "Title": "BiCro: Noisy Correspondence Rectification for Multi-Modality Data via Bi-Directional Cross-Modal Similarity Consistency",
+            "Authors": [
+                "Shuo Yang",
+                "Zhaopan Xu",
+                "Kai Wang",
+                "Yang You",
+                "Hongxun Yao",
+                "Tongliang Liu",
+                "Min Xu"
+            ]
+        },
+        {
+            "Title": "DropKey for Vision Transformer",
+            "Authors": [
+                "Bonan Li",
+                "Yinhan Hu",
+                "Xuecheng Nie",
+                "Congying Han",
+                "Xiangjian Jiang",
+                "Tiande Guo",
+                "Luoqi Liu"
+            ]
+        },
+        {
+            "Title": "Shape-Erased Feature Learning for Visible-Infrared Person Re-Identification",
+            "Authors": [
+                "Jiawei Feng",
+                "Ancong Wu",
+                "Wei-Shi Zheng"
+            ]
+        },
+        {
+            "Title": "Revisiting the P3P Problem",
+            "Authors": [
+                "Yaqing Ding",
+                "Jian Yang",
+                "Viktor Larsson",
+                "Carl Olsson",
+                "Kalle Åström"
+            ]
+        },
+        {
+            "Title": "DaFKD: Domain-Aware Federated Knowledge Distillation",
+            "Authors": [
+                "Haozhao Wang",
+                "Yichen Li",
+                "Wenchao Xu",
+                "Ruixuan Li",
+                "Yufeng Zhan",
+                "Zhigang Zeng"
+            ]
+        },
+        {
+            "Title": "Re-IQA: Unsupervised Learning for Image Quality Assessment in the Wild",
+            "Authors": [
+                "Avinab Saha",
+                "Sandeep Mishra",
+                "Alan C. Bovik"
             ]
         },
         {
@@ -22783,882 +23108,6 @@
             ]
         },
         {
-            "Title": "Visual Query Tuning: Towards Effective Usage of Intermediate Representations for Parameter and Memory Efficient Transfer Learning",
-            "Authors": [
-                "Cheng-Hao Tu",
-                "Zheda Mai",
-                "Wei-Lun Chao"
-            ]
-        },
-        {
-            "Title": "Exemplar-FreeSOLO: Enhancing Unsupervised Instance Segmentation With Exemplars",
-            "Authors": [
-                "Taoseef Ishtiak",
-                "Qing En",
-                "Yuhong Guo"
-            ]
-        },
-        {
-            "Title": "Decoupling Learning and Remembering: A Bilevel Memory Framework With Knowledge Projection for Task-Incremental Learning",
-            "Authors": [
-                "Wenju Sun",
-                "Qingyong Li",
-                "Jing Zhang",
-                "Wen Wang",
-                "Yangli-ao Geng"
-            ]
-        },
-        {
-            "Title": "PMR: Prototypical Modal Rebalance for Multimodal Learning",
-            "Authors": [
-                "Yunfeng Fan",
-                "Wenchao Xu",
-                "Haozhao Wang",
-                "Junxiao Wang",
-                "Song Guo"
-            ]
-        },
-        {
-            "Title": "Towards High-Quality and Efficient Video Super-Resolution via Spatial-Temporal Data Overfitting",
-            "Authors": [
-                "Gen Li",
-                "Jie Ji",
-                "Minghai Qin",
-                "Wei Niu",
-                "Bin Ren",
-                "Fatemeh Afghah",
-                "Linke Guo",
-                "Xiaolong Ma"
-            ]
-        },
-        {
-            "Title": "DART: Diversify-Aggregate-Repeat Training Improves Generalization of Neural Networks",
-            "Authors": [
-                "Samyak Jain",
-                "Sravanti Addepalli",
-                "Pawan Kumar Sahu",
-                "Priyam Dey",
-                "R. Venkatesh Babu"
-            ]
-        },
-        {
-            "Title": "Abstract Visual Reasoning: An Algebraic Approach for Solving Raven’s Progressive Matrices",
-            "Authors": [
-                "Jingyi Xu",
-                "Tushar Vaidya",
-                "Yufei Wu",
-                "Saket Chandra",
-                "Zhangsheng Lai",
-                "Kai Fong Ernest Chong"
-            ]
-        },
-        {
-            "Title": "Indescribable Multi-Modal Spatial Evaluator",
-            "Authors": [
-                "Lingke Kong",
-                "X. Sharon Qi",
-                "Qijin Shen",
-                "Jiacheng Wang",
-                "Jingyi Zhang",
-                "Yanle Hu",
-                "Qichao Zhou"
-            ]
-        },
-        {
-            "Title": "Swept-Angle Synthetic Wavelength Interferometry",
-            "Authors": [
-                "Alankar Kotwal",
-                "Anat Levin",
-                "Ioannis Gkioulekas"
-            ]
-        },
-        {
-            "Title": "Passive Micron-Scale Time-of-Flight With Sunlight Interferometry",
-            "Authors": [
-                "Alankar Kotwal",
-                "Anat Levin",
-                "Ioannis Gkioulekas"
-            ]
-        },
-        {
-            "Title": "Meta-Learning With a Geometry-Adaptive Preconditioner",
-            "Authors": [
-                "Suhyun Kang",
-                "Duhun Hwang",
-                "Moonjung Eo",
-                "Taesup Kim",
-                "Wonjong Rhee"
-            ]
-        },
-        {
-            "Title": "RA-CLIP: Retrieval Augmented Contrastive Language-Image Pre-Training",
-            "Authors": [
-                "Chen-Wei Xie",
-                "Siyang Sun",
-                "Xiong Xiong",
-                "Yun Zheng",
-                "Deli Zhao",
-                "Jingren Zhou"
-            ]
-        },
-        {
-            "Title": "Dual-Path Adaptation From Image to Video Transformers",
-            "Authors": [
-                "Jungin Park",
-                "Jiyoung Lee",
-                "Kwanghoon Sohn"
-            ]
-        },
-        {
-            "Title": "PartMix: Regularization Strategy To Learn Part Discovery for Visible-Infrared Person Re-Identification",
-            "Authors": [
-                "Minsu Kim",
-                "Seungryong Kim",
-                "Jungin Park",
-                "Seongheon Park",
-                "Kwanghoon Sohn"
-            ]
-        },
-        {
-            "Title": "Learning Orthogonal Prototypes for Generalized Few-Shot Semantic Segmentation",
-            "Authors": [
-                "Sun-Ao Liu",
-                "Yiheng Zhang",
-                "Zhaofan Qiu",
-                "Hongtao Xie",
-                "Yongdong Zhang",
-                "Ting Yao"
-            ]
-        },
-        {
-            "Title": "HypLiLoc: Towards Effective LiDAR Pose Regression With Hyperbolic Fusion",
-            "Authors": [
-                "Sijie Wang",
-                "Qiyu Kang",
-                "Rui She",
-                "Wei Wang",
-                "Kai Zhao",
-                "Yang Song",
-                "Wee Peng Tay"
-            ]
-        },
-        {
-            "Title": "DSFNet: Dual Space Fusion Network for Occlusion-Robust 3D Dense Face Alignment",
-            "Authors": [
-                "Heyuan Li",
-                "Bo Wang",
-                "Yu Cheng",
-                "Mohan Kankanhalli",
-                "Robby T. Tan"
-            ]
-        },
-        {
-            "Title": "Open-Set Representation Learning Through Combinatorial Embedding",
-            "Authors": [
-                "Geeho Kim",
-                "Junoh Kang",
-                "Bohyung Han"
-            ]
-        },
-        {
-            "Title": "Cross-Modal Implicit Relation Reasoning and Aligning for Text-to-Image Person Retrieval",
-            "Authors": [
-                "Ding Jiang",
-                "Mang Ye"
-            ]
-        },
-        {
-            "Title": "ERNIE-ViLG 2.0: Improving Text-to-Image Diffusion Model With Knowledge-Enhanced Mixture-of-Denoising-Experts",
-            "Authors": [
-                "Zhida Feng",
-                "Zhenyu Zhang",
-                "Xintong Yu",
-                "Yewei Fang",
-                "Lanxin Li",
-                "Xuyi Chen",
-                "Yuxiang Lu",
-                "Jiaxiang Liu",
-                "Weichong Yin",
-                "Shikun Feng",
-                "Yu Sun",
-                "Li Chen",
-                "Hao Tian",
-                "Hua Wu",
-                "Haifeng Wang"
-            ]
-        },
-        {
-            "Title": "SViTT: Temporal Learning of Sparse Video-Text Transformers",
-            "Authors": [
-                "Yi Li",
-                "Kyle Min",
-                "Subarna Tripathi",
-                "Nuno Vasconcelos"
-            ]
-        },
-        {
-            "Title": "MMG-Ego4D: Multimodal Generalization in Egocentric Action Recognition",
-            "Authors": [
-                "Xinyu Gong",
-                "Sreyas Mohan",
-                "Naina Dhingra",
-                "Jean-Charles Bazin",
-                "Yilei Li",
-                "Zhangyang Wang",
-                "Rakesh Ranjan"
-            ]
-        },
-        {
-            "Title": "Open Vocabulary Semantic Segmentation With Patch Aligned Contrastive Learning",
-            "Authors": [
-                "Jishnu Mukhoti",
-                "Tsung-Yu Lin",
-                "Omid Poursaeed",
-                "Rui Wang",
-                "Ashish Shah",
-                "Philip H.S. Torr",
-                "Ser-Nam Lim"
-            ]
-        },
-        {
-            "Title": "Independent Component Alignment for Multi-Task Learning",
-            "Authors": [
-                "Dmitry Senushkin",
-                "Nikolay Patakin",
-                "Arseny Kuznetsov",
-                "Anton Konushin"
-            ]
-        },
-        {
-            "Title": "Logical Implications for Visual Question Answering Consistency",
-            "Authors": [
-                "Sergio Tascon-Morales",
-                "Pablo Márquez-Neila",
-                "Raphael Sznitman"
-            ]
-        },
-        {
-            "Title": "Leveraging Inter-Rater Agreement for Classification in the Presence of Noisy Labels",
-            "Authors": [
-                "Maria Sofia Bucarelli",
-                "Lucas Cassano",
-                "Federico Siciliano",
-                "Amin Mantrach",
-                "Fabrizio Silvestri"
-            ]
-        },
-        {
-            "Title": "MaskCon: Masked Contrastive Learning for Coarse-Labelled Dataset",
-            "Authors": [
-                "Chen Feng",
-                "Ioannis Patras"
-            ]
-        },
-        {
-            "Title": "Image as a Foreign Language: BEiT Pretraining for Vision and Vision-Language Tasks",
-            "Authors": [
-                "Wenhui Wang",
-                "Hangbo Bao",
-                "Li Dong",
-                "Johan Bjorck",
-                "Zhiliang Peng",
-                "Qiang Liu",
-                "Kriti Aggarwal",
-                "Owais Khan Mohammed",
-                "Saksham Singhal",
-                "Subhojit Som",
-                "Furu Wei"
-            ]
-        },
-        {
-            "Title": "High-Frequency Stereo Matching Network",
-            "Authors": [
-                "Haoliang Zhao",
-                "Huizhou Zhou",
-                "Yongjun Zhang",
-                "Jie Chen",
-                "Yitong Yang",
-                "Yong Zhao"
-            ]
-        },
-        {
-            "Title": "Adaptive Data-Free Quantization",
-            "Authors": [
-                "Biao Qian",
-                "Yang Wang",
-                "Richang Hong",
-                "Meng Wang"
-            ]
-        },
-        {
-            "Title": "Coreset Sampling From Open-Set for Fine-Grained Self-Supervised Learning",
-            "Authors": [
-                "Sungnyun Kim",
-                "Sangmin Bae",
-                "Se-Young Yun"
-            ]
-        },
-        {
-            "Title": "iCLIP: Bridging Image Classification and Contrastive Language-Image Pre-Training for Visual Recognition",
-            "Authors": [
-                "Yixuan Wei",
-                "Yue Cao",
-                "Zheng Zhang",
-                "Houwen Peng",
-                "Zhuliang Yao",
-                "Zhenda Xie",
-                "Han Hu",
-                "Baining Guo"
-            ]
-        },
-        {
-            "Title": "Generating Features With Increased Crop-Related Diversity for Few-Shot Object Detection",
-            "Authors": [
-                "Jingyi Xu",
-                "Hieu Le",
-                "Dimitris Samaras"
-            ]
-        },
-        {
-            "Title": "Jedi: Entropy-Based Localization and Removal of Adversarial Patches",
-            "Authors": [
-                "Bilel Tarchoun",
-                "Anouar Ben Khalifa",
-                "Mohamed Ali Mahjoub",
-                "Nael Abu-Ghazaleh",
-                "Ihsen Alouani"
-            ]
-        },
-        {
-            "Title": "CAP: Robust Point Cloud Classification via Semantic and Structural Modeling",
-            "Authors": [
-                "Daizong Ding",
-                "Erling Jiang",
-                "Yuanmin Huang",
-                "Mi Zhang",
-                "Wenxuan Li",
-                "Min Yang"
-            ]
-        },
-        {
-            "Title": "Uncovering the Disentanglement Capability in Text-to-Image Diffusion Models",
-            "Authors": [
-                "Qiucheng Wu",
-                "Yujian Liu",
-                "Handong Zhao",
-                "Ajinkya Kale",
-                "Trung Bui",
-                "Tong Yu",
-                "Zhe Lin",
-                "Yang Zhang",
-                "Shiyu Chang"
-            ]
-        },
-        {
-            "Title": "CLIP-S4: Language-Guided Self-Supervised Semantic Segmentation",
-            "Authors": [
-                "Wenbin He",
-                "Suphanut Jamonnak",
-                "Liang Gou",
-                "Liu Ren"
-            ]
-        },
-        {
-            "Title": "Semantic-Conditional Diffusion Networks for Image Captioning",
-            "Authors": [
-                "Jianjie Luo",
-                "Yehao Li",
-                "Yingwei Pan",
-                "Ting Yao",
-                "Jianlin Feng",
-                "Hongyang Chao",
-                "Tao Mei"
-            ]
-        },
-        {
-            "Title": "You Do Not Need Additional Priors or Regularizers in Retinex-Based Low-Light Image Enhancement",
-            "Authors": [
-                "Huiyuan Fu",
-                "Wenkai Zheng",
-                "Xiangyu Meng",
-                "Xin Wang",
-                "Chuanming Wang",
-                "Huadong Ma"
-            ]
-        },
-        {
-            "Title": "Seasoning Model Soups for Robustness to Adversarial and Natural Distribution Shifts",
-            "Authors": [
-                "Francesco Croce",
-                "Sylvestre-Alvise Rebuffi",
-                "Evan Shelhamer",
-                "Sven Gowal"
-            ]
-        },
-        {
-            "Title": "Train-Once-for-All Personalization",
-            "Authors": [
-                "Hong-You Chen",
-                "Yandong Li",
-                "Yin Cui",
-                "Mingda Zhang",
-                "Wei-Lun Chao",
-                "Li Zhang"
-            ]
-        },
-        {
-            "Title": "MotionDiffuser: Controllable Multi-Agent Motion Prediction Using Diffusion",
-            "Authors": [
-                "Chiyu “Max” Jiang",
-                "Andre Cornman",
-                "Cheolho Park",
-                "Benjamin Sapp",
-                "Yin Zhou",
-                "Dragomir Anguelov"
-            ]
-        },
-        {
-            "Title": "Instance-Specific and Model-Adaptive Supervision for Semi-Supervised Semantic Segmentation",
-            "Authors": [
-                "Zhen Zhao",
-                "Sifan Long",
-                "Jimin Pi",
-                "Jingdong Wang",
-                "Luping Zhou"
-            ]
-        },
-        {
-            "Title": "Neural Rate Estimator and Unsupervised Learning for Efficient Distributed Image Analytics in Split-DNN Models",
-            "Authors": [
-                "Nilesh Ahuja",
-                "Parual Datta",
-                "Bhavya Kanzariya",
-                "V. Srinivasa Somayazulu",
-                "Omesh Tickoo"
-            ]
-        },
-        {
-            "Title": "Deep Semi-Supervised Metric Learning With Mixed Label Propagation",
-            "Authors": [
-                "Furen Zhuang",
-                "Pierre Moulin"
-            ]
-        },
-        {
-            "Title": "Galactic: Scaling End-to-End Reinforcement Learning for Rearrangement at 100k Steps-per-Second",
-            "Authors": [
-                "Vincent-Pierre Berges",
-                "Andrew Szot",
-                "Devendra Singh Chaplot",
-                "Aaron Gokaslan",
-                "Roozbeh Mottaghi",
-                "Dhruv Batra",
-                "Eric Undersander"
-            ]
-        },
-        {
-            "Title": "Improving Vision-and-Language Navigation by Generating Future-View Image Semantics",
-            "Authors": [
-                "Jialu Li",
-                "Mohit Bansal"
-            ]
-        },
-        {
-            "Title": "Critical Learning Periods for Multisensory Integration in Deep Networks",
-            "Authors": [
-                "Michael Kleinman",
-                "Alessandro Achille",
-                "Stefano Soatto"
-            ]
-        },
-        {
-            "Title": "Simulated Annealing in Early Layers Leads to Better Generalization",
-            "Authors": [
-                "Amir M. Sarfi",
-                "Zahra Karimpour",
-                "Muawiz Chaudhary",
-                "Nasir M. Khalid",
-                "Mirco Ravanelli",
-                "Sudhir Mudur",
-                "Eugene Belilovsky"
-            ]
-        },
-        {
-            "Title": "CUDA: Convolution-Based Unlearnable Datasets",
-            "Authors": [
-                "Vinu Sankar Sadasivan",
-                "Soltanolkotabi",
-                "Soheil Feizi"
-            ]
-        },
-        {
-            "Title": "Architectural Backdoors in Neural Networks",
-            "Authors": [
-                "Mikel Bober-Irizar",
-                "Ilia Shumailov",
-                "Yiren Zhao",
-                "Robert Mullins",
-                "Nicolas Papernot"
-            ]
-        },
-        {
-            "Title": "From Images to Textual Prompts: Zero-Shot Visual Question Answering With Frozen Large Language Models",
-            "Authors": [
-                "Jiaxian Guo",
-                "Junnan Li",
-                "Dongxu Li",
-                "Anthony Meng Huat Tiong",
-                "Boyang Li",
-                "Dacheng Tao",
-                "Steven Hoi"
-            ]
-        },
-        {
-            "Title": "FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning",
-            "Authors": [
-                "Yuanhao Xiong",
-                "Ruochen Wang",
-                "Minhao Cheng",
-                "Felix Yu",
-                "Cho-Jui Hsieh"
-            ]
-        },
-        {
-            "Title": "Sparsifiner: Learning Sparse Instance-Dependent Attention for Efficient Vision Transformers",
-            "Authors": [
-                "Cong Wei",
-                "Brendan Duke",
-                "Ruowei Jiang",
-                "Parham Aarabi",
-                "Graham W. Taylor",
-                "Florian Shkurti"
-            ]
-        },
-        {
-            "Title": "Generalist: Decoupling Natural and Robust Generalization",
-            "Authors": [
-                "Hongjun Wang",
-                "Yisen Wang"
-            ]
-        },
-        {
-            "Title": "How To Prevent the Poor Performance Clients for Personalized Federated Learning?",
-            "Authors": [
-                "Zhe Qu",
-                "Xingyu Li",
-                "Xiao Han",
-                "Rui Duan",
-                "Chengchao Shen",
-                "Lixing Chen"
-            ]
-        },
-        {
-            "Title": "Boosting Transductive Few-Shot Fine-Tuning With Margin-Based Uncertainty Weighting and Probability Regularization",
-            "Authors": [
-                "Ran Tao",
-                "Hao Chen",
-                "Marios Savvides"
-            ]
-        },
-        {
-            "Title": "Enhancing Multiple Reliability Measures via Nuisance-Extended Information Bottleneck",
-            "Authors": [
-                "Jongheon Jeong",
-                "Sihyun Yu",
-                "Hankook Lee",
-                "Jinwoo Shin"
-            ]
-        },
-        {
-            "Title": "Learning Debiased Representations via Conditional Attribute Interpolation",
-            "Authors": [
-                "Yi-Kai Zhang",
-                "Qi-Wei Wang",
-                "De-Chuan Zhan",
-                "Han-Jia Ye"
-            ]
-        },
-        {
-            "Title": "Weakly Supervised Posture Mining for Fine-Grained Classification",
-            "Authors": [
-                "Zhenchao Tang",
-                "Hualin Yang",
-                "Calvin Yu-Chian Chen"
-            ]
-        },
-        {
-            "Title": "Elastic Aggregation for Federated Optimization",
-            "Authors": [
-                "Dengsheng Chen",
-                "Jie Hu",
-                "Vince Junkai Tan",
-                "Xiaoming Wei",
-                "Enhua Wu"
-            ]
-        },
-        {
-            "Title": "Regularize Implicit Neural Representation by Itself",
-            "Authors": [
-                "Zhemin Li",
-                "Hongxia Wang",
-                "Deyu Meng"
-            ]
-        },
-        {
-            "Title": "Multivariate, Multi-Frequency and Multimodal: Rethinking Graph Neural Networks for Emotion Recognition in Conversation",
-            "Authors": [
-                "Feiyu Chen",
-                "Jie Shao",
-                "Shuyuan Zhu",
-                "Heng Tao Shen"
-            ]
-        },
-        {
-            "Title": "Learning a Practical SDR-to-HDRTV Up-Conversion Using New Dataset and Degradation Models",
-            "Authors": [
-                "Cheng Guo",
-                "Leidong Fan",
-                "Ziyu Xue",
-                "Xiuhua Jiang"
-            ]
-        },
-        {
-            "Title": "Fine-Grained Classification With Noisy Labels",
-            "Authors": [
-                "Qi Wei",
-                "Lei Feng",
-                "Haoliang Sun",
-                "Ren Wang",
-                "Chenhui Guo",
-                "Yilong Yin"
-            ]
-        },
-        {
-            "Title": "VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models",
-            "Authors": [
-                "Ajay Jain",
-                "Amber Xie",
-                "Pieter Abbeel"
-            ]
-        },
-        {
-            "Title": "Hint-Aug: Drawing Hints From Foundation Vision Transformers Towards Boosted Few-Shot Parameter-Efficient Tuning",
-            "Authors": [
-                "Zhongzhi Yu",
-                "Shang Wu",
-                "Yonggan Fu",
-                "Shunyao Zhang",
-                "Yingyan (Celine) Lin"
-            ]
-        },
-        {
-            "Title": "TIPI: Test Time Adaptation With Transformation Invariance",
-            "Authors": [
-                "A. Tuan Nguyen",
-                "Thanh Nguyen-Tang",
-                "Ser-Nam Lim",
-                "Philip H.S. Torr"
-            ]
-        },
-        {
-            "Title": "1% VS 100%: Parameter-Efficient Low Rank Adapter for Dense Predictions",
-            "Authors": [
-                "Dongshuo Yin",
-                "Yiran Yang",
-                "Zhechao Wang",
-                "Hongfeng Yu",
-                "Kaiwen Wei",
-                "Xian Sun"
-            ]
-        },
-        {
-            "Title": "Adversarial Robustness via Random Projection Filters",
-            "Authors": [
-                "Minjing Dong",
-                "Chang Xu"
-            ]
-        },
-        {
-            "Title": "LASP: Text-to-Text Optimization for Language-Aware Soft Prompting of Vision & Language Models",
-            "Authors": [
-                "Adrian Bulat",
-                "Georgios Tzimiropoulos"
-            ]
-        },
-        {
-            "Title": "OT-Filter: An Optimal Transport Filter for Learning With Noisy Labels",
-            "Authors": [
-                "Chuanwen Feng",
-                "Yilong Ren",
-                "Xike Xie"
-            ]
-        },
-        {
-            "Title": "Task-Specific Fine-Tuning via Variational Information Bottleneck for Weakly-Supervised Pathology Whole Slide Image Classification",
-            "Authors": [
-                "Honglin Li",
-                "Chenglu Zhu",
-                "Yunlong Zhang",
-                "Yuxuan Sun",
-                "Zhongyi Shui",
-                "Wenwei Kuang",
-                "Sunyi Zheng",
-                "Lin Yang"
-            ]
-        },
-        {
-            "Title": "VNE: An Effective Method for Improving Deep Representation by Manipulating Eigenvalue Distribution",
-            "Authors": [
-                "Jaeill Kim",
-                "Suhyun Kang",
-                "Duhun Hwang",
-                "Jungwook Shin",
-                "Wonjong Rhee"
-            ]
-        },
-        {
-            "Title": "OmniVidar: Omnidirectional Depth Estimation From Multi-Fisheye Images",
-            "Authors": [
-                "Sheng Xie",
-                "Daochuan Wang",
-                "Yun-Hui Liu"
-            ]
-        },
-        {
-            "Title": "Semi-Weakly Supervised Object Kinematic Motion Prediction",
-            "Authors": [
-                "Gengxin Liu",
-                "Qian Sun",
-                "Haibin Huang",
-                "Chongyang Ma",
-                "Yulan Guo",
-                "Li Yi",
-                "Hui Huang",
-                "Ruizhen Hu"
-            ]
-        },
-        {
-            "Title": "Deep Curvilinear Editing: Commutative and Nonlinear Image Manipulation for Pretrained Deep Generative Model",
-            "Authors": [
-                "Takehiro Aoshima",
-                "Takashi Matsubara"
-            ]
-        },
-        {
-            "Title": "Range-Nullspace Video Frame Interpolation With Focalized Motion Estimation",
-            "Authors": [
-                "Zhiyang Yu",
-                "Yu Zhang",
-                "Dongqing Zou",
-                "Xijun Chen",
-                "Jimmy S. Ren",
-                "Shunqing Ren"
-            ]
-        },
-        {
-            "Title": "Robust and Scalable Gaussian Process Regression and Its Applications",
-            "Authors": [
-                "Yifan Lu",
-                "Jiayi Ma",
-                "Leyuan Fang",
-                "Xin Tian",
-                "Junjun Jiang"
-            ]
-        },
-        {
-            "Title": "Computational Flash Photography Through Intrinsics",
-            "Authors": [
-                "Sepideh Sarajian Maralan",
-                "Chris Careaga",
-                "Yağiz Aksoy"
-            ]
-        },
-        {
-            "Title": "Inversion-Based Style Transfer With Diffusion Models",
-            "Authors": [
-                "Yuxin Zhang",
-                "Nisha Huang",
-                "Fan Tang",
-                "Haibin Huang",
-                "Chongyang Ma",
-                "Weiming Dong",
-                "Changsheng Xu"
-            ]
-        },
-        {
-            "Title": "Multi-Agent Automated Machine Learning",
-            "Authors": [
-                "Zhaozhi Wang",
-                "Kefan Su",
-                "Jian Zhang",
-                "Huizhu Jia",
-                "Qixiang Ye",
-                "Xiaodong Xie",
-                "Zongqing Lu"
-            ]
-        },
-        {
-            "Title": "ContraNeRF: Generalizable Neural Radiance Fields for Synthetic-to-Real Novel View Synthesis via Contrastive Learning",
-            "Authors": [
-                "Hao Yang",
-                "Lanqing Hong",
-                "Aoxue Li",
-                "Tianyang Hu",
-                "Zhenguo Li",
-                "Gim Hee Lee",
-                "Liwei Wang"
-            ]
-        },
-        {
-            "Title": "Data-Driven Feature Tracking for Event Cameras",
-            "Authors": [
-                "Nico Messikommer",
-                "Carter Fang",
-                "Mathias Gehrig",
-                "Davide Scaramuzza"
-            ]
-        },
-        {
-            "Title": "FlowGrad: Controlling the Output of Generative ODEs With Gradients",
-            "Authors": [
-                "Xingchao Liu",
-                "Lemeng Wu",
-                "Shujian Zhang",
-                "Chengyue Gong",
-                "Wei Ping",
-                "Qiang Liu"
-            ]
-        },
-        {
-            "Title": "PointVector: A Vector Representation in Point Cloud Analysis",
-            "Authors": [
-                "Xin Deng",
-                "WenYu Zhang",
-                "Qing Ding",
-                "XinMing Zhang"
-            ]
-        },
-        {
-            "Title": "QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation",
-            "Authors": [
-                "Sicheng Yang",
-                "Zhiyong Wu",
-                "Minglei Li",
-                "Zhensong Zhang",
-                "Lei Hao",
-                "Weihong Bao",
-                "Haolin Zhuang"
-            ]
-        },
-        {
-            "Title": "Neural Fourier Filter Bank",
-            "Authors": [
-                "Zhijie Wu",
-                "Yuhe Jin",
-                "Kwang Moo Yi"
-            ]
-        },
-        {
             "Title": "Train/Test-Time Adaptation With Retrieval",
             "Authors": [
                 "Luca Zancato",
@@ -23811,6 +23260,143 @@
                 "Yutong Xie",
                 "Zilin Lu",
                 "Yong Xia"
+            ]
+        },
+        {
+            "Title": "Visual Query Tuning: Towards Effective Usage of Intermediate Representations for Parameter and Memory Efficient Transfer Learning",
+            "Authors": [
+                "Cheng-Hao Tu",
+                "Zheda Mai",
+                "Wei-Lun Chao"
+            ]
+        },
+        {
+            "Title": "Exemplar-FreeSOLO: Enhancing Unsupervised Instance Segmentation With Exemplars",
+            "Authors": [
+                "Taoseef Ishtiak",
+                "Qing En",
+                "Yuhong Guo"
+            ]
+        },
+        {
+            "Title": "Decoupling Learning and Remembering: A Bilevel Memory Framework With Knowledge Projection for Task-Incremental Learning",
+            "Authors": [
+                "Wenju Sun",
+                "Qingyong Li",
+                "Jing Zhang",
+                "Wen Wang",
+                "Yangli-ao Geng"
+            ]
+        },
+        {
+            "Title": "PMR: Prototypical Modal Rebalance for Multimodal Learning",
+            "Authors": [
+                "Yunfeng Fan",
+                "Wenchao Xu",
+                "Haozhao Wang",
+                "Junxiao Wang",
+                "Song Guo"
+            ]
+        },
+        {
+            "Title": "Towards High-Quality and Efficient Video Super-Resolution via Spatial-Temporal Data Overfitting",
+            "Authors": [
+                "Gen Li",
+                "Jie Ji",
+                "Minghai Qin",
+                "Wei Niu",
+                "Bin Ren",
+                "Fatemeh Afghah",
+                "Linke Guo",
+                "Xiaolong Ma"
+            ]
+        },
+        {
+            "Title": "DART: Diversify-Aggregate-Repeat Training Improves Generalization of Neural Networks",
+            "Authors": [
+                "Samyak Jain",
+                "Sravanti Addepalli",
+                "Pawan Kumar Sahu",
+                "Priyam Dey",
+                "R. Venkatesh Babu"
+            ]
+        },
+        {
+            "Title": "Abstract Visual Reasoning: An Algebraic Approach for Solving Raven’s Progressive Matrices",
+            "Authors": [
+                "Jingyi Xu",
+                "Tushar Vaidya",
+                "Yufei Wu",
+                "Saket Chandra",
+                "Zhangsheng Lai",
+                "Kai Fong Ernest Chong"
+            ]
+        },
+        {
+            "Title": "Indescribable Multi-Modal Spatial Evaluator",
+            "Authors": [
+                "Lingke Kong",
+                "X. Sharon Qi",
+                "Qijin Shen",
+                "Jiacheng Wang",
+                "Jingyi Zhang",
+                "Yanle Hu",
+                "Qichao Zhou"
+            ]
+        },
+        {
+            "Title": "Swept-Angle Synthetic Wavelength Interferometry",
+            "Authors": [
+                "Alankar Kotwal",
+                "Anat Levin",
+                "Ioannis Gkioulekas"
+            ]
+        },
+        {
+            "Title": "Passive Micron-Scale Time-of-Flight With Sunlight Interferometry",
+            "Authors": [
+                "Alankar Kotwal",
+                "Anat Levin",
+                "Ioannis Gkioulekas"
+            ]
+        },
+        {
+            "Title": "Meta-Learning With a Geometry-Adaptive Preconditioner",
+            "Authors": [
+                "Suhyun Kang",
+                "Duhun Hwang",
+                "Moonjung Eo",
+                "Taesup Kim",
+                "Wonjong Rhee"
+            ]
+        },
+        {
+            "Title": "RA-CLIP: Retrieval Augmented Contrastive Language-Image Pre-Training",
+            "Authors": [
+                "Chen-Wei Xie",
+                "Siyang Sun",
+                "Xiong Xiong",
+                "Yun Zheng",
+                "Deli Zhao",
+                "Jingren Zhou"
+            ]
+        },
+        {
+            "Title": "Dual-Path Adaptation From Image to Video Transformers",
+            "Authors": [
+                "Jungin Park",
+                "Jiyoung Lee",
+                "Kwanghoon Sohn"
+            ]
+        },
+        {
+            "Title": "PartMix: Regularization Strategy To Learn Part Discovery for Visible-Infrared Person Re-Identification",
+            "Authors": [
+                "Minsu Kim",
+                "Seungryong Kim",
+                "Jungin Park",
+                "Seongheon Park",
+                "Kwanghoon Sohn"
             ]
         },
         {
@@ -23979,6 +23565,157 @@
             ]
         },
         {
+            "Title": "Learning Orthogonal Prototypes for Generalized Few-Shot Semantic Segmentation",
+            "Authors": [
+                "Sun-Ao Liu",
+                "Yiheng Zhang",
+                "Zhaofan Qiu",
+                "Hongtao Xie",
+                "Yongdong Zhang",
+                "Ting Yao"
+            ]
+        },
+        {
+            "Title": "HypLiLoc: Towards Effective LiDAR Pose Regression With Hyperbolic Fusion",
+            "Authors": [
+                "Sijie Wang",
+                "Qiyu Kang",
+                "Rui She",
+                "Wei Wang",
+                "Kai Zhao",
+                "Yang Song",
+                "Wee Peng Tay"
+            ]
+        },
+        {
+            "Title": "DSFNet: Dual Space Fusion Network for Occlusion-Robust 3D Dense Face Alignment",
+            "Authors": [
+                "Heyuan Li",
+                "Bo Wang",
+                "Yu Cheng",
+                "Mohan Kankanhalli",
+                "Robby T. Tan"
+            ]
+        },
+        {
+            "Title": "Open-Set Representation Learning Through Combinatorial Embedding",
+            "Authors": [
+                "Geeho Kim",
+                "Junoh Kang",
+                "Bohyung Han"
+            ]
+        },
+        {
+            "Title": "Cross-Modal Implicit Relation Reasoning and Aligning for Text-to-Image Person Retrieval",
+            "Authors": [
+                "Ding Jiang",
+                "Mang Ye"
+            ]
+        },
+        {
+            "Title": "ERNIE-ViLG 2.0: Improving Text-to-Image Diffusion Model With Knowledge-Enhanced Mixture-of-Denoising-Experts",
+            "Authors": [
+                "Zhida Feng",
+                "Zhenyu Zhang",
+                "Xintong Yu",
+                "Yewei Fang",
+                "Lanxin Li",
+                "Xuyi Chen",
+                "Yuxiang Lu",
+                "Jiaxiang Liu",
+                "Weichong Yin",
+                "Shikun Feng",
+                "Yu Sun",
+                "Li Chen",
+                "Hao Tian",
+                "Hua Wu",
+                "Haifeng Wang"
+            ]
+        },
+        {
+            "Title": "SViTT: Temporal Learning of Sparse Video-Text Transformers",
+            "Authors": [
+                "Yi Li",
+                "Kyle Min",
+                "Subarna Tripathi",
+                "Nuno Vasconcelos"
+            ]
+        },
+        {
+            "Title": "MMG-Ego4D: Multimodal Generalization in Egocentric Action Recognition",
+            "Authors": [
+                "Xinyu Gong",
+                "Sreyas Mohan",
+                "Naina Dhingra",
+                "Jean-Charles Bazin",
+                "Yilei Li",
+                "Zhangyang Wang",
+                "Rakesh Ranjan"
+            ]
+        },
+        {
+            "Title": "Open Vocabulary Semantic Segmentation With Patch Aligned Contrastive Learning",
+            "Authors": [
+                "Jishnu Mukhoti",
+                "Tsung-Yu Lin",
+                "Omid Poursaeed",
+                "Rui Wang",
+                "Ashish Shah",
+                "Philip H.S. Torr",
+                "Ser-Nam Lim"
+            ]
+        },
+        {
+            "Title": "Independent Component Alignment for Multi-Task Learning",
+            "Authors": [
+                "Dmitry Senushkin",
+                "Nikolay Patakin",
+                "Arseny Kuznetsov",
+                "Anton Konushin"
+            ]
+        },
+        {
+            "Title": "Logical Implications for Visual Question Answering Consistency",
+            "Authors": [
+                "Sergio Tascon-Morales",
+                "Pablo Márquez-Neila",
+                "Raphael Sznitman"
+            ]
+        },
+        {
+            "Title": "Leveraging Inter-Rater Agreement for Classification in the Presence of Noisy Labels",
+            "Authors": [
+                "Maria Sofia Bucarelli",
+                "Lucas Cassano",
+                "Federico Siciliano",
+                "Amin Mantrach",
+                "Fabrizio Silvestri"
+            ]
+        },
+        {
+            "Title": "MaskCon: Masked Contrastive Learning for Coarse-Labelled Dataset",
+            "Authors": [
+                "Chen Feng",
+                "Ioannis Patras"
+            ]
+        },
+        {
+            "Title": "Image as a Foreign Language: BEiT Pretraining for Vision and Vision-Language Tasks",
+            "Authors": [
+                "Wenhui Wang",
+                "Hangbo Bao",
+                "Li Dong",
+                "Johan Bjorck",
+                "Zhiliang Peng",
+                "Qiang Liu",
+                "Kriti Aggarwal",
+                "Owais Khan Mohammed",
+                "Saksham Singhal",
+                "Subhojit Som",
+                "Furu Wei"
+            ]
+        },
+        {
             "Title": "Manipulating Transfer Learning for Property Inference",
             "Authors": [
                 "Yulong Tian",
@@ -24103,6 +23840,163 @@
             ]
         },
         {
+            "Title": "High-Frequency Stereo Matching Network",
+            "Authors": [
+                "Haoliang Zhao",
+                "Huizhou Zhou",
+                "Yongjun Zhang",
+                "Jie Chen",
+                "Yitong Yang",
+                "Yong Zhao"
+            ]
+        },
+        {
+            "Title": "Adaptive Data-Free Quantization",
+            "Authors": [
+                "Biao Qian",
+                "Yang Wang",
+                "Richang Hong",
+                "Meng Wang"
+            ]
+        },
+        {
+            "Title": "Coreset Sampling From Open-Set for Fine-Grained Self-Supervised Learning",
+            "Authors": [
+                "Sungnyun Kim",
+                "Sangmin Bae",
+                "Se-Young Yun"
+            ]
+        },
+        {
+            "Title": "iCLIP: Bridging Image Classification and Contrastive Language-Image Pre-Training for Visual Recognition",
+            "Authors": [
+                "Yixuan Wei",
+                "Yue Cao",
+                "Zheng Zhang",
+                "Houwen Peng",
+                "Zhuliang Yao",
+                "Zhenda Xie",
+                "Han Hu",
+                "Baining Guo"
+            ]
+        },
+        {
+            "Title": "Generating Features With Increased Crop-Related Diversity for Few-Shot Object Detection",
+            "Authors": [
+                "Jingyi Xu",
+                "Hieu Le",
+                "Dimitris Samaras"
+            ]
+        },
+        {
+            "Title": "Jedi: Entropy-Based Localization and Removal of Adversarial Patches",
+            "Authors": [
+                "Bilel Tarchoun",
+                "Anouar Ben Khalifa",
+                "Mohamed Ali Mahjoub",
+                "Nael Abu-Ghazaleh",
+                "Ihsen Alouani"
+            ]
+        },
+        {
+            "Title": "CAP: Robust Point Cloud Classification via Semantic and Structural Modeling",
+            "Authors": [
+                "Daizong Ding",
+                "Erling Jiang",
+                "Yuanmin Huang",
+                "Mi Zhang",
+                "Wenxuan Li",
+                "Min Yang"
+            ]
+        },
+        {
+            "Title": "Uncovering the Disentanglement Capability in Text-to-Image Diffusion Models",
+            "Authors": [
+                "Qiucheng Wu",
+                "Yujian Liu",
+                "Handong Zhao",
+                "Ajinkya Kale",
+                "Trung Bui",
+                "Tong Yu",
+                "Zhe Lin",
+                "Yang Zhang",
+                "Shiyu Chang"
+            ]
+        },
+        {
+            "Title": "CLIP-S4: Language-Guided Self-Supervised Semantic Segmentation",
+            "Authors": [
+                "Wenbin He",
+                "Suphanut Jamonnak",
+                "Liang Gou",
+                "Liu Ren"
+            ]
+        },
+        {
+            "Title": "Semantic-Conditional Diffusion Networks for Image Captioning",
+            "Authors": [
+                "Jianjie Luo",
+                "Yehao Li",
+                "Yingwei Pan",
+                "Ting Yao",
+                "Jianlin Feng",
+                "Hongyang Chao",
+                "Tao Mei"
+            ]
+        },
+        {
+            "Title": "You Do Not Need Additional Priors or Regularizers in Retinex-Based Low-Light Image Enhancement",
+            "Authors": [
+                "Huiyuan Fu",
+                "Wenkai Zheng",
+                "Xiangyu Meng",
+                "Xin Wang",
+                "Chuanming Wang",
+                "Huadong Ma"
+            ]
+        },
+        {
+            "Title": "Seasoning Model Soups for Robustness to Adversarial and Natural Distribution Shifts",
+            "Authors": [
+                "Francesco Croce",
+                "Sylvestre-Alvise Rebuffi",
+                "Evan Shelhamer",
+                "Sven Gowal"
+            ]
+        },
+        {
+            "Title": "Train-Once-for-All Personalization",
+            "Authors": [
+                "Hong-You Chen",
+                "Yandong Li",
+                "Yin Cui",
+                "Mingda Zhang",
+                "Wei-Lun Chao",
+                "Li Zhang"
+            ]
+        },
+        {
+            "Title": "MotionDiffuser: Controllable Multi-Agent Motion Prediction Using Diffusion",
+            "Authors": [
+                "Chiyu “Max” Jiang",
+                "Andre Cornman",
+                "Cheolho Park",
+                "Benjamin Sapp",
+                "Yin Zhou",
+                "Dragomir Anguelov"
+            ]
+        },
+        {
+            "Title": "Instance-Specific and Model-Adaptive Supervision for Semi-Supervised Semantic Segmentation",
+            "Authors": [
+                "Zhen Zhao",
+                "Sifan Long",
+                "Jimin Pi",
+                "Jingdong Wang",
+                "Luping Zhou"
+            ]
+        },
+        {
             "Title": "Improving Robustness of Semantic Segmentation to Motion-Blur Using Class-Centric Augmentation",
             "Authors": [
                 "Aakanksha Aakanksha",
@@ -24210,6 +24104,148 @@
                 "Jui-Hsien Wang",
                 "Doug L. James",
                 "Jiajun Wu"
+            ]
+        },
+        {
+            "Title": "Neural Rate Estimator and Unsupervised Learning for Efficient Distributed Image Analytics in Split-DNN Models",
+            "Authors": [
+                "Nilesh Ahuja",
+                "Parual Datta",
+                "Bhavya Kanzariya",
+                "V. Srinivasa Somayazulu",
+                "Omesh Tickoo"
+            ]
+        },
+        {
+            "Title": "Deep Semi-Supervised Metric Learning With Mixed Label Propagation",
+            "Authors": [
+                "Furen Zhuang",
+                "Pierre Moulin"
+            ]
+        },
+        {
+            "Title": "Galactic: Scaling End-to-End Reinforcement Learning for Rearrangement at 100k Steps-per-Second",
+            "Authors": [
+                "Vincent-Pierre Berges",
+                "Andrew Szot",
+                "Devendra Singh Chaplot",
+                "Aaron Gokaslan",
+                "Roozbeh Mottaghi",
+                "Dhruv Batra",
+                "Eric Undersander"
+            ]
+        },
+        {
+            "Title": "Improving Vision-and-Language Navigation by Generating Future-View Image Semantics",
+            "Authors": [
+                "Jialu Li",
+                "Mohit Bansal"
+            ]
+        },
+        {
+            "Title": "Critical Learning Periods for Multisensory Integration in Deep Networks",
+            "Authors": [
+                "Michael Kleinman",
+                "Alessandro Achille",
+                "Stefano Soatto"
+            ]
+        },
+        {
+            "Title": "Simulated Annealing in Early Layers Leads to Better Generalization",
+            "Authors": [
+                "Amir M. Sarfi",
+                "Zahra Karimpour",
+                "Muawiz Chaudhary",
+                "Nasir M. Khalid",
+                "Mirco Ravanelli",
+                "Sudhir Mudur",
+                "Eugene Belilovsky"
+            ]
+        },
+        {
+            "Title": "CUDA: Convolution-Based Unlearnable Datasets",
+            "Authors": [
+                "Vinu Sankar Sadasivan",
+                "Soltanolkotabi",
+                "Soheil Feizi"
+            ]
+        },
+        {
+            "Title": "Architectural Backdoors in Neural Networks",
+            "Authors": [
+                "Mikel Bober-Irizar",
+                "Ilia Shumailov",
+                "Yiren Zhao",
+                "Robert Mullins",
+                "Nicolas Papernot"
+            ]
+        },
+        {
+            "Title": "From Images to Textual Prompts: Zero-Shot Visual Question Answering With Frozen Large Language Models",
+            "Authors": [
+                "Jiaxian Guo",
+                "Junnan Li",
+                "Dongxu Li",
+                "Anthony Meng Huat Tiong",
+                "Boyang Li",
+                "Dacheng Tao",
+                "Steven Hoi"
+            ]
+        },
+        {
+            "Title": "FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning",
+            "Authors": [
+                "Yuanhao Xiong",
+                "Ruochen Wang",
+                "Minhao Cheng",
+                "Felix Yu",
+                "Cho-Jui Hsieh"
+            ]
+        },
+        {
+            "Title": "Sparsifiner: Learning Sparse Instance-Dependent Attention for Efficient Vision Transformers",
+            "Authors": [
+                "Cong Wei",
+                "Brendan Duke",
+                "Ruowei Jiang",
+                "Parham Aarabi",
+                "Graham W. Taylor",
+                "Florian Shkurti"
+            ]
+        },
+        {
+            "Title": "Generalist: Decoupling Natural and Robust Generalization",
+            "Authors": [
+                "Hongjun Wang",
+                "Yisen Wang"
+            ]
+        },
+        {
+            "Title": "How To Prevent the Poor Performance Clients for Personalized Federated Learning?",
+            "Authors": [
+                "Zhe Qu",
+                "Xingyu Li",
+                "Xiao Han",
+                "Rui Duan",
+                "Chengchao Shen",
+                "Lixing Chen"
+            ]
+        },
+        {
+            "Title": "Boosting Transductive Few-Shot Fine-Tuning With Margin-Based Uncertainty Weighting and Probability Regularization",
+            "Authors": [
+                "Ran Tao",
+                "Hao Chen",
+                "Marios Savvides"
+            ]
+        },
+        {
+            "Title": "Enhancing Multiple Reliability Measures via Nuisance-Extended Information Bottleneck",
+            "Authors": [
+                "Jongheon Jeong",
+                "Sihyun Yu",
+                "Hankook Lee",
+                "Jinwoo Shin"
             ]
         },
         {
@@ -24372,163 +24408,127 @@
             ]
         },
         {
-            "Title": "MMVC: Learned Multi-Mode Video Compression With Block-Based Prediction Mode Selection and Density-Adaptive Entropy Coding",
+            "Title": "Learning Debiased Representations via Conditional Attribute Interpolation",
             "Authors": [
-                "Bowen Liu",
-                "Yu Chen",
-                "Rakesh Chowdary Machineni",
-                "Shiyu Liu",
-                "Hun-Seok Kim"
+                "Yi-Kai Zhang",
+                "Qi-Wei Wang",
+                "De-Chuan Zhan",
+                "Han-Jia Ye"
             ]
         },
         {
-            "Title": "Constrained Evolutionary Diffusion Filter for Monocular Endoscope Tracking",
+            "Title": "Weakly Supervised Posture Mining for Fine-Grained Classification",
             "Authors": [
-                "Xiongbiao Luo"
+                "Zhenchao Tang",
+                "Hualin Yang",
+                "Calvin Yu-Chian Chen"
             ]
         },
         {
-            "Title": "Hybrid Active Learning via Deep Clustering for Video Action Detection",
+            "Title": "Elastic Aggregation for Federated Optimization",
             "Authors": [
-                "Aayush J. Rana",
-                "Yogesh S. Rawat"
+                "Dengsheng Chen",
+                "Jie Hu",
+                "Vince Junkai Tan",
+                "Xiaoming Wei",
+                "Enhua Wu"
             ]
         },
         {
-            "Title": "Equiangular Basis Vectors",
+            "Title": "Regularize Implicit Neural Representation by Itself",
             "Authors": [
-                "Yang Shen",
-                "Xuhao Sun",
-                "Xiu-Shen Wei"
+                "Zhemin Li",
+                "Hongxia Wang",
+                "Deyu Meng"
             ]
         },
         {
-            "Title": "À-La-Carte Prompt Tuning (APT): Combining Distinct Data via Composable Prompting",
+            "Title": "Multivariate, Multi-Frequency and Multimodal: Rethinking Graph Neural Networks for Emotion Recognition in Conversation",
             "Authors": [
-                "Benjamin Bowman",
-                "Alessandro Achille",
-                "Luca Zancato",
-                "Matthew Trager",
-                "Pramuditha Perera",
-                "Giovanni Paolini",
-                "Stefano Soatto"
+                "Feiyu Chen",
+                "Jie Shao",
+                "Shuyuan Zhu",
+                "Heng Tao Shen"
             ]
         },
         {
-            "Title": "CAT: LoCalization and IdentificAtion Cascade Detection Transformer for Open-World Object Detection",
+            "Title": "Learning a Practical SDR-to-HDRTV Up-Conversion Using New Dataset and Degradation Models",
             "Authors": [
-                "Shuailei Ma",
-                "Yuefeng Wang",
-                "Ying Wei",
-                "Jiaqi Fan",
-                "Thomas H. Li",
-                "Hongli Liu",
-                "Fanbing Lv"
+                "Cheng Guo",
+                "Leidong Fan",
+                "Ziyu Xue",
+                "Xiuhua Jiang"
             ]
         },
         {
-            "Title": "An Actor-Centric Causality Graph for Asynchronous Temporal Inference in Group Activity",
+            "Title": "Fine-Grained Classification With Noisy Labels",
             "Authors": [
-                "Zhao Xie",
-                "Tian Gao",
-                "Kewei Wu",
-                "Jiao Chang"
+                "Qi Wei",
+                "Lei Feng",
+                "Haoliang Sun",
+                "Ren Wang",
+                "Chenhui Guo",
+                "Yilong Yin"
             ]
         },
         {
-            "Title": "GCFAgg: Global and Cross-View Feature Aggregation for Multi-View Clustering",
+            "Title": "VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models",
             "Authors": [
-                "Weiqing Yan",
-                "Yuanyang Zhang",
-                "Chenlei Lv",
-                "Chang Tang",
-                "Guanghui Yue",
-                "Liang Liao",
-                "Weisi Lin"
+                "Ajay Jain",
+                "Amber Xie",
+                "Pieter Abbeel"
             ]
         },
         {
-            "Title": "Unsupervised Visible-Infrared Person Re-Identification via Progressive Graph Matching and Alternate Learning",
+            "Title": "Hint-Aug: Drawing Hints From Foundation Vision Transformers Towards Boosted Few-Shot Parameter-Efficient Tuning",
             "Authors": [
-                "Zesen Wu",
-                "Mang Ye"
+                "Zhongzhi Yu",
+                "Shang Wu",
+                "Yonggan Fu",
+                "Shunyao Zhang",
+                "Yingyan (Celine) Lin"
             ]
         },
         {
-            "Title": "Similarity Maps for Self-Training Weakly-Supervised Phrase Grounding",
+            "Title": "TIPI: Test Time Adaptation With Transformation Invariance",
             "Authors": [
-                "Tal Shaharabany",
-                "Lior Wolf"
+                "A. Tuan Nguyen",
+                "Thanh Nguyen-Tang",
+                "Ser-Nam Lim",
+                "Philip H.S. Torr"
             ]
         },
         {
-            "Title": "DA Wand: Distortion-Aware Selection Using Neural Mesh Parameterization",
+            "Title": "1% VS 100%: Parameter-Efficient Low Rank Adapter for Dense Predictions",
             "Authors": [
-                "Richard Liu",
-                "Noam Aigerman",
-                "Vladimir G. Kim",
-                "Rana Hanocka"
+                "Dongshuo Yin",
+                "Yiran Yang",
+                "Zhechao Wang",
+                "Hongfeng Yu",
+                "Kaiwen Wei",
+                "Xian Sun"
             ]
         },
         {
-            "Title": "BiCro: Noisy Correspondence Rectification for Multi-Modality Data via Bi-Directional Cross-Modal Similarity Consistency",
+            "Title": "Adversarial Robustness via Random Projection Filters",
             "Authors": [
-                "Shuo Yang",
-                "Zhaopan Xu",
-                "Kai Wang",
-                "Yang You",
-                "Hongxun Yao",
-                "Tongliang Liu",
-                "Min Xu"
+                "Minjing Dong",
+                "Chang Xu"
             ]
         },
         {
-            "Title": "DropKey for Vision Transformer",
+            "Title": "LASP: Text-to-Text Optimization for Language-Aware Soft Prompting of Vision & Language Models",
             "Authors": [
-                "Bonan Li",
-                "Yinhan Hu",
-                "Xuecheng Nie",
-                "Congying Han",
-                "Xiangjian Jiang",
-                "Tiande Guo",
-                "Luoqi Liu"
+                "Adrian Bulat",
+                "Georgios Tzimiropoulos"
             ]
         },
         {
-            "Title": "Shape-Erased Feature Learning for Visible-Infrared Person Re-Identification",
+            "Title": "OT-Filter: An Optimal Transport Filter for Learning With Noisy Labels",
             "Authors": [
-                "Jiawei Feng",
-                "Ancong Wu",
-                "Wei-Shi Zheng"
-            ]
-        },
-        {
-            "Title": "Revisiting the P3P Problem",
-            "Authors": [
-                "Yaqing Ding",
-                "Jian Yang",
-                "Viktor Larsson",
-                "Carl Olsson",
-                "Kalle Åström"
-            ]
-        },
-        {
-            "Title": "DaFKD: Domain-Aware Federated Knowledge Distillation",
-            "Authors": [
-                "Haozhao Wang",
-                "Yichen Li",
-                "Wenchao Xu",
-                "Ruixuan Li",
-                "Yufeng Zhan",
-                "Zhigang Zeng"
-            ]
-        },
-        {
-            "Title": "Re-IQA: Unsupervised Learning for Image Quality Assessment in the Wild",
-            "Authors": [
-                "Avinab Saha",
-                "Sandeep Mishra",
-                "Alan C. Bovik"
+                "Chuanwen Feng",
+                "Yilong Ren",
+                "Xike Xie"
             ]
         }
     ]

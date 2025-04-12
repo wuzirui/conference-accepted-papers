@@ -21731,6 +21731,191 @@
             ]
         },
         {
+            "Title": "CPGA: Coding Priors-Guided Aggregation Network for Compressed Video Quality Enhancement",
+            "Authors": [
+                "Qiang Zhu",
+                "Jinhua Hao",
+                "Yukang Ding",
+                "Yu Liu",
+                "Qiao Mo",
+                "Ming Sun",
+                "Chao Zhou",
+                "Shuyuan Zhu"
+            ]
+        },
+        {
+            "Title": "Enhancing Vision-Language Pre-training with Rich Supervisions",
+            "Authors": [
+                "Yuan Gao",
+                "Kunyu Shi",
+                "Pengkai Zhu",
+                "Edouard Belval",
+                "Oren Nuriel",
+                "Srikar Appalaraju",
+                "Shabnam Ghadar",
+                "Zhuowen Tu",
+                "Vijay Mahadevan",
+                "Stefano Soatto"
+            ]
+        },
+        {
+            "Title": "Aerial Lifting: Neural Urban Semantic and Building Instance Lifting from Aerial Imagery",
+            "Authors": [
+                "Yuqi Zhang",
+                "Guanying Chen",
+                "Jiaxing Chen",
+                "Shuguang Cui"
+            ]
+        },
+        {
+            "Title": "HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields",
+            "Authors": [
+                "Haozhe Qi",
+                "Chen Zhao",
+                "Mathieu Salzmann",
+                "Alexander Mathis"
+            ]
+        },
+        {
+            "Title": "CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data",
+            "Authors": [
+                "Wei Fang",
+                "Yuxing Tang",
+                "Heng Guo",
+                "Mingze Yuan",
+                "Tony C. W. MOK",
+                "Ke Yan",
+                "Jiawen Yao",
+                "Xin Chen",
+                "Zaiyi Liu",
+                "Le Lu",
+                "Ling Zhang",
+                "Minfeng Xu"
+            ]
+        },
+        {
+            "Title": "Beyond Textual Constraints: Learning Novel Diffusion Conditions with Fewer Examples",
+            "Authors": [
+                "Yuyang Yu",
+                "Bangzhen Liu",
+                "Chenxi Zheng",
+                "Xuemiao Xu",
+                "Huaidong Zhang",
+                "Shengfeng He"
+            ]
+        },
+        {
+            "Title": "ProxyCap: Real-time Monocular Full-body Capture in World Space via Human-Centric Proxy-to-Motion Learning",
+            "Authors": [
+                "Yuxiang Zhang",
+                "Hongwen Zhang",
+                "Liangxiao Hu",
+                "Jiajun Zhang",
+                "Hongwei Yi",
+                "Shengping Zhang",
+                "Yebin Liu"
+            ]
+        },
+        {
+            "Title": "Learning from Synthetic Human Group Activities",
+            "Authors": [
+                "Che-Jui Chang",
+                "Danrui Li",
+                "Deep Patel",
+                "Parth Goel",
+                "Seonghyeon Moon",
+                "Samuel Sohn",
+                "Honglu Zhou",
+                "Sejong Yoon",
+                "Vladimir Pavlovic",
+                "Mubbasir Kapadia"
+            ]
+        },
+        {
+            "Title": "Can’t Make an Omelette Without Breaking Some Eggs: Plausible Action Anticipation Using Large Video-Language Models",
+            "Authors": [
+                "Himangi Mittal",
+                "Nakul Agarwal",
+                "Shao-Yuan Lo",
+                "Kwonjoon Lee"
+            ]
+        },
+        {
+            "Title": "Task-aligned Part-aware Panoptic Segmentation through Joint Object-Part Representations",
+            "Authors": [
+                "Daan de Geus",
+                "Gijs Dubbelman"
+            ]
+        },
+        {
+            "Title": "FreeKD: Knowledge Distillation via Semantic Frequency Prompt",
+            "Authors": [
+                "Yuan Zhang",
+                "Tao Huang",
+                "Jiaming Liu",
+                "Tao Jiang",
+                "Kuan Cheng",
+                "Shanghang Zhang"
+            ]
+        },
+        {
+            "Title": "Enhanced Motion-Text Alignment for Image-to-Video Transfer Learning",
+            "Authors": [
+                "Wei Zhang",
+                "Chaoqun Wan",
+                "Tongliang Liu",
+                "Xinmei Tian",
+                "Xu Shen",
+                "Jieping Ye"
+            ]
+        },
+        {
+            "Title": "ID-like Prompt Learning for Few-Shot Out-of-Distribution Detection",
+            "Authors": [
+                "Yichen Bai",
+                "Zongbo Han",
+                "Bing Cao",
+                "Xiaoheng Jiang",
+                "Qinghua Hu",
+                "Changqing Zhang"
+            ]
+        },
+        {
+            "Title": "Unsupervised 3D Structure Inference from Category-Specific Image Collections",
+            "Authors": [
+                "Weikang Wang",
+                "Dongliang Cao",
+                "Florian Bernard"
+            ]
+        },
+        {
+            "Title": "Video2Game: Real-time Interactive Realistic and Browser-Compatible Environment from a Single Video",
+            "Authors": [
+                "Hongchi Xia",
+                "Chih-Hao Lin",
+                "Wei-Chiu Ma",
+                "Shenlong Wang"
+            ]
+        },
+        {
+            "Title": "Identifying Important Group of Pixels using Interactions",
+            "Authors": [
+                "Kosuke Sumiyasu",
+                "Kazuhiko Kawamoto",
+                "Hiroshi Kera"
+            ]
+        },
+        {
+            "Title": "360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model",
+            "Authors": [
+                "Qian Wang",
+                "Weiqi Li",
+                "Chong Mou",
+                "Xinhua Cheng",
+                "Jian Zhang"
+            ]
+        },
+        {
             "Title": "Alpha Invariance: On Inverse Scaling Between Distance and Volume Density in Neural Radiance Fields",
             "Authors": [
                 "Joshua Ahn",
@@ -22923,6 +23108,173 @@
                 "Ke Li",
                 "Xing Sun",
                 "Shaohui Lin"
+            ]
+        },
+        {
+            "Title": "BigGait: Learning Gait Representation You Want by Large Vision Models",
+            "Authors": [
+                "Dingqiang Ye",
+                "Chao Fan",
+                "Jingzhe Ma",
+                "Xiaoming Liu",
+                "Shiqi Yu"
+            ]
+        },
+        {
+            "Title": "Event-based Visible and Infrared Fusion via Multi-task Collaboration",
+            "Authors": [
+                "Mengyue Geng",
+                "Lin Zhu",
+                "Lizhi Wang",
+                "Wei Zhang",
+                "Ruiqin Xiong",
+                "Yonghong Tian"
+            ]
+        },
+        {
+            "Title": "Learning to Rematch Mismatched Pairs for Robust Cross-Modal Retrieval",
+            "Authors": [
+                "Haochen Han",
+                "Qinghua Zheng",
+                "Guang Dai",
+                "Minnan Luo",
+                "Jingdong Wang"
+            ]
+        },
+        {
+            "Title": "Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models",
+            "Authors": [
+                "Xin Li",
+                "Yunfei Wu",
+                "Xinghua Jiang",
+                "ZhiHao Guo",
+                "Mingming Gong",
+                "Haoyu Cao",
+                "Yinsong Liu",
+                "Deqiang Jiang",
+                "Xing Sun"
+            ]
+        },
+        {
+            "Title": "Language-Driven Anchors for Zero-Shot Adversarial Robustness",
+            "Authors": [
+                "Xiao Li",
+                "Wei Zhang",
+                "Yining Liu",
+                "Zhanhao Hu",
+                "Bo Zhang",
+                "Xiaolin Hu"
+            ]
+        },
+        {
+            "Title": "Breathing Life Into Sketches Using Text-to-Video Priors",
+            "Authors": [
+                "Rinon Gal",
+                "Yael Vinker",
+                "Yuval Alaluf",
+                "Amit H. Bermano",
+                "Daniel Cohen-Or",
+                "Ariel Shamir",
+                "Gal Chechik"
+            ]
+        },
+        {
+            "Title": "Gaussian Shell Maps for Efficient 3D Human Generation",
+            "Authors": [
+                "Rameen Abdal",
+                "Wang Yifan",
+                "Zifan Shi",
+                "Yinghao Xu",
+                "Ryan Po",
+                "Zhengfei Kuang",
+                "Qifeng Chen",
+                "Dit-Yan Yeung",
+                "Gordon Wetzstein"
+            ]
+        },
+        {
+            "Title": "AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation",
+            "Authors": [
+                "Haonan Wang",
+                "Qixiang ZHANG",
+                "Yi Li",
+                "Xiaomeng Li"
+            ]
+        },
+        {
+            "Title": "Living Scenes: Multi-object Relocalization and Reconstruction in Changing 3D Environments",
+            "Authors": [
+                "Liyuan Zhu",
+                "Shengyu Huang",
+                "Konrad Schindler",
+                "Iro Armeni"
+            ]
+        },
+        {
+            "Title": "Byzantine-robust Decentralized Federated Learning via Dual-domain Clustering and Trust Bootstrapping",
+            "Authors": [
+                "Peng Sun",
+                "Xinyang Liu",
+                "Zhibo Wang",
+                "Bo Liu"
+            ]
+        },
+        {
+            "Title": "Incorporating Geo-Diverse Knowledge into Prompting for Increased Geographical Robustness in Object Recognition",
+            "Authors": [
+                "Kyle Buettner",
+                "Sina Malakouti",
+                "Xiang Li",
+                "Adriana Kovashka"
+            ]
+        },
+        {
+            "Title": "MotionEditor: Editing Video Motion via Content-Aware Diffusion",
+            "Authors": [
+                "Shuyuan Tu",
+                "Qi Dai",
+                "Zhi-Qi Cheng",
+                "Han Hu",
+                "Xintong Han",
+                "Zuxuan Wu",
+                "Yu-Gang Jiang"
+            ]
+        },
+        {
+            "Title": "EVS-assisted Joint Deblurring Rolling-Shutter Correction and Video Frame Interpolation through Sensor Inverse Modeling",
+            "Authors": [
+                "Rui Jiang",
+                "Fangwen Tu",
+                "Yixuan Long",
+                "Aabhaas Vaish",
+                "Bowen Zhou",
+                "Qinyi Wang",
+                "Wei Zhang",
+                "Yuntan Fang",
+                "Luis Eduardo García Capel",
+                "Bo Mu",
+                "Tiejun Dai",
+                "Andreas Suess"
+            ]
+        },
+        {
+            "Title": "DiffAM: Diffusion-based Adversarial Makeup Transfer for Facial Privacy Protection",
+            "Authors": [
+                "Yuhao Sun",
+                "Lingyun Yu",
+                "Hongtao Xie",
+                "Jiaming Li",
+                "Yongdong Zhang"
+            ]
+        },
+        {
+            "Title": "Open-World Semantic Segmentation Including Class Similarity",
+            "Authors": [
+                "Matteo Sodano",
+                "Federico Magistri",
+                "Lucas Nunes",
+                "Jens Behley",
+                "Cyrill Stachniss"
             ]
         },
         {
@@ -24840,6 +25192,1597 @@
             ]
         },
         {
+            "Title": "A2XP: Towards Private Domain Generalization",
+            "Authors": [
+                "Geunhyeok Yu",
+                "Hyoseok Hwang"
+            ]
+        },
+        {
+            "Title": "Training Like a Medical Resident: Context-Prior Learning Toward Universal Medical Image Segmentation",
+            "Authors": [
+                "Yunhe Gao"
+            ]
+        },
+        {
+            "Title": "CityDreamer: Compositional Generative Model of Unbounded 3D Cities",
+            "Authors": [
+                "Haozhe Xie",
+                "Zhaoxi Chen",
+                "Fangzhou Hong",
+                "Ziwei Liu"
+            ]
+        },
+        {
+            "Title": "Noisy-Correspondence Learning for Text-to-Image Person Re-identification",
+            "Authors": [
+                "Yang Qin",
+                "Yingke Chen",
+                "Dezhong Peng",
+                "Xi Peng",
+                "Joey Tianyi Zhou",
+                "Peng Hu"
+            ]
+        },
+        {
+            "Title": "ParamISP: Learned Forward and Inverse ISPs using Camera Parameters",
+            "Authors": [
+                "Woohyeok Kim",
+                "Geonu Kim",
+                "Junyong Lee",
+                "Seungyong Lee",
+                "Seung-Hwan Baek",
+                "Sunghyun Cho"
+            ]
+        },
+        {
+            "Title": "Diversity-aware Channel Pruning for StyleGAN Compression",
+            "Authors": [
+                "Jiwoo Chung",
+                "Sangeek Hyun",
+                "Sang-Heon Shim",
+                "Jae-Pil Heo"
+            ]
+        },
+        {
+            "Title": "LEMON: Learning 3D Human-Object Interaction Relation from 2D Images",
+            "Authors": [
+                "Yuhang Yang",
+                "Wei Zhai",
+                "Hongchen Luo",
+                "Yang Cao",
+                "Zheng-Jun Zha"
+            ]
+        },
+        {
+            "Title": "Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection",
+            "Authors": [
+                "Zhanwei Zhang",
+                "Minghao Chen",
+                "Shuai Xiao",
+                "Liang Peng",
+                "Hengjia Li",
+                "Binbin Lin",
+                "Ping Li",
+                "Wenxiao Wang",
+                "Boxi Wu",
+                "Deng Cai"
+            ]
+        },
+        {
+            "Title": "Prompt-Enhanced Multiple Instance Learning for Weakly Supervised Video Anomaly Detection",
+            "Authors": [
+                "Junxi Chen",
+                "Liang Li",
+                "Li Su",
+                "Zheng-Jun Zha",
+                "Qingming Huang"
+            ]
+        },
+        {
+            "Title": "VoCo: A Simple-yet-Effective Volume Contrastive Learning Framework for 3D Medical Image Analysis",
+            "Authors": [
+                "Linshan Wu",
+                "Jia-Xin Zhuang",
+                "Hao Chen"
+            ]
+        },
+        {
+            "Title": "Brush2Prompt: Contextual Prompt Generator for Object Inpainting",
+            "Authors": [
+                "Mang Tik Chiu",
+                "Yuqian Zhou",
+                "Lingzhi Zhang",
+                "Zhe Lin",
+                "Connelly Barnes",
+                "Sohrab Amirghodsi",
+                "Eli Shechtman",
+                "Humphrey Shi"
+            ]
+        },
+        {
+            "Title": "NeRF On-the-go: Exploiting Uncertainty for Distractor-free NeRFs in the Wild",
+            "Authors": [
+                "Weining Ren",
+                "Zihan Zhu",
+                "Boyang Sun",
+                "Jiaqi Chen",
+                "Marc Pollefeys",
+                "Songyou Peng"
+            ]
+        },
+        {
+            "Title": "Random Entangled Tokens for Adversarially Robust Vision Transformer",
+            "Authors": [
+                "Huihui Gong",
+                "Minjing Dong",
+                "Siqi Ma",
+                "Seyit Camtepe",
+                "Surya Nepal",
+                "Chang Xu"
+            ]
+        },
+        {
+            "Title": "PNeRV: Enhancing Spatial Consistency via Pyramidal Neural Representation for Videos",
+            "Authors": [
+                "Qi Zhao",
+                "M. Salman Asif",
+                "Zhan Ma"
+            ]
+        },
+        {
+            "Title": "Step Differences in Instructional Video",
+            "Authors": [
+                "Tushar Nagarajan",
+                "Lorenzo Torresani"
+            ]
+        },
+        {
+            "Title": "OST: Refining Text Knowledge with Optimal Spatio-Temporal Descriptor for General Video Recognition",
+            "Authors": [
+                "Tongjia Chen",
+                "Hongshan Yu",
+                "Zhengeng Yang",
+                "Zechuan Li",
+                "Wei Sun",
+                "Chen Chen"
+            ]
+        },
+        {
+            "Title": "G^3-LQ: Marrying Hyperbolic Alignment with Explicit Semantic-Geometric Modeling for 3D Visual Grounding",
+            "Authors": [
+                "Yuan Wang",
+                "Yali Li",
+                "Shengjin Wang"
+            ]
+        },
+        {
+            "Title": "Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images",
+            "Authors": [
+                "Chaoqin Huang",
+                "Aofan Jiang",
+                "Jinghao Feng",
+                "Ya Zhang",
+                "Xinchao Wang",
+                "Yanfeng Wang"
+            ]
+        },
+        {
+            "Title": "NightCC: Nighttime Color Constancy via Adaptive Channel Masking",
+            "Authors": [
+                "Shuwei Li",
+                "Robby T. Tan"
+            ]
+        },
+        {
+            "Title": "SyncMask: Synchronized Attentional Masking for Fashion-centric Vision-Language Pretraining",
+            "Authors": [
+                "Chull Hwan Song",
+                "Taebaek Hwang",
+                "Jooyoung Yoon",
+                "Shunghyun Choi",
+                "Yeong Hyeon Gu"
+            ]
+        },
+        {
+            "Title": "DYSON: Dynamic Feature Space Self-Organization for Online Task-Free Class Incremental Learning",
+            "Authors": [
+                "Yuhang He",
+                "YingJie Chen",
+                "Yuhan Jin",
+                "Songlin Dong",
+                "Xing Wei",
+                "Yihong Gong"
+            ]
+        },
+        {
+            "Title": "Harnessing Large Language Models for Training-free Video Anomaly Detection",
+            "Authors": [
+                "Luca Zanella",
+                "Willi Menapace",
+                "Massimiliano Mancini",
+                "Yiming Wang",
+                "Elisa Ricci"
+            ]
+        },
+        {
+            "Title": "EvDiG: Event-guided Direct and Global Components Separation",
+            "Authors": [
+                "xinyu zhou",
+                "Peiqi Duan",
+                "Boyu Li",
+                "Chu Zhou",
+                "Chao Xu",
+                "Boxin Shi"
+            ]
+        },
+        {
+            "Title": "Condition-Aware Neural Network for Controlled Image Generation",
+            "Authors": [
+                "Han Cai",
+                "Muyang Li",
+                "Qinsheng Zhang",
+                "Ming-Yu Liu",
+                "Song Han"
+            ]
+        },
+        {
+            "Title": "Sparse Views Near Light: A Practical Paradigm for Uncalibrated Point-light Photometric Stereo",
+            "Authors": [
+                "Mohammed Brahimi",
+                "Bjoern Haefner",
+                "Zhenzhang Ye",
+                "Bastian Goldluecke",
+                "Daniel Cremers"
+            ]
+        },
+        {
+            "Title": "Promptable Behaviors: Personalizing Multi-Objective Rewards from Human Preferences",
+            "Authors": [
+                "Minyoung Hwang",
+                "Luca Weihs",
+                "Chanwoo Park",
+                "Kimin Lee",
+                "Aniruddha Kembhavi",
+                "Kiana Ehsani"
+            ]
+        },
+        {
+            "Title": "Total Selfie: Generating Full-Body Selfies",
+            "Authors": [
+                "Bowei Chen",
+                "Brian Curless",
+                "Ira Kemelmacher-Shlizerman",
+                "Steve Seitz"
+            ]
+        },
+        {
+            "Title": "LayoutFormer: Hierarchical Text Detection Towards Scene Text Understanding",
+            "Authors": [
+                "Min Liang",
+                "Jia-Wei Ma",
+                "Xiaobin Zhu",
+                "Jingyan Qin",
+                "Xu-Cheng Yin"
+            ]
+        },
+        {
+            "Title": "ODCR: Orthogonal Decoupling Contrastive Regularization for Unpaired Image Dehazing",
+            "Authors": [
+                "Zhongze Wang",
+                "Haitao Zhao",
+                "Jingchao Peng",
+                "Lujian Yao",
+                "Kaijie Zhao"
+            ]
+        },
+        {
+            "Title": "Accelerating Neural Field Training via Soft Mining",
+            "Authors": [
+                "Shakiba Kheradmand",
+                "Daniel Rebain",
+                "Gopal Sharma",
+                "Hossam Isack",
+                "Abhishek Kar",
+                "Andrea Tagliasacchi",
+                "Kwang Moo Yi"
+            ]
+        },
+        {
+            "Title": "PEGASUS: Personalized Generative 3D Avatars with Composable Attributes",
+            "Authors": [
+                "Hyunsoo Cha",
+                "Byungjun Kim",
+                "Hanbyul Joo"
+            ]
+        },
+        {
+            "Title": "Rethinking Inductive Biases for Surface Normal Estimation",
+            "Authors": [
+                "Gwangbin Bae",
+                "Andrew J. Davison"
+            ]
+        },
+        {
+            "Title": "SHINOBI: Shape and Illumination using Neural Object Decomposition via BRDF Optimization In-the-wild",
+            "Authors": [
+                "Andreas Engelhardt",
+                "Amit Raj",
+                "Mark Boss",
+                "Yunzhi Zhang",
+                "Abhishek Kar",
+                "Yuanzhen Li",
+                "Ricardo Martin-Brualla",
+                "Jonathan T. Barron",
+                "Deqing Sun",
+                "Hendrik Lensch",
+                "Varun Jampani"
+            ]
+        },
+        {
+            "Title": "Total-Decom: Decomposed 3D Scene Reconstruction with Minimal Interaction",
+            "Authors": [
+                "Xiaoyang Lyu",
+                "Chirui Chang",
+                "Peng Dai",
+                "Yangtian Sun",
+                "Xiaojuan Qi"
+            ]
+        },
+        {
+            "Title": "Dynamic Prompt Optimizing for Text-to-Image Generation",
+            "Authors": [
+                "Wenyi Mo",
+                "Tianyu Zhang",
+                "Yalong Bai",
+                "Bing Su",
+                "Ji-Rong Wen",
+                "Qing Yang"
+            ]
+        },
+        {
+            "Title": "Hallucination Augmented Contrastive Learning for Multimodal Large Language Model",
+            "Authors": [
+                "Chaoya Jiang",
+                "Haiyang Xu",
+                "Mengfan Dong",
+                "Jiaxing Chen",
+                "Wei Ye",
+                "Ming Yan",
+                "Qinghao Ye",
+                "Ji Zhang",
+                "Fei Huang",
+                "Shikun Zhang"
+            ]
+        },
+        {
+            "Title": "LORS: Low-rank Residual Structure for Parameter-Efficient Network Stacking",
+            "Authors": [
+                "Jialin Li",
+                "Qiang Nie",
+                "Weifu Fu",
+                "Yuhuan Lin",
+                "Guangpin Tao",
+                "Yong Liu",
+                "Chengjie Wang"
+            ]
+        },
+        {
+            "Title": "Grounded Question-Answering in Long Egocentric Videos",
+            "Authors": [
+                "Shangzhe Di",
+                "Weidi Xie"
+            ]
+        },
+        {
+            "Title": "FairRAG: Fair Human Generation via Fair Retrieval Augmentation",
+            "Authors": [
+                "Robik Shrestha",
+                "Yang Zou",
+                "Qiuyu Chen",
+                "Zhiheng Li",
+                "Yusheng Xie",
+                "Siqi Deng"
+            ]
+        },
+        {
+            "Title": "MicroDiffusion: Implicit Representation-Guided Diffusion for 3D Reconstruction from Limited 2D Microscopy Projections",
+            "Authors": [
+                "mude hui",
+                "Zihao Wei",
+                "Hongru Zhu",
+                "Fei Xia",
+                "Yuyin Zhou"
+            ]
+        },
+        {
+            "Title": "Learning Inclusion Matching for Animation Paint Bucket Colorization",
+            "Authors": [
+                "Yuekun Dai",
+                "Shangchen Zhou",
+                "Blake Li",
+                "Chongyi Li",
+                "Chen Change Loy"
+            ]
+        },
+        {
+            "Title": "DPMesh: Exploiting Diffusion Prior for Occluded Human Mesh Recovery",
+            "Authors": [
+                "Yixuan Zhu",
+                "Ao Li",
+                "Yansong Tang",
+                "Wenliang Zhao",
+                "Jie Zhou",
+                "Jiwen Lu"
+            ]
+        },
+        {
+            "Title": "Visual Layout Composer: Image-Vector Dual Diffusion Model for Design Layout Generation",
+            "Authors": [
+                "Mohammad Amin Shabani",
+                "Zhaowen Wang",
+                "Difan Liu",
+                "Nanxuan Zhao",
+                "Jimei Yang",
+                "Yasutaka Furukawa"
+            ]
+        },
+        {
+            "Title": "Pose-Guided Self-Training with Two-Stage Clustering for Unsupervised Landmark Discovery",
+            "Authors": [
+                "Siddharth Tourani",
+                "Ahmed Alwheibi",
+                "Arif Mahmood",
+                "Muhammad Haris Khan"
+            ]
+        },
+        {
+            "Title": "DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction",
+            "Authors": [
+                "Weiyi Lv",
+                "Yuhang Huang",
+                "NING Zhang",
+                "Ruei-Sung Lin",
+                "Mei Han",
+                "Dan Zeng"
+            ]
+        },
+        {
+            "Title": "Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding",
+            "Authors": [
+                "Sicong Leng",
+                "Hang Zhang",
+                "Guanzheng Chen",
+                "Xin Li",
+                "Shijian Lu",
+                "Chunyan Miao",
+                "Lidong Bing"
+            ]
+        },
+        {
+            "Title": "LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching",
+            "Authors": [
+                "Yixun Liang",
+                "Xin Yang",
+                "Jiantao Lin",
+                "Haodong LI",
+                "Xiaogang Xu",
+                "Ying-Cong Chen"
+            ]
+        },
+        {
+            "Title": "Preserving Fairness Generalization in Deepfake Detection",
+            "Authors": [
+                "Li Lin",
+                "Xinan He",
+                "Yan Ju",
+                "Xin Wang",
+                "Feng Ding",
+                "Shu Hu"
+            ]
+        },
+        {
+            "Title": "RepViT: Revisiting Mobile CNN From ViT Perspective",
+            "Authors": [
+                "Ao Wang",
+                "Hui Chen",
+                "Zijia Lin",
+                "Jungong Han",
+                "Guiguang Ding"
+            ]
+        },
+        {
+            "Title": "Simple Semantic-Aided Few-Shot Learning",
+            "Authors": [
+                "Hai Zhang",
+                "Junzhe Xu",
+                "Shanlin Jiang",
+                "Zhenan He"
+            ]
+        },
+        {
+            "Title": "OVMR: Open-Vocabulary Recognition with Multi-Modal References",
+            "Authors": [
+                "Zehong Ma",
+                "Shiliang Zhang",
+                "Longhui Wei",
+                "Qi Tian"
+            ]
+        },
+        {
+            "Title": "AETTA: Label-Free Accuracy Estimation for Test-Time Adaptation",
+            "Authors": [
+                "Taeckyung Lee",
+                "Sorn Chottananurak",
+                "Taesik Gong",
+                "Sung-Ju Lee"
+            ]
+        },
+        {
+            "Title": "A Video is Worth 256 Bases: Spatial-Temporal Expectation-Maximization Inversion for Zero-Shot Video Editing",
+            "Authors": [
+                "Li Maomao",
+                "Yu Li",
+                "Tianyu Yang",
+                "Yunfei Liu",
+                "Dongxu Yue",
+                "Zhihui Lin",
+                "Dong Xu"
+            ]
+        },
+        {
+            "Title": "A Simple Recipe for Language-guided Domain Generalized Segmentation",
+            "Authors": [
+                "Mohammad Fahes",
+                "TUAN-HUNG VU",
+                "Andrei Bursuc",
+                "Patrick Pérez",
+                "Raoul de Charette"
+            ]
+        },
+        {
+            "Title": "An Edit Friendly DDPM Noise Space: Inversion and Manipulations",
+            "Authors": [
+                "Inbar Huberman-Spiegelglas",
+                "Vladimir Kulikov",
+                "Tomer Michaeli"
+            ]
+        },
+        {
+            "Title": "AdaShift: Learning Discriminative Self-Gated Neural Feature Activation With an Adaptive Shift Factor",
+            "Authors": [
+                "Sudong Cai"
+            ]
+        },
+        {
+            "Title": "Improved Implicit Neural Representation with Fourier Reparameterized Training",
+            "Authors": [
+                "Kexuan Shi",
+                "Xingyu Zhou",
+                "Shuhang Gu"
+            ]
+        },
+        {
+            "Title": "Gradient Alignment for Cross-Domain Face Anti-Spoofing",
+            "Authors": [
+                "MINH BINH LE",
+                "Simon Woo"
+            ]
+        },
+        {
+            "Title": "U-VAP: User-specified Visual Appearance Personalization via Decoupled Self Augmentation",
+            "Authors": [
+                "You Wu",
+                "Kean Liu",
+                "Xiaoyue Mi",
+                "Fan Tang",
+                "Juan Cao",
+                "Jintao Li"
+            ]
+        },
+        {
+            "Title": "Multi-Object Tracking in the Dark",
+            "Authors": [
+                "Xinzhe Wang",
+                "Kang Ma",
+                "Qiankun Liu",
+                "Yunhao Zou",
+                "Ying Fu"
+            ]
+        },
+        {
+            "Title": "RoMa: Robust Dense Feature Matching",
+            "Authors": [
+                "Johan Edstedt",
+                "Qiyu Sun",
+                "Georg Bökman",
+                "Mårten Wadenbäck",
+                "Michael Felsberg"
+            ]
+        },
+        {
+            "Title": "DaReNeRF: Direction-aware Representation for Dynamic Scenes",
+            "Authors": [
+                "Ange Lou",
+                "Benjamin Planche",
+                "Zhongpai Gao",
+                "Yamin Li",
+                "Tianyu Luan",
+                "Hao Ding",
+                "Terrence Chen",
+                "Jack Noble",
+                "Ziyan Wu"
+            ]
+        },
+        {
+            "Title": "You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval",
+            "Authors": [
+                "Subhadeep Koley",
+                "Ayan Kumar Bhunia",
+                "Aneeshan Sain",
+                "Pinaki Nath Chowdhury",
+                "Tao Xiang",
+                "Yi-Zhe Song"
+            ]
+        },
+        {
+            "Title": "It's All About Your Sketch: Democratising Sketch Control in Diffusion Models",
+            "Authors": [
+                "Subhadeep Koley",
+                "Ayan Kumar Bhunia",
+                "Deeptanshu Sekhri",
+                "Aneeshan Sain",
+                "Pinaki Nath Chowdhury",
+                "Tao Xiang",
+                "Yi-Zhe Song"
+            ]
+        },
+        {
+            "Title": "Text-to-Image Diffusion Models are Great Sketch-Photo Matchmakers",
+            "Authors": [
+                "Subhadeep Koley",
+                "Ayan Kumar Bhunia",
+                "Aneeshan Sain",
+                "Pinaki Nath Chowdhury",
+                "Tao Xiang",
+                "Yi-Zhe Song"
+            ]
+        },
+        {
+            "Title": "One-Prompt to Segment All Medical Images",
+            "Authors": [
+                "Wu",
+                "Min Xu"
+            ]
+        },
+        {
+            "Title": "Insights from the Use of Previously Unseen Neural Architecture Search Datasets",
+            "Authors": [
+                "Rob Geada",
+                "David Towers",
+                "Matthew Forshaw",
+                "Amir Atapour-Abarghouei",
+                "Stephen McGough"
+            ]
+        },
+        {
+            "Title": "General Object Foundation Model for Images and Videos at Scale",
+            "Authors": [
+                "Junfeng Wu",
+                "Yi Jiang",
+                "Qihao Liu",
+                "Zehuan Yuan",
+                "Xiang Bai",
+                "Song Bai"
+            ]
+        },
+        {
+            "Title": "A Pedestrian is Worth One Prompt: Towards Language Guidance Person Re-Identification",
+            "Authors": [
+                "Zexian Yang",
+                "Dayan Wu",
+                "Chenming Wu",
+                "Zheng Lin",
+                "JingziGU",
+                "Weiping Wang"
+            ]
+        },
+        {
+            "Title": "CFPL-FAS: Class Free Prompt Learning for Generalizable Face Anti-spoofing",
+            "Authors": [
+                "Ajian Liu",
+                "Shuai Xue",
+                "Gan Jianwen",
+                "Jun Wan",
+                "Yanyan Liang",
+                "Jiankang Deng",
+                "Sergio Escalera",
+                "Zhen Lei"
+            ]
+        },
+        {
+            "Title": "WonderJourney: Going from Anywhere to Everywhere",
+            "Authors": [
+                "Hong-Xing Yu",
+                "Haoyi Duan",
+                "Junhwa Hur",
+                "Kyle Sargent",
+                "Michael Rubinstein",
+                "William Freeman",
+                "Forrester Cole",
+                "Deqing Sun",
+                "Noah Snavely",
+                "Jiajun Wu",
+                "Charles Herrmann"
+            ]
+        },
+        {
+            "Title": "MoDE: CLIP Data Experts via Clustering",
+            "Authors": [
+                "Jiawei Ma",
+                "Po-Yao Huang",
+                "Saining Xie",
+                "Shang-Wen Li",
+                "Luke Zettlemoyer",
+                "Shih-Fu Chang",
+                "Wen-tau Yih",
+                "Hu Xu"
+            ]
+        },
+        {
+            "Title": "POCE: Primal Policy Optimization with Conservative Estimation for Multi-constraint Offline Reinforcement Learning",
+            "Authors": [
+                "Jiayi Guan",
+                "Li Shen",
+                "Ao Zhou",
+                "Lusong Li",
+                "Han Hu",
+                "Xiaodong He",
+                "Guang Chen",
+                "Changjun Jiang"
+            ]
+        },
+        {
+            "Title": "Flow-Guided Online Stereo Rectification for Wide Baseline Stereo",
+            "Authors": [
+                "Anush Kumar",
+                "Fahim Mannan",
+                "Omid Hosseini Jafari",
+                "Shile Li",
+                "Felix Heide"
+            ]
+        },
+        {
+            "Title": "4D Gaussian Splatting for Real-Time Dynamic Scene Rendering",
+            "Authors": [
+                "Guanjun Wu",
+                "Taoran Yi",
+                "Jiemin Fang",
+                "Lingxi Xie",
+                "Xiaopeng Zhang",
+                "Wei Wei",
+                "Wenyu Liu",
+                "Qi Tian",
+                "Xinggang Wang"
+            ]
+        },
+        {
+            "Title": "Towards Large-scale 3D Representation Learning with Multi-dataset Point Prompt Training",
+            "Authors": [
+                "Xiaoyang Wu",
+                "Zhuotao Tian",
+                "Xin Wen",
+                "Bohao Peng",
+                "Xihui Liu",
+                "Kaicheng Yu",
+                "Hengshuang Zhao"
+            ]
+        },
+        {
+            "Title": "Instantaneous Perception of Moving Objects in 3D",
+            "Authors": [
+                "Di Liu",
+                "Bingbing Zhuang",
+                "Dimitris N. Metaxas",
+                "Manmohan Chandraker"
+            ]
+        },
+        {
+            "Title": "CLIP-Driven Open-Vocabulary 3D Scene Graph Generation via Cross-Modality Contrastive Learning",
+            "Authors": [
+                "Lianggangxu Chen",
+                "Xuejiao Wang",
+                "Jiale Lu",
+                "Shaohui Lin",
+                "Changbo Wang",
+                "Gaoqi He"
+            ]
+        },
+        {
+            "Title": "Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning",
+            "Authors": [
+                "Desai Xie",
+                "Jiahao Li",
+                "Hao Tan",
+                "Xin Sun",
+                "Zhixin Shu",
+                "Yi Zhou",
+                "Sai Bi",
+                "Soren Pirk",
+                "ARIE KAUFMAN"
+            ]
+        },
+        {
+            "Title": "Layout-Agnostic Scene Text Image Synthesis with Diffusion Models",
+            "Authors": [
+                "Qilong Zhangli",
+                "Jindong Jiang",
+                "Di Liu",
+                "Licheng Yu",
+                "Xiaoliang Dai",
+                "Ankit Ramchandani",
+                "Guan Pang",
+                "Dimitris N. Metaxas",
+                "Praveen Krishnan"
+            ]
+        },
+        {
+            "Title": "Fourier Priors-Guided Diffusion for Zero-Shot Joint Low-Light Enhancement and Deblurring",
+            "Authors": [
+                "Xiaoqian Lv",
+                "Shengping Zhang",
+                "Chenyang Wang",
+                "Yichen Zheng",
+                "Bineng Zhong",
+                "Chongyi Li",
+                "Liqiang Nie"
+            ]
+        },
+        {
+            "Title": "Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles",
+            "Authors": [
+                "Rui Song",
+                "Chenwei Liang",
+                "Hu Cao",
+                "Zhiran Yan",
+                "Walter Zimmer",
+                "Markus Gross",
+                "Andreas Festag",
+                "Alois Knoll"
+            ]
+        },
+        {
+            "Title": "GOV-NeSF: Generalizable Open-Vocabulary Neural Semantic Fields",
+            "Authors": [
+                "Fangyin Wei",
+                "Hanlin Chen",
+                "Gim Hee Lee"
+            ]
+        },
+        {
+            "Title": "CoDi: Conditional Diffusion Distillation for Higher-Fidelity and Faster Image Generation",
+            "Authors": [
+                "Kangfu Mei",
+                "Mauricio Delbracio",
+                "Hossein Talebi",
+                "Zhengzhong Tu",
+                "Vishal M. Patel",
+                "Peyman Milanfar"
+            ]
+        },
+        {
+            "Title": "Towards General Robustness Verification of MaxPool-based Convolutional Neural Networks via Tightening Linear Approximation",
+            "Authors": [
+                "Yuan Xiao",
+                "Shiqing Ma",
+                "Juan Zhai",
+                "Chunrong Fang",
+                "Jinyuan Jia",
+                "Zhenyu Chen"
+            ]
+        },
+        {
+            "Title": "Density-guided Translator Boosts Synthetic-to-Real Unsupervised Domain Adaptive Segmentation of 3D Point Clouds",
+            "Authors": [
+                "Zhimin Yuan",
+                "Wankang Zeng",
+                "Yanfei Su",
+                "Weiquan Liu",
+                "Ming Cheng",
+                "Yulan Guo",
+                "Cheng Wang"
+            ]
+        },
+        {
+            "Title": "HIMap: HybrId Representation Learning for End-to-end Vectorized HD Map Construction",
+            "Authors": [
+                "Yi ZHOU",
+                "Hui Zhang",
+                "Jiaqian Yu",
+                "Yifan Yang",
+                "Sangil Jung",
+                "Seung-In Park",
+                "ByungIn Yoo"
+            ]
+        },
+        {
+            "Title": "LTA-PCS: Learnable Task-Agnostic Point Cloud Sampling",
+            "Authors": [
+                "Jiaheng Liu",
+                "Jianhao Li",
+                "Kaisiyuan Wang",
+                "Hongcheng Guo",
+                "Jian Yang",
+                "Junran Peng",
+                "Ke Xu",
+                "Xianglong Liu",
+                "Jinyang Guo"
+            ]
+        },
+        {
+            "Title": "Traceable Federated Continual Learning",
+            "Authors": [
+                "Qiang Wang",
+                "Bingyan Liu",
+                "Yawen Li"
+            ]
+        },
+        {
+            "Title": "EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling",
+            "Authors": [
+                "Haiyang Liu",
+                "Zihao Zhu",
+                "Giorgio Becherini",
+                "YICHEN PENG",
+                "Mingyang Su",
+                "YOU ZHOU",
+                "Xuefei Zhe",
+                "Naoya Iwamoto",
+                "Bo Zheng",
+                "Michael J. Black"
+            ]
+        },
+        {
+            "Title": "Binarized Low-light Raw Video Enhancement",
+            "Authors": [
+                "Gengchen Zhang",
+                "Yulun Zhang",
+                "Xin Yuan",
+                "Ying Fu"
+            ]
+        },
+        {
+            "Title": "FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio",
+            "Authors": [
+                "Chao Xu",
+                "Yang Liu",
+                "Jiazheng Xing",
+                "Weida Wang",
+                "Mingze Sun",
+                "Jun Dan",
+                "Tianxin Huang",
+                "Siyuan Li",
+                "Zhi-Qi Cheng",
+                "Ying Tai",
+                "Baigui Sun"
+            ]
+        },
+        {
+            "Title": "StegoGAN: Leveraging Steganography for Non-Bijective Image-to-Image Translation",
+            "Authors": [
+                "Sidi Wu",
+                "Yizi Chen",
+                "Loic Landrieu",
+                "Nicolas Gonthier",
+                "Samuel Mermet",
+                "Lorenz Hurni",
+                "Konrad Schindler"
+            ]
+        },
+        {
+            "Title": "Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation",
+            "Authors": [
+                "Luca Barsellotti",
+                "Roberto Amoroso",
+                "Marcella Cornia",
+                "Lorenzo Baraldi",
+                "Rita Cucchiara"
+            ]
+        },
+        {
+            "Title": "Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and Benchmark",
+            "Authors": [
+                "Ziyang Chen",
+                "Israel D. Gebru",
+                "Christian Richardt",
+                "Anurag Kumar",
+                "William Laney",
+                "Andrew Owens",
+                "Alexander Richard"
+            ]
+        },
+        {
+            "Title": "Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation",
+            "Authors": [
+                "Junyan Wang",
+                "Zhenhong Sun",
+                "Stewart Tan",
+                "Xuanbai Chen",
+                "Weihua Chen",
+                "li",
+                "Cheng Zhang",
+                "Yang Song"
+            ]
+        },
+        {
+            "Title": "From SAM to CAMs: Exploring Segment Anything Model for Weakly Supervised Semantic Segmentation",
+            "Authors": [
+                "Hyeokjun Kweon",
+                "Kuk-Jin Yoon"
+            ]
+        },
+        {
+            "Title": "Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding",
+            "Authors": [
+                "Jin-Chuan Shi",
+                "Miao Wang",
+                "Haobin Duan",
+                "Shaohua Guan"
+            ]
+        },
+        {
+            "Title": "Hybrid Proposal Refiner: Revisiting DETR Series from the Faster R-CNN Perspective",
+            "Authors": [
+                "Jinjing Zhao",
+                "Fangyun Wei",
+                "Chang Xu"
+            ]
+        },
+        {
+            "Title": "Vlogger: Make Your Dream A Vlog",
+            "Authors": [
+                "Shaobin Zhuang",
+                "Kunchang Li",
+                "Xinyuan Chen",
+                "Yaohui Wang",
+                "Ziwei Liu",
+                "Yu Qiao",
+                "Yali Wang"
+            ]
+        },
+        {
+            "Title": "EpiDiff: Enhancing Multi-View Synthesis via Localized Epipolar-Constrained Diffusion",
+            "Authors": [
+                "Zehuan Huang",
+                "Hao Wen",
+                "Junting Dong",
+                "Yaohui Wang",
+                "Yangguang Li",
+                "Xinyuan Chen",
+                "Yan-Pei Cao",
+                "Ding Liang",
+                "Yu Qiao",
+                "Bo Dai",
+                "Lu Sheng"
+            ]
+        },
+        {
+            "Title": "SRTube: Video-Language Pre-Training with Action-Centric Video Tube Features and Semantic Role Labeling",
+            "Authors": [
+                "Juhee Lee",
+                "Jewon Kang"
+            ]
+        },
+        {
+            "Title": "Unsupervised Learning of Category-Level 3D Pose from Object-Centric Videos",
+            "Authors": [
+                "Leonhard Sommer",
+                "Artur Jesslen",
+                "Eddy Ilg",
+                "Adam Kortylewski"
+            ]
+        },
+        {
+            "Title": "MCPNet: An Interpretable Classifier via Multi-Level Concept Prototypes",
+            "Authors": [
+                "Bor Shiun Wang",
+                "Chien-Yi Wang",
+                "Wei-Chen Chiu"
+            ]
+        },
+        {
+            "Title": "Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration",
+            "Authors": [
+                "Mingyuan Meng",
+                "Dagan Feng",
+                "Lei Bi",
+                "Jinman Kim"
+            ]
+        },
+        {
+            "Title": "Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives",
+            "Authors": [
+                "Kristen Grauman",
+                "Andrew Westbury",
+                "Lorenzo Torresani",
+                "Kris Kitani",
+                "Jitendra Malik",
+                "Triantafyllos Afouras",
+                "Kumar Ashutosh",
+                "Vijay Baiyya",
+                "Siddhant Bansal",
+                "Bikram Boote",
+                "Eugene Byrne",
+                "Zachary Chavis",
+                "Joya Chen",
+                "Feng Cheng",
+                "Fu-Jen Chu",
+                "Sean Crane",
+                "Avijit Dasgupta",
+                "Jing Dong",
+                "Maria Escobar",
+                "Cristhian David Forigua Diaz",
+                "Abrham Gebreselasie",
+                "Sanjay Haresh",
+                "Jing Huang",
+                "Md Mohaiminul Islam",
+                "Suyog Jain",
+                "Rawal Khirodkar",
+                "Devansh Kukreja",
+                "Kevin Liang",
+                "Jia-Wei Liu",
+                "Sagnik Majumder",
+                "Yongsen Mao",
+                "Miguel Martin",
+                "Effrosyni Mavroudi",
+                "Tushar Nagarajan",
+                "Francesco Ragusa",
+                "Santhosh Kumar Ramakrishnan",
+                "Luigi Seminara",
+                "Arjun Somayazulu",
+                "Yale Song",
+                "Shan Su",
+                "Zihui Xue",
+                "Edward Zhang",
+                "Jinxu Zhang",
+                "Angela Castillo",
+                "Changan Chen",
+                "Fu Xinzhu",
+                "Ryosuke Furuta",
+                "Cristina González",
+                "Gupta",
+                "Jiabo Hu",
+                "Yifei Huang",
+                "Yiming Huang",
+                "Weslie Khoo",
+                "Anush Kumar",
+                "Robert Kuo",
+                "Sach Lakhavani",
+                "Miao Liu",
+                "Mi Luo",
+                "Zhengyi Luo",
+                "Brighid Meredith",
+                "Austin Miller",
+                "Oluwatumininu Oguntola",
+                "Xiaqing Pan",
+                "Penny Peng",
+                "Shraman Pramanick",
+                "Merey Ramazanova",
+                "Fiona Ryan",
+                "Wei Shan",
+                "Kiran Somasundaram",
+                "Chenan Song",
+                "Audrey Southerland",
+                "Masatoshi Tateno",
+                "Huiyu Wang",
+                "Yuchen Wang",
+                "Takuma Yagi",
+                "Mingfei Yan",
+                "Xitong Yang",
+                "Zecheng Yu",
+                "Shengxin Zha",
+                "Chen Zhao",
+                "Ziwei Zhao",
+                "Zhifan Zhu",
+                "Jeff Zhuo",
+                "Pablo ARBELAEZ",
+                "Gedas Bertasius",
+                "Dima Damen",
+                "Jakob Engel",
+                "Giovanni Maria Farinella",
+                "Antonino Furnari",
+                "Bernard Ghanem",
+                "Judy Hoffman",
+                "C.V. Jawahar",
+                "Richard Newcombe",
+                "Hyun Soo Park",
+                "James Rehg",
+                "Yoichi Sato",
+                "Manolis Savva",
+                "Jianbo Shi",
+                "Mike Zheng Shou",
+                "Michael Wray"
+            ]
+        },
+        {
+            "Title": "Tyche: Stochastic In-Context Learning for Medical Image Segmentation",
+            "Authors": [
+                "Marianne Rakic",
+                "Hallee Wong",
+                "Jose Javier Gonzalez Ortiz",
+                "Beth Cimini",
+                "John Guttag",
+                "Adrian V. Dalca"
+            ]
+        },
+        {
+            "Title": "How Far Can We Compress Instant-NGP-Based NeRF?",
+            "Authors": [
+                "Yihang Chen",
+                "Qianyi Wu",
+                "Mehrtash Harandi",
+                "Jianfei Cai"
+            ]
+        },
+        {
+            "Title": "CAD-SIGNet: CAD Language Inference from Point Clouds using Layer-wise Sketch Instance Guided Attention",
+            "Authors": [
+                "Mohammad Sadil Khan",
+                "Elona Dupont",
+                "Sk Aziz Ali",
+                "Kseniya Cherenkova",
+                "Anis Kacem",
+                "Djamila Aouada"
+            ]
+        },
+        {
+            "Title": "LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection",
+            "Authors": [
+                "Dat NGUYEN",
+                "Nesryne Mejri",
+                "Inder Pal Singh",
+                "Polina Kuleshova",
+                "Marcella Astrid",
+                "Anis Kacem",
+                "Enjie Ghorbel",
+                "Djamila Aouada"
+            ]
+        },
+        {
+            "Title": "SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection",
+            "Authors": [
+                "Mingxuan Liu",
+                "Tyler Hayes",
+                "Elisa Ricci",
+                "Gabriela Csurka",
+                "Riccardo Volpi"
+            ]
+        },
+        {
+            "Title": "IPoD: Implicit Field Learning with Point Diffusion for Generalizable 3D Object Reconstruction from Single RGB-D Images",
+            "Authors": [
+                "Yushuang Wu",
+                "Luyue Shi",
+                "Junhao Cai",
+                "Weihao Yuan",
+                "Lingteng Qiu",
+                "Zilong Dong",
+                "Liefeng Bo",
+                "Shuguang Cui",
+                "Xiaoguang Han"
+            ]
+        },
+        {
+            "Title": "Normalizing Flows on the Product Space of SO(3) Manifolds for Probabilistic Human Pose Modeling",
+            "Authors": [
+                "Olaf Dünkel",
+                "Tim Salzmann",
+                "Florian Pfaff"
+            ]
+        },
+        {
+            "Title": "The Devil is in the Details: StyleFeatureEditor for Detail-Rich StyleGAN Inversion and High Quality Image Editing",
+            "Authors": [
+                "Denis Bobkov",
+                "Vadim Titov",
+                "Aibek Alanov",
+                "Dmitry Vetrov"
+            ]
+        },
+        {
+            "Title": "Generalized Predictive Model for Autonomous Driving",
+            "Authors": [
+                "Jiazhi Yang",
+                "Shenyuan Gao",
+                "Yihang Qiu",
+                "Li Chen",
+                "Tianyu Li",
+                "Bo Dai",
+                "Kashyap Chitta",
+                "Penghao Wu",
+                "Jia Zeng",
+                "Ping Luo",
+                "Jun Zhang",
+                "Andreas Geiger",
+                "Yu Qiao",
+                "Hongyang Li"
+            ]
+        },
+        {
+            "Title": "HAVE-FUN: Human Avatar Reconstruction from Few-Shot Unconstrained Images",
+            "Authors": [
+                "Xihe Yang",
+                "Xingyu Chen",
+                "Daiheng Gao",
+                "Finn Wong",
+                "Xiaoguang Han",
+                "Baoyuan Wang"
+            ]
+        },
+        {
+            "Title": "LASA: Instance Reconstruction from Real Scans using A Large-scale Aligned Shape Annotation Dataset",
+            "Authors": [
+                "Haolin Liu",
+                "Chongjie Ye",
+                "Yinyu Nie",
+                "Yingfan He",
+                "Xiaoguang Han"
+            ]
+        },
+        {
+            "Title": "PICTURE: PhotorealistIC virtual Try-on from UnconstRained dEsigns",
+            "Authors": [
+                "Shuliang Ning",
+                "Duomin Wang",
+                "Yipeng Qin",
+                "Zirong Jin",
+                "Baoyuan Wang",
+                "Xiaoguang Han"
+            ]
+        },
+        {
+            "Title": "RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D",
+            "Authors": [
+                "Lingteng Qiu",
+                "Guanying Chen",
+                "Xiaodong Gu",
+                "Qi Zuo",
+                "Mutian Xu",
+                "Yushuang Wu",
+                "Weihao Yuan",
+                "Zilong Dong",
+                "Liefeng Bo",
+                "Xiaoguang Han"
+            ]
+        },
+        {
+            "Title": "MVHumanNet: A Large-scale Dataset of Multi-view Daily Dressing Human Captures",
+            "Authors": [
+                "Zhangyang Xiong",
+                "Chenghong Li",
+                "Kenkun Liu",
+                "Hongjie Liao",
+                "Jianqiao HU",
+                "Junyi Zhu",
+                "Shuliang Ning",
+                "Lingteng Qiu",
+                "Chongjie Wang",
+                "Shijie Wang",
+                "Shuguang Cui",
+                "Xiaoguang Han"
+            ]
+        },
+        {
+            "Title": "GenesisTex: Adapting Image Denoising Diffusion to Texture Space",
+            "Authors": [
+                "Chenjian Gao",
+                "Boyan Jiang",
+                "Xinghui Li",
+                "YingPeng Zhang",
+                "Qian Yu"
+            ]
+        },
+        {
+            "Title": "USE: Universal Segment Embeddings for Open-Vocabulary Image Segmentation",
+            "Authors": [
+                "Xiaoqi Wang",
+                "Wenbin He",
+                "Xiwei Xuan",
+                "Clint Sebastian",
+                "Jorge Piazentin Ono",
+                "Xin Li",
+                "Sima Behpour",
+                "Thang Doan",
+                "Liang Gou",
+                "Shen",
+                "Liu Ren"
+            ]
+        },
+        {
+            "Title": "MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding",
+            "Authors": [
+                "Bo He",
+                "Hengduo Li",
+                "Young Kyun Jang",
+                "Menglin Jia",
+                "Xuefei Cao",
+                "Ashish Shah",
+                "Abhinav Shrivastava",
+                "Ser-Nam Lim"
+            ]
+        },
+        {
+            "Title": "Adaptive Random Feature Regularization on Fine-tuning Deep Neural Networks",
+            "Authors": [
+                "Shin&#x27;ya Yamaguchi",
+                "Sekitoshi Kanai",
+                "Kazuki Adachi",
+                "Daiki Chijiwa"
+            ]
+        },
+        {
+            "Title": "Self-Training Large Language Models for Improved Visual Program Synthesis With Visual Reinforcement",
+            "Authors": [
+                "Zaid Khan",
+                "Vijay Kumar BG",
+                "Samuel Schulter",
+                "Yun Fu",
+                "Manmohan Chandraker"
+            ]
+        },
+        {
+            "Title": "Generating Enhanced Negatives for Training Language-Based Object Detectors",
+            "Authors": [
+                "Shiyu Zhao",
+                "Long Zhao",
+                "Vijay Kumar BG",
+                "Yumin Suh",
+                "Dimitris N. Metaxas",
+                "Manmohan Chandraker",
+                "Samuel Schulter"
+            ]
+        },
+        {
+            "Title": "Joint-Task Regularization for Partially Labeled Multi-Task Learning",
+            "Authors": [
+                "Kento Nishi",
+                "Junsik Kim",
+                "Wanhua Li",
+                "Hanspeter Pfister"
+            ]
+        },
+        {
+            "Title": "Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos",
+            "Authors": [
+                "Kumaranage Ravindu Nagasinghe",
+                "Honglu Zhou",
+                "Malitha Gunawardhana",
+                "Martin Renqiang Min",
+                "Daniel Harari",
+                "Muhammad Haris Khan"
+            ]
+        },
+        {
+            "Title": "Spatio-Temporal Turbulence Mitigation: A Translational Perspective",
+            "Authors": [
+                "Xingguang Zhang",
+                "Nicholas M Chimitt",
+                "Yiheng Chi",
+                "Zhiyuan Mao",
+                "Stanley H. Chan"
+            ]
+        },
+        {
+            "Title": "Generative Quanta Color Imaging",
+            "Authors": [
+                "Vishal Purohit",
+                "Junjie Luo",
+                "Yiheng Chi",
+                "Qi Guo",
+                "Stanley H. Chan",
+                "Qiang Qiu"
+            ]
+        },
+        {
+            "Title": "SI-MIL: Taming Deep MIL for Self-Interpretability in Gigapixel Histopathology",
+            "Authors": [
+                "Saarthak Kapse",
+                "Pushpak Pati",
+                "Srijan Das",
+                "Jingwei Zhang",
+                "Chao Chen",
+                "Maria Vakalopoulou",
+                "Joel Saltz",
+                "Dimitris Samaras",
+                "Rajarsi Gupta",
+                "Prateek Prasanna"
+            ]
+        },
+        {
+            "Title": "Learned Representation-Guided Diffusion Models for Large-Image Generation",
+            "Authors": [
+                "Alexandros Graikos",
+                "Srikar Yellapragada",
+                "Minh-Quan Le",
+                "Saarthak Kapse",
+                "Prateek Prasanna",
+                "Joel Saltz",
+                "Dimitris Samaras"
+            ]
+        },
+        {
+            "Title": "Guided Slot Attention for Unsupervised Video Object Segmentation",
+            "Authors": [
+                "Minhyeok Lee",
+                "Suhwan Cho",
+                "Dogyoon Lee",
+                "Chaewon Park",
+                "Jungho Lee",
+                "Sangyoun Lee"
+            ]
+        },
+        {
+            "Title": "Dual Prototype Attention for Unsupervised Video Object Segmentation",
+            "Authors": [
+                "Suhwan Cho",
+                "Minhyeok Lee",
+                "Seunghoon Lee",
+                "Dogyoon Lee",
+                "Heeseung Choi",
+                "Ig-Jae Kim",
+                "Sangyoun Lee"
+            ]
+        },
+        {
+            "Title": "R-Cyclic Diffuser: Reductive and Cyclic Latent Diffusion for 3D Clothed Human Digitalization",
+            "Authors": [
+                "Kennard Chan",
+                "Fayao Liu",
+                "Guosheng Lin",
+                "Chuan-Sheng Foo",
+                "Weisi Lin"
+            ]
+        },
+        {
+            "Title": "MRFP: Learning Generalizable Semantic Segmentation from Sim-2-Real with Multi-Resolution Feature Perturbation",
+            "Authors": [
+                "Sumanth Udupa",
+                "Prajwal Gurunath",
+                "Aniruddh Sikdar",
+                "Suresh Sundaram"
+            ]
+        },
+        {
+            "Title": "HiKER-SGG: Hierarchical Knowledge Enhanced Robust Scene Graph Generation",
+            "Authors": [
+                "Ce Zhang",
+                "Simon Stepputtis",
+                "Joseph Campbell",
+                "Katia Sycara",
+                "Yaqi Xie"
+            ]
+        },
+        {
+            "Title": "Towards Variable and Coordinated Holistic Co-Speech Motion Generation",
+            "Authors": [
+                "Yifei Liu",
+                "Qiong Cao",
+                "Yandong Wen",
+                "Huaiguang Jiang",
+                "Changxing Ding"
+            ]
+        },
+        {
+            "Title": "Local-consistent Transformation Learning for Rotation-invariant Point Cloud Analysis",
+            "Authors": [
+                "Yiyang Chen",
+                "Lunhao Duan",
+                "Shanshan Zhao",
+                "Changxing Ding",
+                "Dacheng Tao"
+            ]
+        },
+        {
             "Title": "Semantic-aware SAM for Point-Prompted Instance Segmentation",
             "Authors": [
                 "Zhaoyang Wei",
@@ -24983,365 +26926,6 @@
                 "Thomas Peeters",
                 "Andrew Song",
                 "Faisal Mahmood"
-            ]
-        },
-        {
-            "Title": "Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous and Instruction-guided Driving",
-            "Authors": [
-                "Brian Yang",
-                "Huangyuan Su",
-                "Nikolaos Gkanatsios",
-                "Tsung-Wei Ke",
-                "Ayush Jain",
-                "Jeff Schneider",
-                "Katerina Fragkiadaki"
-            ]
-        },
-        {
-            "Title": "ConTex-Human: Free-View Rendering of Human from a Single Image with Texture-Consistent Synthesis",
-            "Authors": [
-                "Xiangjun Gao",
-                "Xiaoyu Li",
-                "Chaopeng Zhang",
-                "Qi Zhang",
-                "Yan-Pei Cao",
-                "Ying Shan",
-                "Long Quan"
-            ]
-        },
-        {
-            "Title": "Structured Model Probing: Empowering Efficient Transfer Learning by Structured Regularization",
-            "Authors": [
-                "Zhi-Fan Wu",
-                "Chaojie Mao",
-                "Xue Wang",
-                "Jianwen Jiang",
-                "Yiliang Lv",
-                "Rong Jin"
-            ]
-        },
-        {
-            "Title": "CRKD: Enhanced Camera-Radar Object Detection with Cross-modality Knowledge Distillation",
-            "Authors": [
-                "Lingjun Zhao",
-                "Jingyu Song",
-                "Katherine Skinner"
-            ]
-        },
-        {
-            "Title": "Instance-aware Contrastive Learning for Occluded Human Mesh Reconstruction",
-            "Authors": [
-                "Mi-Gyeong Gwon",
-                "Gi-Mun Um",
-                "Won-Sik Cheong",
-                "Wonjun Kim"
-            ]
-        },
-        {
-            "Title": "InstructDiffusion: A Generalist Modeling Interface for Vision Tasks",
-            "Authors": [
-                "Zigang Geng",
-                "Binxin Yang",
-                "Tiankai Hang",
-                "Chen Li",
-                "Shuyang Gu",
-                "Ting Zhang",
-                "Jianmin Bao",
-                "Zheng Zhang",
-                "Houqiang Li",
-                "Han Hu",
-                "Dong Chen",
-                "Baining Guo"
-            ]
-        },
-        {
-            "Title": "BrainWash: A Poisoning Attack to Forget in Continual Learning",
-            "Authors": [
-                "Ali Abbasi",
-                "Parsa Nooralinejad",
-                "Hamed Pirsiavash",
-                "Soheil Kolouri"
-            ]
-        },
-        {
-            "Title": "SurroundSDF: Implicit 3D Scene Understanding Based on Signed Distance Field",
-            "Authors": [
-                "Lizhe Liu",
-                "Bohua Wang",
-                "Hongwei Xie",
-                "Daqi Liu",
-                "Li Liu",
-                "Kuiyuan Yang",
-                "Bing Wang",
-                "Zhiqiang Tian"
-            ]
-        },
-        {
-            "Title": "WALT3D: Generating Realistic Training Data from Time-Lapse Imagery for Reconstructing Dynamic Objects Under Occlusion",
-            "Authors": [
-                "Khiem Vuong",
-                "N. Dinesh Reddy",
-                "Robert Tamburo",
-                "Srinivasa G. Narasimhan"
-            ]
-        },
-        {
-            "Title": "Data Valuation and Detections in Federated Learning",
-            "Authors": [
-                "Wenqian Li",
-                "Shuran Fu",
-                "Fengrui Zhang",
-                "Yan Pang"
-            ]
-        },
-        {
-            "Title": "MLIP: Enhancing Medical Visual Representation with Divergence Encoder and Knowledge-guided Contrastive Learning",
-            "Authors": [
-                "Zhe Li",
-                "Laurence Yang",
-                "Bocheng Ren",
-                "Xin Nie",
-                "Zhangyang Gao",
-                "Cheng Tan",
-                "Stan Z. Li"
-            ]
-        },
-        {
-            "Title": "Making Visual Sense of Oracle Bones for You and Me",
-            "Authors": [
-                "Runqi Qiao",
-                "LAN YANG",
-                "Kaiyue Pang",
-                "Honggang Zhang"
-            ]
-        },
-        {
-            "Title": "S2MAE: A Spatial-Spectral Pretraining Foundation Model for Spectral Remote Sensing Data",
-            "Authors": [
-                "Xuyang Li",
-                "Danfeng Hong",
-                "Jocelyn Chanussot"
-            ]
-        },
-        {
-            "Title": "ProTeCt: Prompt Tuning for Taxonomic Open Set Classification",
-            "Authors": [
-                "Tz-Ying Wu",
-                "Chih-Hui Ho",
-                "Nuno Vasconcelos"
-            ]
-        },
-        {
-            "Title": "UnO: Unsupervised Occupancy Fields for Perception and Forecasting",
-            "Authors": [
-                "Ben Agro",
-                "Quinlan Sykora",
-                "Sergio Casas",
-                "Thomas Gilles",
-                "Raquel Urtasun"
-            ]
-        },
-        {
-            "Title": "Active Open-Vocabulary Recognition: Let Intelligent Moving Mitigate CLIP Limitations",
-            "Authors": [
-                "Lei Fan",
-                "Jianxiong Zhou",
-                "Xiaoying Xing",
-                "Ying Wu"
-            ]
-        },
-        {
-            "Title": "Mosaic-SDF for 3D Generative Models",
-            "Authors": [
-                "Lior Yariv",
-                "Omri Puny",
-                "Oran Gafni",
-                "Yaron Lipman"
-            ]
-        },
-        {
-            "Title": "CPGA: Coding Priors-Guided Aggregation Network for Compressed Video Quality Enhancement",
-            "Authors": [
-                "Qiang Zhu",
-                "Jinhua Hao",
-                "Yukang Ding",
-                "Yu Liu",
-                "Qiao Mo",
-                "Ming Sun",
-                "Chao Zhou",
-                "Shuyuan Zhu"
-            ]
-        },
-        {
-            "Title": "Enhancing Vision-Language Pre-training with Rich Supervisions",
-            "Authors": [
-                "Yuan Gao",
-                "Kunyu Shi",
-                "Pengkai Zhu",
-                "Edouard Belval",
-                "Oren Nuriel",
-                "Srikar Appalaraju",
-                "Shabnam Ghadar",
-                "Zhuowen Tu",
-                "Vijay Mahadevan",
-                "Stefano Soatto"
-            ]
-        },
-        {
-            "Title": "Aerial Lifting: Neural Urban Semantic and Building Instance Lifting from Aerial Imagery",
-            "Authors": [
-                "Yuqi Zhang",
-                "Guanying Chen",
-                "Jiaxing Chen",
-                "Shuguang Cui"
-            ]
-        },
-        {
-            "Title": "HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields",
-            "Authors": [
-                "Haozhe Qi",
-                "Chen Zhao",
-                "Mathieu Salzmann",
-                "Alexander Mathis"
-            ]
-        },
-        {
-            "Title": "CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data",
-            "Authors": [
-                "Wei Fang",
-                "Yuxing Tang",
-                "Heng Guo",
-                "Mingze Yuan",
-                "Tony C. W. MOK",
-                "Ke Yan",
-                "Jiawen Yao",
-                "Xin Chen",
-                "Zaiyi Liu",
-                "Le Lu",
-                "Ling Zhang",
-                "Minfeng Xu"
-            ]
-        },
-        {
-            "Title": "Beyond Textual Constraints: Learning Novel Diffusion Conditions with Fewer Examples",
-            "Authors": [
-                "Yuyang Yu",
-                "Bangzhen Liu",
-                "Chenxi Zheng",
-                "Xuemiao Xu",
-                "Huaidong Zhang",
-                "Shengfeng He"
-            ]
-        },
-        {
-            "Title": "ProxyCap: Real-time Monocular Full-body Capture in World Space via Human-Centric Proxy-to-Motion Learning",
-            "Authors": [
-                "Yuxiang Zhang",
-                "Hongwen Zhang",
-                "Liangxiao Hu",
-                "Jiajun Zhang",
-                "Hongwei Yi",
-                "Shengping Zhang",
-                "Yebin Liu"
-            ]
-        },
-        {
-            "Title": "Learning from Synthetic Human Group Activities",
-            "Authors": [
-                "Che-Jui Chang",
-                "Danrui Li",
-                "Deep Patel",
-                "Parth Goel",
-                "Seonghyeon Moon",
-                "Samuel Sohn",
-                "Honglu Zhou",
-                "Sejong Yoon",
-                "Vladimir Pavlovic",
-                "Mubbasir Kapadia"
-            ]
-        },
-        {
-            "Title": "Can’t Make an Omelette Without Breaking Some Eggs: Plausible Action Anticipation Using Large Video-Language Models",
-            "Authors": [
-                "Himangi Mittal",
-                "Nakul Agarwal",
-                "Shao-Yuan Lo",
-                "Kwonjoon Lee"
-            ]
-        },
-        {
-            "Title": "Task-aligned Part-aware Panoptic Segmentation through Joint Object-Part Representations",
-            "Authors": [
-                "Daan de Geus",
-                "Gijs Dubbelman"
-            ]
-        },
-        {
-            "Title": "FreeKD: Knowledge Distillation via Semantic Frequency Prompt",
-            "Authors": [
-                "Yuan Zhang",
-                "Tao Huang",
-                "Jiaming Liu",
-                "Tao Jiang",
-                "Kuan Cheng",
-                "Shanghang Zhang"
-            ]
-        },
-        {
-            "Title": "Enhanced Motion-Text Alignment for Image-to-Video Transfer Learning",
-            "Authors": [
-                "Wei Zhang",
-                "Chaoqun Wan",
-                "Tongliang Liu",
-                "Xinmei Tian",
-                "Xu Shen",
-                "Jieping Ye"
-            ]
-        },
-        {
-            "Title": "ID-like Prompt Learning for Few-Shot Out-of-Distribution Detection",
-            "Authors": [
-                "Yichen Bai",
-                "Zongbo Han",
-                "Bing Cao",
-                "Xiaoheng Jiang",
-                "Qinghua Hu",
-                "Changqing Zhang"
-            ]
-        },
-        {
-            "Title": "Unsupervised 3D Structure Inference from Category-Specific Image Collections",
-            "Authors": [
-                "Weikang Wang",
-                "Dongliang Cao",
-                "Florian Bernard"
-            ]
-        },
-        {
-            "Title": "Video2Game: Real-time Interactive Realistic and Browser-Compatible Environment from a Single Video",
-            "Authors": [
-                "Hongchi Xia",
-                "Chih-Hao Lin",
-                "Wei-Chiu Ma",
-                "Shenlong Wang"
-            ]
-        },
-        {
-            "Title": "Identifying Important Group of Pixels using Interactions",
-            "Authors": [
-                "Kosuke Sumiyasu",
-                "Kazuhiko Kawamoto",
-                "Hiroshi Kera"
-            ]
-        },
-        {
-            "Title": "360DVD: Controllable Panorama Video Generation with 360-Degree Video Diffusion Model",
-            "Authors": [
-                "Qian Wang",
-                "Weiqi Li",
-                "Chong Mou",
-                "Xinhua Cheng",
-                "Jian Zhang"
             ]
         },
         {
@@ -26464,1566 +28048,6 @@
             ]
         },
         {
-            "Title": "OST: Refining Text Knowledge with Optimal Spatio-Temporal Descriptor for General Video Recognition",
-            "Authors": [
-                "Tongjia Chen",
-                "Hongshan Yu",
-                "Zhengeng Yang",
-                "Zechuan Li",
-                "Wei Sun",
-                "Chen Chen"
-            ]
-        },
-        {
-            "Title": "G^3-LQ: Marrying Hyperbolic Alignment with Explicit Semantic-Geometric Modeling for 3D Visual Grounding",
-            "Authors": [
-                "Yuan Wang",
-                "Yali Li",
-                "Shengjin Wang"
-            ]
-        },
-        {
-            "Title": "Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images",
-            "Authors": [
-                "Chaoqin Huang",
-                "Aofan Jiang",
-                "Jinghao Feng",
-                "Ya Zhang",
-                "Xinchao Wang",
-                "Yanfeng Wang"
-            ]
-        },
-        {
-            "Title": "NightCC: Nighttime Color Constancy via Adaptive Channel Masking",
-            "Authors": [
-                "Shuwei Li",
-                "Robby T. Tan"
-            ]
-        },
-        {
-            "Title": "SyncMask: Synchronized Attentional Masking for Fashion-centric Vision-Language Pretraining",
-            "Authors": [
-                "Chull Hwan Song",
-                "Taebaek Hwang",
-                "Jooyoung Yoon",
-                "Shunghyun Choi",
-                "Yeong Hyeon Gu"
-            ]
-        },
-        {
-            "Title": "DYSON: Dynamic Feature Space Self-Organization for Online Task-Free Class Incremental Learning",
-            "Authors": [
-                "Yuhang He",
-                "YingJie Chen",
-                "Yuhan Jin",
-                "Songlin Dong",
-                "Xing Wei",
-                "Yihong Gong"
-            ]
-        },
-        {
-            "Title": "Harnessing Large Language Models for Training-free Video Anomaly Detection",
-            "Authors": [
-                "Luca Zanella",
-                "Willi Menapace",
-                "Massimiliano Mancini",
-                "Yiming Wang",
-                "Elisa Ricci"
-            ]
-        },
-        {
-            "Title": "EvDiG: Event-guided Direct and Global Components Separation",
-            "Authors": [
-                "xinyu zhou",
-                "Peiqi Duan",
-                "Boyu Li",
-                "Chu Zhou",
-                "Chao Xu",
-                "Boxin Shi"
-            ]
-        },
-        {
-            "Title": "Condition-Aware Neural Network for Controlled Image Generation",
-            "Authors": [
-                "Han Cai",
-                "Muyang Li",
-                "Qinsheng Zhang",
-                "Ming-Yu Liu",
-                "Song Han"
-            ]
-        },
-        {
-            "Title": "Sparse Views Near Light: A Practical Paradigm for Uncalibrated Point-light Photometric Stereo",
-            "Authors": [
-                "Mohammed Brahimi",
-                "Bjoern Haefner",
-                "Zhenzhang Ye",
-                "Bastian Goldluecke",
-                "Daniel Cremers"
-            ]
-        },
-        {
-            "Title": "Promptable Behaviors: Personalizing Multi-Objective Rewards from Human Preferences",
-            "Authors": [
-                "Minyoung Hwang",
-                "Luca Weihs",
-                "Chanwoo Park",
-                "Kimin Lee",
-                "Aniruddha Kembhavi",
-                "Kiana Ehsani"
-            ]
-        },
-        {
-            "Title": "Total Selfie: Generating Full-Body Selfies",
-            "Authors": [
-                "Bowei Chen",
-                "Brian Curless",
-                "Ira Kemelmacher-Shlizerman",
-                "Steve Seitz"
-            ]
-        },
-        {
-            "Title": "LayoutFormer: Hierarchical Text Detection Towards Scene Text Understanding",
-            "Authors": [
-                "Min Liang",
-                "Jia-Wei Ma",
-                "Xiaobin Zhu",
-                "Jingyan Qin",
-                "Xu-Cheng Yin"
-            ]
-        },
-        {
-            "Title": "ODCR: Orthogonal Decoupling Contrastive Regularization for Unpaired Image Dehazing",
-            "Authors": [
-                "Zhongze Wang",
-                "Haitao Zhao",
-                "Jingchao Peng",
-                "Lujian Yao",
-                "Kaijie Zhao"
-            ]
-        },
-        {
-            "Title": "Accelerating Neural Field Training via Soft Mining",
-            "Authors": [
-                "Shakiba Kheradmand",
-                "Daniel Rebain",
-                "Gopal Sharma",
-                "Hossam Isack",
-                "Abhishek Kar",
-                "Andrea Tagliasacchi",
-                "Kwang Moo Yi"
-            ]
-        },
-        {
-            "Title": "PEGASUS: Personalized Generative 3D Avatars with Composable Attributes",
-            "Authors": [
-                "Hyunsoo Cha",
-                "Byungjun Kim",
-                "Hanbyul Joo"
-            ]
-        },
-        {
-            "Title": "Rethinking Inductive Biases for Surface Normal Estimation",
-            "Authors": [
-                "Gwangbin Bae",
-                "Andrew J. Davison"
-            ]
-        },
-        {
-            "Title": "SHINOBI: Shape and Illumination using Neural Object Decomposition via BRDF Optimization In-the-wild",
-            "Authors": [
-                "Andreas Engelhardt",
-                "Amit Raj",
-                "Mark Boss",
-                "Yunzhi Zhang",
-                "Abhishek Kar",
-                "Yuanzhen Li",
-                "Ricardo Martin-Brualla",
-                "Jonathan T. Barron",
-                "Deqing Sun",
-                "Hendrik Lensch",
-                "Varun Jampani"
-            ]
-        },
-        {
-            "Title": "Total-Decom: Decomposed 3D Scene Reconstruction with Minimal Interaction",
-            "Authors": [
-                "Xiaoyang Lyu",
-                "Chirui Chang",
-                "Peng Dai",
-                "Yangtian Sun",
-                "Xiaojuan Qi"
-            ]
-        },
-        {
-            "Title": "Dynamic Prompt Optimizing for Text-to-Image Generation",
-            "Authors": [
-                "Wenyi Mo",
-                "Tianyu Zhang",
-                "Yalong Bai",
-                "Bing Su",
-                "Ji-Rong Wen",
-                "Qing Yang"
-            ]
-        },
-        {
-            "Title": "Hallucination Augmented Contrastive Learning for Multimodal Large Language Model",
-            "Authors": [
-                "Chaoya Jiang",
-                "Haiyang Xu",
-                "Mengfan Dong",
-                "Jiaxing Chen",
-                "Wei Ye",
-                "Ming Yan",
-                "Qinghao Ye",
-                "Ji Zhang",
-                "Fei Huang",
-                "Shikun Zhang"
-            ]
-        },
-        {
-            "Title": "LORS: Low-rank Residual Structure for Parameter-Efficient Network Stacking",
-            "Authors": [
-                "Jialin Li",
-                "Qiang Nie",
-                "Weifu Fu",
-                "Yuhuan Lin",
-                "Guangpin Tao",
-                "Yong Liu",
-                "Chengjie Wang"
-            ]
-        },
-        {
-            "Title": "Grounded Question-Answering in Long Egocentric Videos",
-            "Authors": [
-                "Shangzhe Di",
-                "Weidi Xie"
-            ]
-        },
-        {
-            "Title": "FairRAG: Fair Human Generation via Fair Retrieval Augmentation",
-            "Authors": [
-                "Robik Shrestha",
-                "Yang Zou",
-                "Qiuyu Chen",
-                "Zhiheng Li",
-                "Yusheng Xie",
-                "Siqi Deng"
-            ]
-        },
-        {
-            "Title": "MicroDiffusion: Implicit Representation-Guided Diffusion for 3D Reconstruction from Limited 2D Microscopy Projections",
-            "Authors": [
-                "mude hui",
-                "Zihao Wei",
-                "Hongru Zhu",
-                "Fei Xia",
-                "Yuyin Zhou"
-            ]
-        },
-        {
-            "Title": "Learning Inclusion Matching for Animation Paint Bucket Colorization",
-            "Authors": [
-                "Yuekun Dai",
-                "Shangchen Zhou",
-                "Blake Li",
-                "Chongyi Li",
-                "Chen Change Loy"
-            ]
-        },
-        {
-            "Title": "DPMesh: Exploiting Diffusion Prior for Occluded Human Mesh Recovery",
-            "Authors": [
-                "Yixuan Zhu",
-                "Ao Li",
-                "Yansong Tang",
-                "Wenliang Zhao",
-                "Jie Zhou",
-                "Jiwen Lu"
-            ]
-        },
-        {
-            "Title": "Visual Layout Composer: Image-Vector Dual Diffusion Model for Design Layout Generation",
-            "Authors": [
-                "Mohammad Amin Shabani",
-                "Zhaowen Wang",
-                "Difan Liu",
-                "Nanxuan Zhao",
-                "Jimei Yang",
-                "Yasutaka Furukawa"
-            ]
-        },
-        {
-            "Title": "Pose-Guided Self-Training with Two-Stage Clustering for Unsupervised Landmark Discovery",
-            "Authors": [
-                "Siddharth Tourani",
-                "Ahmed Alwheibi",
-                "Arif Mahmood",
-                "Muhammad Haris Khan"
-            ]
-        },
-        {
-            "Title": "DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction",
-            "Authors": [
-                "Weiyi Lv",
-                "Yuhang Huang",
-                "NING Zhang",
-                "Ruei-Sung Lin",
-                "Mei Han",
-                "Dan Zeng"
-            ]
-        },
-        {
-            "Title": "Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding",
-            "Authors": [
-                "Sicong Leng",
-                "Hang Zhang",
-                "Guanzheng Chen",
-                "Xin Li",
-                "Shijian Lu",
-                "Chunyan Miao",
-                "Lidong Bing"
-            ]
-        },
-        {
-            "Title": "LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching",
-            "Authors": [
-                "Yixun Liang",
-                "Xin Yang",
-                "Jiantao Lin",
-                "Haodong LI",
-                "Xiaogang Xu",
-                "Ying-Cong Chen"
-            ]
-        },
-        {
-            "Title": "Preserving Fairness Generalization in Deepfake Detection",
-            "Authors": [
-                "Li Lin",
-                "Xinan He",
-                "Yan Ju",
-                "Xin Wang",
-                "Feng Ding",
-                "Shu Hu"
-            ]
-        },
-        {
-            "Title": "RepViT: Revisiting Mobile CNN From ViT Perspective",
-            "Authors": [
-                "Ao Wang",
-                "Hui Chen",
-                "Zijia Lin",
-                "Jungong Han",
-                "Guiguang Ding"
-            ]
-        },
-        {
-            "Title": "Simple Semantic-Aided Few-Shot Learning",
-            "Authors": [
-                "Hai Zhang",
-                "Junzhe Xu",
-                "Shanlin Jiang",
-                "Zhenan He"
-            ]
-        },
-        {
-            "Title": "OVMR: Open-Vocabulary Recognition with Multi-Modal References",
-            "Authors": [
-                "Zehong Ma",
-                "Shiliang Zhang",
-                "Longhui Wei",
-                "Qi Tian"
-            ]
-        },
-        {
-            "Title": "AETTA: Label-Free Accuracy Estimation for Test-Time Adaptation",
-            "Authors": [
-                "Taeckyung Lee",
-                "Sorn Chottananurak",
-                "Taesik Gong",
-                "Sung-Ju Lee"
-            ]
-        },
-        {
-            "Title": "A Video is Worth 256 Bases: Spatial-Temporal Expectation-Maximization Inversion for Zero-Shot Video Editing",
-            "Authors": [
-                "Li Maomao",
-                "Yu Li",
-                "Tianyu Yang",
-                "Yunfei Liu",
-                "Dongxu Yue",
-                "Zhihui Lin",
-                "Dong Xu"
-            ]
-        },
-        {
-            "Title": "A Simple Recipe for Language-guided Domain Generalized Segmentation",
-            "Authors": [
-                "Mohammad Fahes",
-                "TUAN-HUNG VU",
-                "Andrei Bursuc",
-                "Patrick Pérez",
-                "Raoul de Charette"
-            ]
-        },
-        {
-            "Title": "An Edit Friendly DDPM Noise Space: Inversion and Manipulations",
-            "Authors": [
-                "Inbar Huberman-Spiegelglas",
-                "Vladimir Kulikov",
-                "Tomer Michaeli"
-            ]
-        },
-        {
-            "Title": "AdaShift: Learning Discriminative Self-Gated Neural Feature Activation With an Adaptive Shift Factor",
-            "Authors": [
-                "Sudong Cai"
-            ]
-        },
-        {
-            "Title": "Improved Implicit Neural Representation with Fourier Reparameterized Training",
-            "Authors": [
-                "Kexuan Shi",
-                "Xingyu Zhou",
-                "Shuhang Gu"
-            ]
-        },
-        {
-            "Title": "Gradient Alignment for Cross-Domain Face Anti-Spoofing",
-            "Authors": [
-                "MINH BINH LE",
-                "Simon Woo"
-            ]
-        },
-        {
-            "Title": "U-VAP: User-specified Visual Appearance Personalization via Decoupled Self Augmentation",
-            "Authors": [
-                "You Wu",
-                "Kean Liu",
-                "Xiaoyue Mi",
-                "Fan Tang",
-                "Juan Cao",
-                "Jintao Li"
-            ]
-        },
-        {
-            "Title": "Multi-Object Tracking in the Dark",
-            "Authors": [
-                "Xinzhe Wang",
-                "Kang Ma",
-                "Qiankun Liu",
-                "Yunhao Zou",
-                "Ying Fu"
-            ]
-        },
-        {
-            "Title": "RoMa: Robust Dense Feature Matching",
-            "Authors": [
-                "Johan Edstedt",
-                "Qiyu Sun",
-                "Georg Bökman",
-                "Mårten Wadenbäck",
-                "Michael Felsberg"
-            ]
-        },
-        {
-            "Title": "DaReNeRF: Direction-aware Representation for Dynamic Scenes",
-            "Authors": [
-                "Ange Lou",
-                "Benjamin Planche",
-                "Zhongpai Gao",
-                "Yamin Li",
-                "Tianyu Luan",
-                "Hao Ding",
-                "Terrence Chen",
-                "Jack Noble",
-                "Ziyan Wu"
-            ]
-        },
-        {
-            "Title": "You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval",
-            "Authors": [
-                "Subhadeep Koley",
-                "Ayan Kumar Bhunia",
-                "Aneeshan Sain",
-                "Pinaki Nath Chowdhury",
-                "Tao Xiang",
-                "Yi-Zhe Song"
-            ]
-        },
-        {
-            "Title": "It's All About Your Sketch: Democratising Sketch Control in Diffusion Models",
-            "Authors": [
-                "Subhadeep Koley",
-                "Ayan Kumar Bhunia",
-                "Deeptanshu Sekhri",
-                "Aneeshan Sain",
-                "Pinaki Nath Chowdhury",
-                "Tao Xiang",
-                "Yi-Zhe Song"
-            ]
-        },
-        {
-            "Title": "Text-to-Image Diffusion Models are Great Sketch-Photo Matchmakers",
-            "Authors": [
-                "Subhadeep Koley",
-                "Ayan Kumar Bhunia",
-                "Aneeshan Sain",
-                "Pinaki Nath Chowdhury",
-                "Tao Xiang",
-                "Yi-Zhe Song"
-            ]
-        },
-        {
-            "Title": "One-Prompt to Segment All Medical Images",
-            "Authors": [
-                "Wu",
-                "Min Xu"
-            ]
-        },
-        {
-            "Title": "Insights from the Use of Previously Unseen Neural Architecture Search Datasets",
-            "Authors": [
-                "Rob Geada",
-                "David Towers",
-                "Matthew Forshaw",
-                "Amir Atapour-Abarghouei",
-                "Stephen McGough"
-            ]
-        },
-        {
-            "Title": "General Object Foundation Model for Images and Videos at Scale",
-            "Authors": [
-                "Junfeng Wu",
-                "Yi Jiang",
-                "Qihao Liu",
-                "Zehuan Yuan",
-                "Xiang Bai",
-                "Song Bai"
-            ]
-        },
-        {
-            "Title": "A Pedestrian is Worth One Prompt: Towards Language Guidance Person Re-Identification",
-            "Authors": [
-                "Zexian Yang",
-                "Dayan Wu",
-                "Chenming Wu",
-                "Zheng Lin",
-                "JingziGU",
-                "Weiping Wang"
-            ]
-        },
-        {
-            "Title": "CFPL-FAS: Class Free Prompt Learning for Generalizable Face Anti-spoofing",
-            "Authors": [
-                "Ajian Liu",
-                "Shuai Xue",
-                "Gan Jianwen",
-                "Jun Wan",
-                "Yanyan Liang",
-                "Jiankang Deng",
-                "Sergio Escalera",
-                "Zhen Lei"
-            ]
-        },
-        {
-            "Title": "WonderJourney: Going from Anywhere to Everywhere",
-            "Authors": [
-                "Hong-Xing Yu",
-                "Haoyi Duan",
-                "Junhwa Hur",
-                "Kyle Sargent",
-                "Michael Rubinstein",
-                "William Freeman",
-                "Forrester Cole",
-                "Deqing Sun",
-                "Noah Snavely",
-                "Jiajun Wu",
-                "Charles Herrmann"
-            ]
-        },
-        {
-            "Title": "MoDE: CLIP Data Experts via Clustering",
-            "Authors": [
-                "Jiawei Ma",
-                "Po-Yao Huang",
-                "Saining Xie",
-                "Shang-Wen Li",
-                "Luke Zettlemoyer",
-                "Shih-Fu Chang",
-                "Wen-tau Yih",
-                "Hu Xu"
-            ]
-        },
-        {
-            "Title": "POCE: Primal Policy Optimization with Conservative Estimation for Multi-constraint Offline Reinforcement Learning",
-            "Authors": [
-                "Jiayi Guan",
-                "Li Shen",
-                "Ao Zhou",
-                "Lusong Li",
-                "Han Hu",
-                "Xiaodong He",
-                "Guang Chen",
-                "Changjun Jiang"
-            ]
-        },
-        {
-            "Title": "Flow-Guided Online Stereo Rectification for Wide Baseline Stereo",
-            "Authors": [
-                "Anush Kumar",
-                "Fahim Mannan",
-                "Omid Hosseini Jafari",
-                "Shile Li",
-                "Felix Heide"
-            ]
-        },
-        {
-            "Title": "4D Gaussian Splatting for Real-Time Dynamic Scene Rendering",
-            "Authors": [
-                "Guanjun Wu",
-                "Taoran Yi",
-                "Jiemin Fang",
-                "Lingxi Xie",
-                "Xiaopeng Zhang",
-                "Wei Wei",
-                "Wenyu Liu",
-                "Qi Tian",
-                "Xinggang Wang"
-            ]
-        },
-        {
-            "Title": "Towards Large-scale 3D Representation Learning with Multi-dataset Point Prompt Training",
-            "Authors": [
-                "Xiaoyang Wu",
-                "Zhuotao Tian",
-                "Xin Wen",
-                "Bohao Peng",
-                "Xihui Liu",
-                "Kaicheng Yu",
-                "Hengshuang Zhao"
-            ]
-        },
-        {
-            "Title": "Instantaneous Perception of Moving Objects in 3D",
-            "Authors": [
-                "Di Liu",
-                "Bingbing Zhuang",
-                "Dimitris N. Metaxas",
-                "Manmohan Chandraker"
-            ]
-        },
-        {
-            "Title": "CLIP-Driven Open-Vocabulary 3D Scene Graph Generation via Cross-Modality Contrastive Learning",
-            "Authors": [
-                "Lianggangxu Chen",
-                "Xuejiao Wang",
-                "Jiale Lu",
-                "Shaohui Lin",
-                "Changbo Wang",
-                "Gaoqi He"
-            ]
-        },
-        {
-            "Title": "Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning",
-            "Authors": [
-                "Desai Xie",
-                "Jiahao Li",
-                "Hao Tan",
-                "Xin Sun",
-                "Zhixin Shu",
-                "Yi Zhou",
-                "Sai Bi",
-                "Soren Pirk",
-                "ARIE KAUFMAN"
-            ]
-        },
-        {
-            "Title": "Referring Expression Counting",
-            "Authors": [
-                "Siyang Dai",
-                "Jun Liu",
-                "Ngai-Man Cheung"
-            ]
-        },
-        {
-            "Title": "Multi-Scale 3D Gaussian Splatting for Anti-Aliased Rendering",
-            "Authors": [
-                "Zhiwen Yan",
-                "Weng Fei Low",
-                "Yu Chen",
-                "Gim Hee Lee"
-            ]
-        },
-        {
-            "Title": "HRVDA: High-Resolution Visual Document Assistant",
-            "Authors": [
-                "Chaohu Liu",
-                "Kun Yin",
-                "Haoyu Cao",
-                "Xinghua Jiang",
-                "Xin Li",
-                "Yinsong Liu",
-                "Deqiang Jiang",
-                "Xing Sun",
-                "Linli Xu"
-            ]
-        },
-        {
-            "Title": "A Dual-Augmentor Framework for Domain Generalization in 3D Human Pose Estimation",
-            "Authors": [
-                "Qucheng Peng",
-                "Ce Zheng",
-                "Chen Chen"
-            ]
-        },
-        {
-            "Title": "Building Bridges across Spatial and Temporal Resolutions: Reference-Based Super-Resolution via Change Priors and Conditional Diffusion Model",
-            "Authors": [
-                "Runmin Dong",
-                "Shuai Yuan",
-                "Bin Luo",
-                "Mengxuan Chen",
-                "Jinxiao Zhang",
-                "Lixian Zhang",
-                "Weijia Li",
-                "Juepeng Zheng",
-                "Haohuan Fu"
-            ]
-        },
-        {
-            "Title": "Gaussian Shading: Provable Performance-Lossless Image Watermarking for Diffusion Models",
-            "Authors": [
-                "Zijin Yang",
-                "Kai Zeng",
-                "Kejiang Chen",
-                "Han Fang",
-                "Weiming Zhang",
-                "Nenghai Yu"
-            ]
-        },
-        {
-            "Title": "PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection",
-            "Authors": [
-                "Xiaofan Li",
-                "Zhizhong Zhang",
-                "Xin Tan",
-                "Yanyun Qu",
-                "Chengwei Chen",
-                "Yuan Xie",
-                "Lizhuang Ma"
-            ]
-        },
-        {
-            "Title": "Vlogger: Make Your Dream A Vlog",
-            "Authors": [
-                "Shaobin Zhuang",
-                "Kunchang Li",
-                "Xinyuan Chen",
-                "Yaohui Wang",
-                "Ziwei Liu",
-                "Yu Qiao",
-                "Yali Wang"
-            ]
-        },
-        {
-            "Title": "EpiDiff: Enhancing Multi-View Synthesis via Localized Epipolar-Constrained Diffusion",
-            "Authors": [
-                "Zehuan Huang",
-                "Hao Wen",
-                "Junting Dong",
-                "Yaohui Wang",
-                "Yangguang Li",
-                "Xinyuan Chen",
-                "Yan-Pei Cao",
-                "Ding Liang",
-                "Yu Qiao",
-                "Bo Dai",
-                "Lu Sheng"
-            ]
-        },
-        {
-            "Title": "SRTube: Video-Language Pre-Training with Action-Centric Video Tube Features and Semantic Role Labeling",
-            "Authors": [
-                "Juhee Lee",
-                "Jewon Kang"
-            ]
-        },
-        {
-            "Title": "Unsupervised Learning of Category-Level 3D Pose from Object-Centric Videos",
-            "Authors": [
-                "Leonhard Sommer",
-                "Artur Jesslen",
-                "Eddy Ilg",
-                "Adam Kortylewski"
-            ]
-        },
-        {
-            "Title": "MCPNet: An Interpretable Classifier via Multi-Level Concept Prototypes",
-            "Authors": [
-                "Bor Shiun Wang",
-                "Chien-Yi Wang",
-                "Wei-Chen Chiu"
-            ]
-        },
-        {
-            "Title": "Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration",
-            "Authors": [
-                "Mingyuan Meng",
-                "Dagan Feng",
-                "Lei Bi",
-                "Jinman Kim"
-            ]
-        },
-        {
-            "Title": "Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives",
-            "Authors": [
-                "Kristen Grauman",
-                "Andrew Westbury",
-                "Lorenzo Torresani",
-                "Kris Kitani",
-                "Jitendra Malik",
-                "Triantafyllos Afouras",
-                "Kumar Ashutosh",
-                "Vijay Baiyya",
-                "Siddhant Bansal",
-                "Bikram Boote",
-                "Eugene Byrne",
-                "Zachary Chavis",
-                "Joya Chen",
-                "Feng Cheng",
-                "Fu-Jen Chu",
-                "Sean Crane",
-                "Avijit Dasgupta",
-                "Jing Dong",
-                "Maria Escobar",
-                "Cristhian David Forigua Diaz",
-                "Abrham Gebreselasie",
-                "Sanjay Haresh",
-                "Jing Huang",
-                "Md Mohaiminul Islam",
-                "Suyog Jain",
-                "Rawal Khirodkar",
-                "Devansh Kukreja",
-                "Kevin Liang",
-                "Jia-Wei Liu",
-                "Sagnik Majumder",
-                "Yongsen Mao",
-                "Miguel Martin",
-                "Effrosyni Mavroudi",
-                "Tushar Nagarajan",
-                "Francesco Ragusa",
-                "Santhosh Kumar Ramakrishnan",
-                "Luigi Seminara",
-                "Arjun Somayazulu",
-                "Yale Song",
-                "Shan Su",
-                "Zihui Xue",
-                "Edward Zhang",
-                "Jinxu Zhang",
-                "Angela Castillo",
-                "Changan Chen",
-                "Fu Xinzhu",
-                "Ryosuke Furuta",
-                "Cristina González",
-                "Gupta",
-                "Jiabo Hu",
-                "Yifei Huang",
-                "Yiming Huang",
-                "Weslie Khoo",
-                "Anush Kumar",
-                "Robert Kuo",
-                "Sach Lakhavani",
-                "Miao Liu",
-                "Mi Luo",
-                "Zhengyi Luo",
-                "Brighid Meredith",
-                "Austin Miller",
-                "Oluwatumininu Oguntola",
-                "Xiaqing Pan",
-                "Penny Peng",
-                "Shraman Pramanick",
-                "Merey Ramazanova",
-                "Fiona Ryan",
-                "Wei Shan",
-                "Kiran Somasundaram",
-                "Chenan Song",
-                "Audrey Southerland",
-                "Masatoshi Tateno",
-                "Huiyu Wang",
-                "Yuchen Wang",
-                "Takuma Yagi",
-                "Mingfei Yan",
-                "Xitong Yang",
-                "Zecheng Yu",
-                "Shengxin Zha",
-                "Chen Zhao",
-                "Ziwei Zhao",
-                "Zhifan Zhu",
-                "Jeff Zhuo",
-                "Pablo ARBELAEZ",
-                "Gedas Bertasius",
-                "Dima Damen",
-                "Jakob Engel",
-                "Giovanni Maria Farinella",
-                "Antonino Furnari",
-                "Bernard Ghanem",
-                "Judy Hoffman",
-                "C.V. Jawahar",
-                "Richard Newcombe",
-                "Hyun Soo Park",
-                "James Rehg",
-                "Yoichi Sato",
-                "Manolis Savva",
-                "Jianbo Shi",
-                "Mike Zheng Shou",
-                "Michael Wray"
-            ]
-        },
-        {
-            "Title": "Generalized Predictive Model for Autonomous Driving",
-            "Authors": [
-                "Jiazhi Yang",
-                "Shenyuan Gao",
-                "Yihang Qiu",
-                "Li Chen",
-                "Tianyu Li",
-                "Bo Dai",
-                "Kashyap Chitta",
-                "Penghao Wu",
-                "Jia Zeng",
-                "Ping Luo",
-                "Jun Zhang",
-                "Andreas Geiger",
-                "Yu Qiao",
-                "Hongyang Li"
-            ]
-        },
-        {
-            "Title": "HAVE-FUN: Human Avatar Reconstruction from Few-Shot Unconstrained Images",
-            "Authors": [
-                "Xihe Yang",
-                "Xingyu Chen",
-                "Daiheng Gao",
-                "Finn Wong",
-                "Xiaoguang Han",
-                "Baoyuan Wang"
-            ]
-        },
-        {
-            "Title": "LASA: Instance Reconstruction from Real Scans using A Large-scale Aligned Shape Annotation Dataset",
-            "Authors": [
-                "Haolin Liu",
-                "Chongjie Ye",
-                "Yinyu Nie",
-                "Yingfan He",
-                "Xiaoguang Han"
-            ]
-        },
-        {
-            "Title": "PICTURE: PhotorealistIC virtual Try-on from UnconstRained dEsigns",
-            "Authors": [
-                "Shuliang Ning",
-                "Duomin Wang",
-                "Yipeng Qin",
-                "Zirong Jin",
-                "Baoyuan Wang",
-                "Xiaoguang Han"
-            ]
-        },
-        {
-            "Title": "RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D",
-            "Authors": [
-                "Lingteng Qiu",
-                "Guanying Chen",
-                "Xiaodong Gu",
-                "Qi Zuo",
-                "Mutian Xu",
-                "Yushuang Wu",
-                "Weihao Yuan",
-                "Zilong Dong",
-                "Liefeng Bo",
-                "Xiaoguang Han"
-            ]
-        },
-        {
-            "Title": "MVHumanNet: A Large-scale Dataset of Multi-view Daily Dressing Human Captures",
-            "Authors": [
-                "Zhangyang Xiong",
-                "Chenghong Li",
-                "Kenkun Liu",
-                "Hongjie Liao",
-                "Jianqiao HU",
-                "Junyi Zhu",
-                "Shuliang Ning",
-                "Lingteng Qiu",
-                "Chongjie Wang",
-                "Shijie Wang",
-                "Shuguang Cui",
-                "Xiaoguang Han"
-            ]
-        },
-        {
-            "Title": "GenesisTex: Adapting Image Denoising Diffusion to Texture Space",
-            "Authors": [
-                "Chenjian Gao",
-                "Boyan Jiang",
-                "Xinghui Li",
-                "YingPeng Zhang",
-                "Qian Yu"
-            ]
-        },
-        {
-            "Title": "USE: Universal Segment Embeddings for Open-Vocabulary Image Segmentation",
-            "Authors": [
-                "Xiaoqi Wang",
-                "Wenbin He",
-                "Xiwei Xuan",
-                "Clint Sebastian",
-                "Jorge Piazentin Ono",
-                "Xin Li",
-                "Sima Behpour",
-                "Thang Doan",
-                "Liang Gou",
-                "Shen",
-                "Liu Ren"
-            ]
-        },
-        {
-            "Title": "MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding",
-            "Authors": [
-                "Bo He",
-                "Hengduo Li",
-                "Young Kyun Jang",
-                "Menglin Jia",
-                "Xuefei Cao",
-                "Ashish Shah",
-                "Abhinav Shrivastava",
-                "Ser-Nam Lim"
-            ]
-        },
-        {
-            "Title": "SVGDreamer: Text Guided SVG Generation with Diffusion Model",
-            "Authors": [
-                "XiMing Xing",
-                "Chuang Wang",
-                "Haitao Zhou",
-                "Jing Zhang",
-                "Dong Xu",
-                "Qian Yu"
-            ]
-        },
-        {
-            "Title": "Unbiased Faster R-CNN for Single-source Domain Generalized Object Detection",
-            "Authors": [
-                "Yajing Liu",
-                "Shijun Zhou",
-                "Xiyao Liu",
-                "chunhui Hao",
-                "Baojie Fan",
-                "Jiandong Tian"
-            ]
-        },
-        {
-            "Title": "Learning to Remove Wrinkled Transparent Film with Polarized Prior",
-            "Authors": [
-                "Jiaqi Tang",
-                "RUIZHENG WU",
-                "Xiaogang Xu",
-                "Sixing Hu",
-                "Ying-Cong Chen"
-            ]
-        },
-        {
-            "Title": "GeneAvatar: Generic Expression-Aware Volumetric Head Avatar Editing from a Single Image",
-            "Authors": [
-                "Chong Bao",
-                "Yinda Zhang",
-                "Yuan Li",
-                "Xiyu Zhang",
-                "Bangbang Yang",
-                "Hujun Bao",
-                "Marc Pollefeys",
-                "Guofeng Zhang",
-                "Zhaopeng Cui"
-            ]
-        },
-        {
-            "Title": "Self-Training Large Language Models for Improved Visual Program Synthesis With Visual Reinforcement",
-            "Authors": [
-                "Zaid Khan",
-                "Vijay Kumar BG",
-                "Samuel Schulter",
-                "Yun Fu",
-                "Manmohan Chandraker"
-            ]
-        },
-        {
-            "Title": "Generating Enhanced Negatives for Training Language-Based Object Detectors",
-            "Authors": [
-                "Shiyu Zhao",
-                "Long Zhao",
-                "Vijay Kumar BG",
-                "Yumin Suh",
-                "Dimitris N. Metaxas",
-                "Manmohan Chandraker",
-                "Samuel Schulter"
-            ]
-        },
-        {
-            "Title": "Joint-Task Regularization for Partially Labeled Multi-Task Learning",
-            "Authors": [
-                "Kento Nishi",
-                "Junsik Kim",
-                "Wanhua Li",
-                "Hanspeter Pfister"
-            ]
-        },
-        {
-            "Title": "Why Not Use Your Textbook? Knowledge-Enhanced Procedure Planning of Instructional Videos",
-            "Authors": [
-                "Kumaranage Ravindu Nagasinghe",
-                "Honglu Zhou",
-                "Malitha Gunawardhana",
-                "Martin Renqiang Min",
-                "Daniel Harari",
-                "Muhammad Haris Khan"
-            ]
-        },
-        {
-            "Title": "Spatio-Temporal Turbulence Mitigation: A Translational Perspective",
-            "Authors": [
-                "Xingguang Zhang",
-                "Nicholas M Chimitt",
-                "Yiheng Chi",
-                "Zhiyuan Mao",
-                "Stanley H. Chan"
-            ]
-        },
-        {
-            "Title": "Generative Quanta Color Imaging",
-            "Authors": [
-                "Vishal Purohit",
-                "Junjie Luo",
-                "Yiheng Chi",
-                "Qi Guo",
-                "Stanley H. Chan",
-                "Qiang Qiu"
-            ]
-        },
-        {
-            "Title": "SI-MIL: Taming Deep MIL for Self-Interpretability in Gigapixel Histopathology",
-            "Authors": [
-                "Saarthak Kapse",
-                "Pushpak Pati",
-                "Srijan Das",
-                "Jingwei Zhang",
-                "Chao Chen",
-                "Maria Vakalopoulou",
-                "Joel Saltz",
-                "Dimitris Samaras",
-                "Rajarsi Gupta",
-                "Prateek Prasanna"
-            ]
-        },
-        {
-            "Title": "Learned Representation-Guided Diffusion Models for Large-Image Generation",
-            "Authors": [
-                "Alexandros Graikos",
-                "Srikar Yellapragada",
-                "Minh-Quan Le",
-                "Saarthak Kapse",
-                "Prateek Prasanna",
-                "Joel Saltz",
-                "Dimitris Samaras"
-            ]
-        },
-        {
-            "Title": "Guided Slot Attention for Unsupervised Video Object Segmentation",
-            "Authors": [
-                "Minhyeok Lee",
-                "Suhwan Cho",
-                "Dogyoon Lee",
-                "Chaewon Park",
-                "Jungho Lee",
-                "Sangyoun Lee"
-            ]
-        },
-        {
-            "Title": "Dual Prototype Attention for Unsupervised Video Object Segmentation",
-            "Authors": [
-                "Suhwan Cho",
-                "Minhyeok Lee",
-                "Seunghoon Lee",
-                "Dogyoon Lee",
-                "Heeseung Choi",
-                "Ig-Jae Kim",
-                "Sangyoun Lee"
-            ]
-        },
-        {
-            "Title": "R-Cyclic Diffuser: Reductive and Cyclic Latent Diffusion for 3D Clothed Human Digitalization",
-            "Authors": [
-                "Kennard Chan",
-                "Fayao Liu",
-                "Guosheng Lin",
-                "Chuan-Sheng Foo",
-                "Weisi Lin"
-            ]
-        },
-        {
-            "Title": "MRFP: Learning Generalizable Semantic Segmentation from Sim-2-Real with Multi-Resolution Feature Perturbation",
-            "Authors": [
-                "Sumanth Udupa",
-                "Prajwal Gurunath",
-                "Aniruddh Sikdar",
-                "Suresh Sundaram"
-            ]
-        },
-        {
-            "Title": "HiKER-SGG: Hierarchical Knowledge Enhanced Robust Scene Graph Generation",
-            "Authors": [
-                "Ce Zhang",
-                "Simon Stepputtis",
-                "Joseph Campbell",
-                "Katia Sycara",
-                "Yaqi Xie"
-            ]
-        },
-        {
-            "Title": "Towards Variable and Coordinated Holistic Co-Speech Motion Generation",
-            "Authors": [
-                "Yifei Liu",
-                "Qiong Cao",
-                "Yandong Wen",
-                "Huaiguang Jiang",
-                "Changxing Ding"
-            ]
-        },
-        {
-            "Title": "Local-consistent Transformation Learning for Rotation-invariant Point Cloud Analysis",
-            "Authors": [
-                "Yiyang Chen",
-                "Lunhao Duan",
-                "Shanshan Zhao",
-                "Changxing Ding",
-                "Dacheng Tao"
-            ]
-        },
-        {
-            "Title": "BigGait: Learning Gait Representation You Want by Large Vision Models",
-            "Authors": [
-                "Dingqiang Ye",
-                "Chao Fan",
-                "Jingzhe Ma",
-                "Xiaoming Liu",
-                "Shiqi Yu"
-            ]
-        },
-        {
-            "Title": "Event-based Visible and Infrared Fusion via Multi-task Collaboration",
-            "Authors": [
-                "Mengyue Geng",
-                "Lin Zhu",
-                "Lizhi Wang",
-                "Wei Zhang",
-                "Ruiqin Xiong",
-                "Yonghong Tian"
-            ]
-        },
-        {
-            "Title": "Learning to Rematch Mismatched Pairs for Robust Cross-Modal Retrieval",
-            "Authors": [
-                "Haochen Han",
-                "Qinghua Zheng",
-                "Guang Dai",
-                "Minnan Luo",
-                "Jingdong Wang"
-            ]
-        },
-        {
-            "Title": "Enhancing Visual Document Understanding with Contrastive Learning in Large Visual-Language Models",
-            "Authors": [
-                "Xin Li",
-                "Yunfei Wu",
-                "Xinghua Jiang",
-                "ZhiHao Guo",
-                "Mingming Gong",
-                "Haoyu Cao",
-                "Yinsong Liu",
-                "Deqiang Jiang",
-                "Xing Sun"
-            ]
-        },
-        {
-            "Title": "Language-Driven Anchors for Zero-Shot Adversarial Robustness",
-            "Authors": [
-                "Xiao Li",
-                "Wei Zhang",
-                "Yining Liu",
-                "Zhanhao Hu",
-                "Bo Zhang",
-                "Xiaolin Hu"
-            ]
-        },
-        {
-            "Title": "Breathing Life Into Sketches Using Text-to-Video Priors",
-            "Authors": [
-                "Rinon Gal",
-                "Yael Vinker",
-                "Yuval Alaluf",
-                "Amit H. Bermano",
-                "Daniel Cohen-Or",
-                "Ariel Shamir",
-                "Gal Chechik"
-            ]
-        },
-        {
-            "Title": "Gaussian Shell Maps for Efficient 3D Human Generation",
-            "Authors": [
-                "Rameen Abdal",
-                "Wang Yifan",
-                "Zifan Shi",
-                "Yinghao Xu",
-                "Ryan Po",
-                "Zhengfei Kuang",
-                "Qifeng Chen",
-                "Dit-Yan Yeung",
-                "Gordon Wetzstein"
-            ]
-        },
-        {
-            "Title": "AllSpark: Reborn Labeled Features from Unlabeled in Transformer for Semi-Supervised Semantic Segmentation",
-            "Authors": [
-                "Haonan Wang",
-                "Qixiang ZHANG",
-                "Yi Li",
-                "Xiaomeng Li"
-            ]
-        },
-        {
-            "Title": "Living Scenes: Multi-object Relocalization and Reconstruction in Changing 3D Environments",
-            "Authors": [
-                "Liyuan Zhu",
-                "Shengyu Huang",
-                "Konrad Schindler",
-                "Iro Armeni"
-            ]
-        },
-        {
-            "Title": "Byzantine-robust Decentralized Federated Learning via Dual-domain Clustering and Trust Bootstrapping",
-            "Authors": [
-                "Peng Sun",
-                "Xinyang Liu",
-                "Zhibo Wang",
-                "Bo Liu"
-            ]
-        },
-        {
-            "Title": "Incorporating Geo-Diverse Knowledge into Prompting for Increased Geographical Robustness in Object Recognition",
-            "Authors": [
-                "Kyle Buettner",
-                "Sina Malakouti",
-                "Xiang Li",
-                "Adriana Kovashka"
-            ]
-        },
-        {
-            "Title": "MotionEditor: Editing Video Motion via Content-Aware Diffusion",
-            "Authors": [
-                "Shuyuan Tu",
-                "Qi Dai",
-                "Zhi-Qi Cheng",
-                "Han Hu",
-                "Xintong Han",
-                "Zuxuan Wu",
-                "Yu-Gang Jiang"
-            ]
-        },
-        {
-            "Title": "EVS-assisted Joint Deblurring Rolling-Shutter Correction and Video Frame Interpolation through Sensor Inverse Modeling",
-            "Authors": [
-                "Rui Jiang",
-                "Fangwen Tu",
-                "Yixuan Long",
-                "Aabhaas Vaish",
-                "Bowen Zhou",
-                "Qinyi Wang",
-                "Wei Zhang",
-                "Yuntan Fang",
-                "Luis Eduardo García Capel",
-                "Bo Mu",
-                "Tiejun Dai",
-                "Andreas Suess"
-            ]
-        },
-        {
-            "Title": "DiffAM: Diffusion-based Adversarial Makeup Transfer for Facial Privacy Protection",
-            "Authors": [
-                "Yuhao Sun",
-                "Lingyun Yu",
-                "Hongtao Xie",
-                "Jiaming Li",
-                "Yongdong Zhang"
-            ]
-        },
-        {
-            "Title": "Open-World Semantic Segmentation Including Class Similarity",
-            "Authors": [
-                "Matteo Sodano",
-                "Federico Magistri",
-                "Lucas Nunes",
-                "Jens Behley",
-                "Cyrill Stachniss"
-            ]
-        },
-        {
-            "Title": "A2XP: Towards Private Domain Generalization",
-            "Authors": [
-                "Geunhyeok Yu",
-                "Hyoseok Hwang"
-            ]
-        },
-        {
-            "Title": "Training Like a Medical Resident: Context-Prior Learning Toward Universal Medical Image Segmentation",
-            "Authors": [
-                "Yunhe Gao"
-            ]
-        },
-        {
-            "Title": "CityDreamer: Compositional Generative Model of Unbounded 3D Cities",
-            "Authors": [
-                "Haozhe Xie",
-                "Zhaoxi Chen",
-                "Fangzhou Hong",
-                "Ziwei Liu"
-            ]
-        },
-        {
-            "Title": "Noisy-Correspondence Learning for Text-to-Image Person Re-identification",
-            "Authors": [
-                "Yang Qin",
-                "Yingke Chen",
-                "Dezhong Peng",
-                "Xi Peng",
-                "Joey Tianyi Zhou",
-                "Peng Hu"
-            ]
-        },
-        {
-            "Title": "ParamISP: Learned Forward and Inverse ISPs using Camera Parameters",
-            "Authors": [
-                "Woohyeok Kim",
-                "Geonu Kim",
-                "Junyong Lee",
-                "Seungyong Lee",
-                "Seung-Hwan Baek",
-                "Sunghyun Cho"
-            ]
-        },
-        {
-            "Title": "Diversity-aware Channel Pruning for StyleGAN Compression",
-            "Authors": [
-                "Jiwoo Chung",
-                "Sangeek Hyun",
-                "Sang-Heon Shim",
-                "Jae-Pil Heo"
-            ]
-        },
-        {
-            "Title": "LEMON: Learning 3D Human-Object Interaction Relation from 2D Images",
-            "Authors": [
-                "Yuhang Yang",
-                "Wei Zhai",
-                "Hongchen Luo",
-                "Yang Cao",
-                "Zheng-Jun Zha"
-            ]
-        },
-        {
-            "Title": "Pseudo Label Refinery for Unsupervised Domain Adaptation on Cross-dataset 3D Object Detection",
-            "Authors": [
-                "Zhanwei Zhang",
-                "Minghao Chen",
-                "Shuai Xiao",
-                "Liang Peng",
-                "Hengjia Li",
-                "Binbin Lin",
-                "Ping Li",
-                "Wenxiao Wang",
-                "Boxi Wu",
-                "Deng Cai"
-            ]
-        },
-        {
-            "Title": "Prompt-Enhanced Multiple Instance Learning for Weakly Supervised Video Anomaly Detection",
-            "Authors": [
-                "Junxi Chen",
-                "Liang Li",
-                "Li Su",
-                "Zheng-Jun Zha",
-                "Qingming Huang"
-            ]
-        },
-        {
-            "Title": "VoCo: A Simple-yet-Effective Volume Contrastive Learning Framework for 3D Medical Image Analysis",
-            "Authors": [
-                "Linshan Wu",
-                "Jia-Xin Zhuang",
-                "Hao Chen"
-            ]
-        },
-        {
-            "Title": "Brush2Prompt: Contextual Prompt Generator for Object Inpainting",
-            "Authors": [
-                "Mang Tik Chiu",
-                "Yuqian Zhou",
-                "Lingzhi Zhang",
-                "Zhe Lin",
-                "Connelly Barnes",
-                "Sohrab Amirghodsi",
-                "Eli Shechtman",
-                "Humphrey Shi"
-            ]
-        },
-        {
-            "Title": "NeRF On-the-go: Exploiting Uncertainty for Distractor-free NeRFs in the Wild",
-            "Authors": [
-                "Weining Ren",
-                "Zihan Zhu",
-                "Boyang Sun",
-                "Jiaqi Chen",
-                "Marc Pollefeys",
-                "Songyou Peng"
-            ]
-        },
-        {
-            "Title": "Random Entangled Tokens for Adversarially Robust Vision Transformer",
-            "Authors": [
-                "Huihui Gong",
-                "Minjing Dong",
-                "Siqi Ma",
-                "Seyit Camtepe",
-                "Surya Nepal",
-                "Chang Xu"
-            ]
-        },
-        {
-            "Title": "PNeRV: Enhancing Spatial Consistency via Pyramidal Neural Representation for Videos",
-            "Authors": [
-                "Qi Zhao",
-                "M. Salman Asif",
-                "Zhan Ma"
-            ]
-        },
-        {
-            "Title": "Step Differences in Instructional Video",
-            "Authors": [
-                "Tushar Nagarajan",
-                "Lorenzo Torresani"
-            ]
-        },
-        {
             "Title": "PanoContext-Former: Panoramic Total Scene Understanding with a Transformer",
             "Authors": [
                 "Yuan Dong",
@@ -28360,229 +28384,79 @@
             ]
         },
         {
-            "Title": "Layout-Agnostic Scene Text Image Synthesis with Diffusion Models",
+            "Title": "Referring Expression Counting",
             "Authors": [
-                "Qilong Zhangli",
-                "Jindong Jiang",
-                "Di Liu",
-                "Licheng Yu",
-                "Xiaoliang Dai",
-                "Ankit Ramchandani",
-                "Guan Pang",
-                "Dimitris N. Metaxas",
-                "Praveen Krishnan"
+                "Siyang Dai",
+                "Jun Liu",
+                "Ngai-Man Cheung"
             ]
         },
         {
-            "Title": "Fourier Priors-Guided Diffusion for Zero-Shot Joint Low-Light Enhancement and Deblurring",
+            "Title": "Multi-Scale 3D Gaussian Splatting for Anti-Aliased Rendering",
             "Authors": [
-                "Xiaoqian Lv",
-                "Shengping Zhang",
-                "Chenyang Wang",
-                "Yichen Zheng",
-                "Bineng Zhong",
-                "Chongyi Li",
-                "Liqiang Nie"
-            ]
-        },
-        {
-            "Title": "Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles",
-            "Authors": [
-                "Rui Song",
-                "Chenwei Liang",
-                "Hu Cao",
-                "Zhiran Yan",
-                "Walter Zimmer",
-                "Markus Gross",
-                "Andreas Festag",
-                "Alois Knoll"
-            ]
-        },
-        {
-            "Title": "GOV-NeSF: Generalizable Open-Vocabulary Neural Semantic Fields",
-            "Authors": [
-                "Fangyin Wei",
-                "Hanlin Chen",
+                "Zhiwen Yan",
+                "Weng Fei Low",
+                "Yu Chen",
                 "Gim Hee Lee"
             ]
         },
         {
-            "Title": "CoDi: Conditional Diffusion Distillation for Higher-Fidelity and Faster Image Generation",
+            "Title": "HRVDA: High-Resolution Visual Document Assistant",
             "Authors": [
-                "Kangfu Mei",
-                "Mauricio Delbracio",
-                "Hossein Talebi",
-                "Zhengzhong Tu",
-                "Vishal M. Patel",
-                "Peyman Milanfar"
+                "Chaohu Liu",
+                "Kun Yin",
+                "Haoyu Cao",
+                "Xinghua Jiang",
+                "Xin Li",
+                "Yinsong Liu",
+                "Deqiang Jiang",
+                "Xing Sun",
+                "Linli Xu"
             ]
         },
         {
-            "Title": "Towards General Robustness Verification of MaxPool-based Convolutional Neural Networks via Tightening Linear Approximation",
+            "Title": "A Dual-Augmentor Framework for Domain Generalization in 3D Human Pose Estimation",
             "Authors": [
-                "Yuan Xiao",
-                "Shiqing Ma",
-                "Juan Zhai",
-                "Chunrong Fang",
-                "Jinyuan Jia",
-                "Zhenyu Chen"
+                "Qucheng Peng",
+                "Ce Zheng",
+                "Chen Chen"
             ]
         },
         {
-            "Title": "Density-guided Translator Boosts Synthetic-to-Real Unsupervised Domain Adaptive Segmentation of 3D Point Clouds",
+            "Title": "Building Bridges across Spatial and Temporal Resolutions: Reference-Based Super-Resolution via Change Priors and Conditional Diffusion Model",
             "Authors": [
-                "Zhimin Yuan",
-                "Wankang Zeng",
-                "Yanfei Su",
-                "Weiquan Liu",
-                "Ming Cheng",
-                "Yulan Guo",
-                "Cheng Wang"
+                "Runmin Dong",
+                "Shuai Yuan",
+                "Bin Luo",
+                "Mengxuan Chen",
+                "Jinxiao Zhang",
+                "Lixian Zhang",
+                "Weijia Li",
+                "Juepeng Zheng",
+                "Haohuan Fu"
             ]
         },
         {
-            "Title": "HIMap: HybrId Representation Learning for End-to-end Vectorized HD Map Construction",
+            "Title": "Gaussian Shading: Provable Performance-Lossless Image Watermarking for Diffusion Models",
             "Authors": [
-                "Yi ZHOU",
-                "Hui Zhang",
-                "Jiaqian Yu",
-                "Yifan Yang",
-                "Sangil Jung",
-                "Seung-In Park",
-                "ByungIn Yoo"
+                "Zijin Yang",
+                "Kai Zeng",
+                "Kejiang Chen",
+                "Han Fang",
+                "Weiming Zhang",
+                "Nenghai Yu"
             ]
         },
         {
-            "Title": "LTA-PCS: Learnable Task-Agnostic Point Cloud Sampling",
+            "Title": "PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection",
             "Authors": [
-                "Jiaheng Liu",
-                "Jianhao Li",
-                "Kaisiyuan Wang",
-                "Hongcheng Guo",
-                "Jian Yang",
-                "Junran Peng",
-                "Ke Xu",
-                "Xianglong Liu",
-                "Jinyang Guo"
-            ]
-        },
-        {
-            "Title": "Traceable Federated Continual Learning",
-            "Authors": [
-                "Qiang Wang",
-                "Bingyan Liu",
-                "Yawen Li"
-            ]
-        },
-        {
-            "Title": "EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling",
-            "Authors": [
-                "Haiyang Liu",
-                "Zihao Zhu",
-                "Giorgio Becherini",
-                "YICHEN PENG",
-                "Mingyang Su",
-                "YOU ZHOU",
-                "Xuefei Zhe",
-                "Naoya Iwamoto",
-                "Bo Zheng",
-                "Michael J. Black"
-            ]
-        },
-        {
-            "Title": "Binarized Low-light Raw Video Enhancement",
-            "Authors": [
-                "Gengchen Zhang",
-                "Yulun Zhang",
-                "Xin Yuan",
-                "Ying Fu"
-            ]
-        },
-        {
-            "Title": "FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio",
-            "Authors": [
-                "Chao Xu",
-                "Yang Liu",
-                "Jiazheng Xing",
-                "Weida Wang",
-                "Mingze Sun",
-                "Jun Dan",
-                "Tianxin Huang",
-                "Siyuan Li",
-                "Zhi-Qi Cheng",
-                "Ying Tai",
-                "Baigui Sun"
-            ]
-        },
-        {
-            "Title": "StegoGAN: Leveraging Steganography for Non-Bijective Image-to-Image Translation",
-            "Authors": [
-                "Sidi Wu",
-                "Yizi Chen",
-                "Loic Landrieu",
-                "Nicolas Gonthier",
-                "Samuel Mermet",
-                "Lorenz Hurni",
-                "Konrad Schindler"
-            ]
-        },
-        {
-            "Title": "Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation",
-            "Authors": [
-                "Luca Barsellotti",
-                "Roberto Amoroso",
-                "Marcella Cornia",
-                "Lorenzo Baraldi",
-                "Rita Cucchiara"
-            ]
-        },
-        {
-            "Title": "Real Acoustic Fields: An Audio-Visual Room Acoustics Dataset and Benchmark",
-            "Authors": [
-                "Ziyang Chen",
-                "Israel D. Gebru",
-                "Christian Richardt",
-                "Anurag Kumar",
-                "William Laney",
-                "Andrew Owens",
-                "Alexander Richard"
-            ]
-        },
-        {
-            "Title": "Towards Effective Usage of Human-Centric Priors in Diffusion Models for Text-based Human Image Generation",
-            "Authors": [
-                "Junyan Wang",
-                "Zhenhong Sun",
-                "Stewart Tan",
-                "Xuanbai Chen",
-                "Weihua Chen",
-                "li",
-                "Cheng Zhang",
-                "Yang Song"
-            ]
-        },
-        {
-            "Title": "From SAM to CAMs: Exploring Segment Anything Model for Weakly Supervised Semantic Segmentation",
-            "Authors": [
-                "Hyeokjun Kweon",
-                "Kuk-Jin Yoon"
-            ]
-        },
-        {
-            "Title": "Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding",
-            "Authors": [
-                "Jin-Chuan Shi",
-                "Miao Wang",
-                "Haobin Duan",
-                "Shaohua Guan"
-            ]
-        },
-        {
-            "Title": "Hybrid Proposal Refiner: Revisiting DETR Series from the Faster R-CNN Perspective",
-            "Authors": [
-                "Jinjing Zhao",
-                "Fangyun Wei",
-                "Chang Xu"
+                "Xiaofan Li",
+                "Zhizhong Zhang",
+                "Xin Tan",
+                "Yanyun Qu",
+                "Chengwei Chen",
+                "Yuan Xie",
+                "Lizhuang Ma"
             ]
         },
         {
@@ -28655,97 +28529,49 @@
             ]
         },
         {
-            "Title": "Tyche: Stochastic In-Context Learning for Medical Image Segmentation",
+            "Title": "SVGDreamer: Text Guided SVG Generation with Diffusion Model",
             "Authors": [
-                "Marianne Rakic",
-                "Hallee Wong",
-                "Jose Javier Gonzalez Ortiz",
-                "Beth Cimini",
-                "John Guttag",
-                "Adrian V. Dalca"
+                "XiMing Xing",
+                "Chuang Wang",
+                "Haitao Zhou",
+                "Jing Zhang",
+                "Dong Xu",
+                "Qian Yu"
             ]
         },
         {
-            "Title": "How Far Can We Compress Instant-NGP-Based NeRF?",
+            "Title": "Unbiased Faster R-CNN for Single-source Domain Generalized Object Detection",
             "Authors": [
-                "Yihang Chen",
-                "Qianyi Wu",
-                "Mehrtash Harandi",
-                "Jianfei Cai"
+                "Yajing Liu",
+                "Shijun Zhou",
+                "Xiyao Liu",
+                "chunhui Hao",
+                "Baojie Fan",
+                "Jiandong Tian"
             ]
         },
         {
-            "Title": "CAD-SIGNet: CAD Language Inference from Point Clouds using Layer-wise Sketch Instance Guided Attention",
+            "Title": "Learning to Remove Wrinkled Transparent Film with Polarized Prior",
             "Authors": [
-                "Mohammad Sadil Khan",
-                "Elona Dupont",
-                "Sk Aziz Ali",
-                "Kseniya Cherenkova",
-                "Anis Kacem",
-                "Djamila Aouada"
+                "Jiaqi Tang",
+                "RUIZHENG WU",
+                "Xiaogang Xu",
+                "Sixing Hu",
+                "Ying-Cong Chen"
             ]
         },
         {
-            "Title": "LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection",
+            "Title": "GeneAvatar: Generic Expression-Aware Volumetric Head Avatar Editing from a Single Image",
             "Authors": [
-                "Dat NGUYEN",
-                "Nesryne Mejri",
-                "Inder Pal Singh",
-                "Polina Kuleshova",
-                "Marcella Astrid",
-                "Anis Kacem",
-                "Enjie Ghorbel",
-                "Djamila Aouada"
-            ]
-        },
-        {
-            "Title": "SHiNe: Semantic Hierarchy Nexus for Open-vocabulary Object Detection",
-            "Authors": [
-                "Mingxuan Liu",
-                "Tyler Hayes",
-                "Elisa Ricci",
-                "Gabriela Csurka",
-                "Riccardo Volpi"
-            ]
-        },
-        {
-            "Title": "IPoD: Implicit Field Learning with Point Diffusion for Generalizable 3D Object Reconstruction from Single RGB-D Images",
-            "Authors": [
-                "Yushuang Wu",
-                "Luyue Shi",
-                "Junhao Cai",
-                "Weihao Yuan",
-                "Lingteng Qiu",
-                "Zilong Dong",
-                "Liefeng Bo",
-                "Shuguang Cui",
-                "Xiaoguang Han"
-            ]
-        },
-        {
-            "Title": "Normalizing Flows on the Product Space of SO(3) Manifolds for Probabilistic Human Pose Modeling",
-            "Authors": [
-                "Olaf Dünkel",
-                "Tim Salzmann",
-                "Florian Pfaff"
-            ]
-        },
-        {
-            "Title": "The Devil is in the Details: StyleFeatureEditor for Detail-Rich StyleGAN Inversion and High Quality Image Editing",
-            "Authors": [
-                "Denis Bobkov",
-                "Vadim Titov",
-                "Aibek Alanov",
-                "Dmitry Vetrov"
-            ]
-        },
-        {
-            "Title": "Adaptive Random Feature Regularization on Fine-tuning Deep Neural Networks",
-            "Authors": [
-                "Shin&#x27;ya Yamaguchi",
-                "Sekitoshi Kanai",
-                "Kazuki Adachi",
-                "Daiki Chijiwa"
+                "Chong Bao",
+                "Yinda Zhang",
+                "Yuan Li",
+                "Xiyu Zhang",
+                "Bangbang Yang",
+                "Hujun Bao",
+                "Marc Pollefeys",
+                "Guofeng Zhang",
+                "Zhaopeng Cui"
             ]
         },
         {
@@ -28870,6 +28696,180 @@
                 "Xingao Li",
                 "Changxing Ding",
                 "Xiangmin Xu"
+            ]
+        },
+        {
+            "Title": "Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous and Instruction-guided Driving",
+            "Authors": [
+                "Brian Yang",
+                "Huangyuan Su",
+                "Nikolaos Gkanatsios",
+                "Tsung-Wei Ke",
+                "Ayush Jain",
+                "Jeff Schneider",
+                "Katerina Fragkiadaki"
+            ]
+        },
+        {
+            "Title": "ConTex-Human: Free-View Rendering of Human from a Single Image with Texture-Consistent Synthesis",
+            "Authors": [
+                "Xiangjun Gao",
+                "Xiaoyu Li",
+                "Chaopeng Zhang",
+                "Qi Zhang",
+                "Yan-Pei Cao",
+                "Ying Shan",
+                "Long Quan"
+            ]
+        },
+        {
+            "Title": "Structured Model Probing: Empowering Efficient Transfer Learning by Structured Regularization",
+            "Authors": [
+                "Zhi-Fan Wu",
+                "Chaojie Mao",
+                "Xue Wang",
+                "Jianwen Jiang",
+                "Yiliang Lv",
+                "Rong Jin"
+            ]
+        },
+        {
+            "Title": "CRKD: Enhanced Camera-Radar Object Detection with Cross-modality Knowledge Distillation",
+            "Authors": [
+                "Lingjun Zhao",
+                "Jingyu Song",
+                "Katherine Skinner"
+            ]
+        },
+        {
+            "Title": "Instance-aware Contrastive Learning for Occluded Human Mesh Reconstruction",
+            "Authors": [
+                "Mi-Gyeong Gwon",
+                "Gi-Mun Um",
+                "Won-Sik Cheong",
+                "Wonjun Kim"
+            ]
+        },
+        {
+            "Title": "InstructDiffusion: A Generalist Modeling Interface for Vision Tasks",
+            "Authors": [
+                "Zigang Geng",
+                "Binxin Yang",
+                "Tiankai Hang",
+                "Chen Li",
+                "Shuyang Gu",
+                "Ting Zhang",
+                "Jianmin Bao",
+                "Zheng Zhang",
+                "Houqiang Li",
+                "Han Hu",
+                "Dong Chen",
+                "Baining Guo"
+            ]
+        },
+        {
+            "Title": "BrainWash: A Poisoning Attack to Forget in Continual Learning",
+            "Authors": [
+                "Ali Abbasi",
+                "Parsa Nooralinejad",
+                "Hamed Pirsiavash",
+                "Soheil Kolouri"
+            ]
+        },
+        {
+            "Title": "SurroundSDF: Implicit 3D Scene Understanding Based on Signed Distance Field",
+            "Authors": [
+                "Lizhe Liu",
+                "Bohua Wang",
+                "Hongwei Xie",
+                "Daqi Liu",
+                "Li Liu",
+                "Kuiyuan Yang",
+                "Bing Wang",
+                "Zhiqiang Tian"
+            ]
+        },
+        {
+            "Title": "WALT3D: Generating Realistic Training Data from Time-Lapse Imagery for Reconstructing Dynamic Objects Under Occlusion",
+            "Authors": [
+                "Khiem Vuong",
+                "N. Dinesh Reddy",
+                "Robert Tamburo",
+                "Srinivasa G. Narasimhan"
+            ]
+        },
+        {
+            "Title": "Data Valuation and Detections in Federated Learning",
+            "Authors": [
+                "Wenqian Li",
+                "Shuran Fu",
+                "Fengrui Zhang",
+                "Yan Pang"
+            ]
+        },
+        {
+            "Title": "MLIP: Enhancing Medical Visual Representation with Divergence Encoder and Knowledge-guided Contrastive Learning",
+            "Authors": [
+                "Zhe Li",
+                "Laurence Yang",
+                "Bocheng Ren",
+                "Xin Nie",
+                "Zhangyang Gao",
+                "Cheng Tan",
+                "Stan Z. Li"
+            ]
+        },
+        {
+            "Title": "Making Visual Sense of Oracle Bones for You and Me",
+            "Authors": [
+                "Runqi Qiao",
+                "LAN YANG",
+                "Kaiyue Pang",
+                "Honggang Zhang"
+            ]
+        },
+        {
+            "Title": "S2MAE: A Spatial-Spectral Pretraining Foundation Model for Spectral Remote Sensing Data",
+            "Authors": [
+                "Xuyang Li",
+                "Danfeng Hong",
+                "Jocelyn Chanussot"
+            ]
+        },
+        {
+            "Title": "ProTeCt: Prompt Tuning for Taxonomic Open Set Classification",
+            "Authors": [
+                "Tz-Ying Wu",
+                "Chih-Hui Ho",
+                "Nuno Vasconcelos"
+            ]
+        },
+        {
+            "Title": "UnO: Unsupervised Occupancy Fields for Perception and Forecasting",
+            "Authors": [
+                "Ben Agro",
+                "Quinlan Sykora",
+                "Sergio Casas",
+                "Thomas Gilles",
+                "Raquel Urtasun"
+            ]
+        },
+        {
+            "Title": "Active Open-Vocabulary Recognition: Let Intelligent Moving Mitigate CLIP Limitations",
+            "Authors": [
+                "Lei Fan",
+                "Jianxiong Zhou",
+                "Xiaoying Xing",
+                "Ying Wu"
+            ]
+        },
+        {
+            "Title": "Mosaic-SDF for 3D Generative Models",
+            "Authors": [
+                "Lior Yariv",
+                "Omri Puny",
+                "Oran Gafni",
+                "Yaron Lipman"
             ]
         }
     ]
