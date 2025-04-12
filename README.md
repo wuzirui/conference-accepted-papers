@@ -6,8 +6,9 @@ We publish all the recorded conference in /index.html, with each record a link t
 ```JSON
 {
     "Conference Name": "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
-    "Proceeding Name": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "Proceeding Name": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
     "Year": "2025",
+    "Month": "June",
     "Publisher": "IEEE",
     "Papers": [
         "Title": {
