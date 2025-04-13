@@ -134,9 +134,16 @@ def scrape_conference_papers(conference, year, days):
 
             papers.append(paper_entry)
 
-    result["Papers"] = papers
+    # Remove duplicate papers by title
+    unique_papers = {}
+    for paper in papers:
+        title = paper["Title"]
+        if title not in unique_papers:
+            unique_papers[title] = paper
 
-    print(f"Successfully processed {len(result['Papers'])} papers")
+    result["Papers"] = list(unique_papers.values())
+
+    print(f"Successfully processed {len(result['Papers'])} unique papers")
     return result
 
 
@@ -159,15 +166,34 @@ if __name__ == "__main__":
         "date_info",
         type=str,
         nargs="+",
-        help="Year, month, and days for the conference (e.g., 2020 06 16 17 18)",
+        help="Year, start month, start day, end month, and end day for the conference (e.g., 2020 10 29 11 01)",
     )
     args = parser.parse_args()
 
     year = args.date_info[0]
-    month = args.date_info[1]
-    days = args.date_info[2:]
+    start_month = args.date_info[1]
+    start_day = int(args.date_info[2])
+    end_month = args.date_info[3]
+    end_day = int(args.date_info[4])
 
-    formatted_days = [f"{year}-{month}-{day}" for day in days]
+    # Generate all days between start and end
+    import calendar
+    from datetime import date, timedelta
+
+    start_date = date(int(year), int(start_month), int(start_day))
+    end_date = date(int(year), int(end_month), int(end_day))
+
+    # Validate the days based on the calendar
+    if not (1 <= start_day <= calendar.monthrange(int(year), int(start_month))[1]):
+        raise ValueError(f"Invalid start day: {start_day} for {start_month}/{year}")
+    if not (1 <= end_day <= calendar.monthrange(int(year), int(end_month))[1]):
+        raise ValueError(f"Invalid end day: {end_day} for {end_month}/{year}")
+
+    delta = timedelta(days=1)
+    formatted_days = []
+    while start_date <= end_date:
+        formatted_days.append(start_date.strftime("%Y-%m-%d"))
+        start_date += delta
 
     start_time = time.time()
     data = scrape_conference_papers(args.conference, year, formatted_days)
