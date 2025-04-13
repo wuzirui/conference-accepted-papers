@@ -1,10 +1,12 @@
-import requests
-from bs4 import BeautifulSoup
+import argparse
 import json
 import re
 import time
 from urllib.parse import urljoin
-import argparse
+
+import requests
+from bs4 import BeautifulSoup
+
 
 def scrape_conference_papers(conference, year):
     base_urls = ["https://openaccess.thecvf.com"]
@@ -76,6 +78,11 @@ def scrape_conference_papers(conference, year):
             input_tag = form.find('input', {'name': 'query_author'})
             if input_tag and 'value' in input_tag.attrs:
                 author_name = input_tag['value'].strip()
+            else:
+                # Fallback: Extract author name from <a> tag if input_tag is None
+                author_link = form.find("a")
+                author_name = author_link.text.strip() if author_link else None
+            if author_name:
                 authors.append(author_name)
 
         # Extract bibtex information for pages, DOI, etc.
@@ -113,7 +120,7 @@ def scrape_conference_papers(conference, year):
             "DOI": doi,
             "Pages": pages
         }
-        
+
         papers.append(paper_entry)
 
     result['Papers'] = papers
